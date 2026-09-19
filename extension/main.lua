@@ -162,22 +162,28 @@ local function buildDialog(bounds)
   local SW = ROW_H - 7          -- swatch size (square)
 
   -- 搜索模式：全库扁平搜索（颜色名/游戏/风格/各级类别），结果带完整路径
+  -- 同「游戏+类别+名称」只保留一条（通用材质在多个风格里各有一份，避免刷屏）
   local function searchList()
     local q = (state.query or ""):lower()
     if q == "" then return {} end
     if state._scache and state._scache.q == q then return state._scache.list end
-    local out = {}
+    local out, seen = {}, {}
     for _, s in ipairs(DB) do
       for _, g in ipairs(s.games) do
         for _, e in ipairs(g.entries) do
           local hay = (e.name or "") .. "\n" .. (g.name or "") .. "\n" .. (s.name or "")
             .. "\n" .. (e.cat1 or "") .. "\n" .. (e.cat2 or "") .. "\n" .. (e.cat3 or "")
           if hay:lower():find(q, 1, true) then
-            out[#out + 1] = {
-              e = e,
-              path = (e.name or "") .. " · " .. (g.name or "") .. "/"
-                .. (e.cat1 or "") .. "/" .. (e.cat2 or "") .. "/" .. (e.cat3 or ""),
-            }
+            local key = (g.name or "") .. "|" .. (e.name or "") .. "|" .. (e.cat1 or "")
+              .. "|" .. (e.cat2 or "") .. "|" .. (e.cat3 or "")
+            if not seen[key] then
+              seen[key] = true
+              out[#out + 1] = {
+                e = e,
+                path = (e.name or "") .. " · " .. (g.name or "") .. "/"
+                  .. (e.cat1 or "") .. "/" .. (e.cat2 or "") .. "/" .. (e.cat3 or ""),
+              }
+            end
           end
         end
       end
