@@ -19,7 +19,7 @@
             "base": "#E4A073",
             "light": "#F2C284",
             "highlight": "#FAE2B6",
-            "shadow": "#553B5B"
+            "shadow": "#996AA4"
           }
         },
         {
@@ -33,7 +33,7 @@
             "base": "#785D42",
             "light": "#968158",
             "highlight": "#BBAE8D",
-            "shadow": "#2E2030"
+            "shadow": "#523A57"
           }
         },
         {
@@ -47,7 +47,7 @@
             "base": "#5589B6",
             "light": "#72D9DE",
             "highlight": "#B1FACD",
-            "shadow": "#352E49"
+            "shadow": "#605283"
           }
         },
         {
@@ -61,7 +61,7 @@
             "base": "#814C2D",
             "light": "#9F7340",
             "highlight": "#C6AB7F",
-            "shadow": "#2F1D33"
+            "shadow": "#55345D"
           }
         },
         {
@@ -75,7 +75,7 @@
             "base": "#5C8B3C",
             "light": "#9CAC52",
             "highlight": "#CED492",
-            "shadow": "#222338"
+            "shadow": "#3D3F64"
           }
         },
         {
@@ -89,7 +89,7 @@
             "base": "#6EA151",
             "light": "#B2C56B",
             "highlight": "#E9EFAE",
-            "shadow": "#2A2B40"
+            "shadow": "#4B4D74"
           }
         },
         {
@@ -103,7 +103,7 @@
             "base": "#8B6341",
             "light": "#AC8C58",
             "highlight": "#D4C096",
-            "shadow": "#342338"
+            "shadow": "#5E3F64"
           }
         },
         {
@@ -117,7 +117,7 @@
             "base": "#858D9B",
             "light": "#A6B9BF",
             "highlight": "#D6E8E0",
-            "shadow": "#37343E"
+            "shadow": "#645E70"
           }
         },
         {
@@ -131,7 +131,7 @@
             "base": "#815635",
             "light": "#9F7D49",
             "highlight": "#C6B186",
-            "shadow": "#301F33"
+            "shadow": "#56375D"
           }
         },
         {
@@ -145,7 +145,7 @@
             "base": "#8B4A39",
             "light": "#AC714F",
             "highlight": "#D4B28F",
-            "shadow": "#332138"
+            "shadow": "#5B3C64"
           }
         },
         {
@@ -159,7 +159,7 @@
             "base": "#8B3137",
             "light": "#AC5045",
             "highlight": "#D4A088",
-            "shadow": "#311F38"
+            "shadow": "#583864"
           }
         },
         {
@@ -173,7 +173,7 @@
             "base": "#A1ABB6",
             "light": "#C6DCDE",
             "highlight": "#EAFAF0",
-            "shadow": "#413E49"
+            "shadow": "#767083"
           }
         },
         {
@@ -187,7 +187,7 @@
             "base": "#E4B235",
             "light": "#F2DE47",
             "highlight": "#FAEC90",
-            "shadow": "#552D5B"
+            "shadow": "#9952A4"
           }
         },
         {
@@ -201,7 +201,7 @@
             "base": "#3D9BD1",
             "light": "#54F2EA",
             "highlight": "#99FAB7",
-            "shadow": "#372C54"
+            "shadow": "#635096"
           }
         },
         {
@@ -236,7 +236,7 @@
             "base": "#56B509",
             "light": "#C3DD1C",
             "highlight": "#F4FA77",
-            "shadow": "#1D1F48"
+            "shadow": "#343882"
           }
         },
         {
@@ -250,7 +250,7 @@
             "base": "#3CAB09",
             "light": "#A1D21A",
             "highlight": "#E8FA77",
-            "shadow": "#1B1D44"
+            "shadow": "#31347B"
           }
         },
         {
@@ -264,7 +264,7 @@
             "base": "#258C22",
             "light": "#69AC35",
             "highlight": "#B6D47C",
-            "shadow": "#1D1C38"
+            "shadow": "#343365"
           }
         },
         {
@@ -278,7 +278,7 @@
             "base": "#884215",
             "light": "#A96E26",
             "highlight": "#D0AD6F",
-            "shadow": "#311937"
+            "shadow": "#582D62"
           }
         },
         {
@@ -292,7 +292,7 @@
             "base": "#703713",
             "light": "#8C5D22",
             "highlight": "#B19460",
-            "shadow": "#28152D"
+            "shadow": "#492651"
           }
         },
         {
@@ -306,7 +306,7 @@
             "base": "#36A008",
             "light": "#94C419",
             "highlight": "#DCEE72",
-            "shadow": "#191B40"
+            "shadow": "#2E3073"
           }
         },
         {
@@ -320,7 +320,7 @@
             "base": "#1647C0",
             "light": "#2CB1EA",
             "highlight": "#80FAC4",
-            "shadow": "#30214D"
+            "shadow": "#563C8A"
           }
         },
         {
@@ -334,7 +334,7 @@
             "base": "#A3A3A3",
             "light": "#C8C8C8",
             "highlight": "#F2F2F2",
-            "shadow": "#403C41"
+            "shadow": "#736C75"
           }
         },
         {
@@ -348,7 +348,7 @@
             "base": "#884215",
             "light": "#A96E26",
             "highlight": "#D0AD6F",
-            "shadow": "#311937"
+            "shadow": "#582D62"
           }
         },
         {
@@ -362,7 +362,7 @@
             "base": "#CC280A",
             "light": "#F2631F",
             "highlight": "#FAB577",
-            "shadow": "#462051"
+            "shadow": "#7E3A93"
           }
         },
         {
@@ -376,7 +376,7 @@
             "base": "#2F6ECE",
             "light": "#47D2F2",
             "highlight": "#90FAC3",
-            "shadow": "#362952"
+            "shadow": "#614A94"
           }
         },
         {
@@ -404,7 +404,7 @@
             "base": "#CE5E1B",
             "light": "#F29A31",
             "highlight": "#FACE83",
-            "shadow": "#4A2452"
+            "shadow": "#854294"
           }
         },
         {
@@ -418,7 +418,7 @@
             "base": "#B0B0B0",
             "light": "#D8D8D8",
             "highlight": "#FAFAFA",
-            "shadow": "#454147"
+            "shadow": "#7C757F"
           }
         },
         {
@@ -432,7 +432,7 @@
             "base": "#FCE50D",
             "light": "#E4F21F",
             "highlight": "#FAFA77",
-            "shadow": "#5F2865"
+            "shadow": "#AB48B6"
           }
         },
         {
@@ -446,7 +446,7 @@
             "base": "#EB7B0C",
             "light": "#F2AB1F",
             "highlight": "#FAD577",
-            "shadow": "#55255E"
+            "shadow": "#9843A9"
           }
         }
       ]
@@ -467,7 +467,7 @@
             "base": "#3FAB16",
             "light": "#9ED22A",
             "highlight": "#E6FA82",
-            "shadow": "#1E1F44"
+            "shadow": "#36387B"
           }
         },
         {
@@ -481,7 +481,7 @@
             "base": "#8D5E3A",
             "light": "#AE884F",
             "highlight": "#D6BF90",
-            "shadow": "#342238"
+            "shadow": "#5E3C65"
           }
         },
         {
@@ -495,7 +495,7 @@
             "base": "#1F9231",
             "light": "#53B431",
             "highlight": "#AFDC7D",
-            "shadow": "#1E1C3A"
+            "shadow": "#363369"
           }
         },
         {
@@ -509,7 +509,7 @@
             "base": "#F4DD9A",
             "light": "#F2EBA1",
             "highlight": "#FAF4C8",
-            "shadow": "#5E4661"
+            "shadow": "#A97EAF"
           }
         },
         {
@@ -523,7 +523,7 @@
             "base": "#694291",
             "light": "#6059B3",
             "highlight": "#D599DB",
-            "shadow": "#2E243A"
+            "shadow": "#534168"
           }
         },
         {
@@ -537,7 +537,7 @@
             "base": "#E5F3FC",
             "light": "#DEF2F2",
             "highlight": "#EDFAF2",
-            "shadow": "#5B5865"
+            "shadow": "#A59EB6"
           }
         },
         {
@@ -551,7 +551,7 @@
             "base": "#868686",
             "light": "#A6A6A6",
             "highlight": "#CDCDCD",
-            "shadow": "#353136"
+            "shadow": "#5F5961"
           }
         },
         {
@@ -565,7 +565,7 @@
             "base": "#704921",
             "light": "#8C6E31",
             "highlight": "#B19D6C",
-            "shadow": "#29182D"
+            "shadow": "#4B2B51"
           }
         },
         {
@@ -579,7 +579,7 @@
             "base": "#B03328",
             "light": "#D8653E",
             "highlight": "#FABD90",
-            "shadow": "#3E2347"
+            "shadow": "#6F3F7F"
           }
         },
         {
@@ -593,7 +593,7 @@
             "base": "#CE5E1B",
             "light": "#F29A31",
             "highlight": "#FACE83",
-            "shadow": "#4A2452"
+            "shadow": "#854294"
           }
         },
         {
@@ -607,7 +607,7 @@
             "base": "#B0B0B0",
             "light": "#D8D8D8",
             "highlight": "#FAFAFA",
-            "shadow": "#454147"
+            "shadow": "#7C757F"
           }
         },
         {
@@ -621,7 +621,7 @@
             "base": "#EEC731",
             "light": "#F2EB41",
             "highlight": "#FAF18D",
-            "shadow": "#5A2E5F"
+            "shadow": "#A153AC"
           }
         },
         {
@@ -649,7 +649,7 @@
             "base": "#3C8DFC",
             "light": "#48D7F2",
             "highlight": "#91FAC1",
-            "shadow": "#423265"
+            "shadow": "#775BB6"
           }
         },
         {
@@ -663,7 +663,7 @@
             "base": "#CFE2FC",
             "light": "#CAEBF2",
             "highlight": "#E1FAED",
-            "shadow": "#585365"
+            "shadow": "#9F95B6"
           }
         }
       ]
