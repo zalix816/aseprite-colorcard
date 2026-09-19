@@ -151,14 +151,15 @@ local function buildDialog(bounds)
   local dlg = Dialog("ColorCard")
   activeDlg = dlg
 
-  -- 表格 canvas 常量（高度随当前筛选的条目数自适应，避免大片空白）
+  -- 表格 canvas 常量
   local PAD = 6
   local SEARCH = (state.tab == "search")
-  local NAME_W = SEARCH and 320 or 100
-  local COL_W = 30
+  local NAME_W = SEARCH and 320 or 140
   local HDR_H = 22
   local ROW_H = 22
   local VISIBLE = 12
+  -- 六层色块：正方形、按 outline/shade/base/light/highlight/shadow 顺序紧贴排列
+  local SW = ROW_H - 7          -- swatch size (square)
 
   -- 搜索模式：全库扁平搜索（颜色名/游戏/风格/各级类别），结果带完整路径
   local function searchList()
@@ -204,8 +205,9 @@ local function buildDialog(bounds)
     }
   end
 
-  local visRows = math.max(1, math.min(VISIBLE, #pageList()))
-  local CANVAS_W = PAD * 2 + NAME_W + COL_W * #ROLE_ORDER
+  -- 行数：搜索模式固定 12 行（输入关键词只重绘不重建面板，行数不能随结果变化）
+  local visRows = SEARCH and VISIBLE or math.max(1, math.min(VISIBLE, #pageList()))
+  local CANVAS_W = PAD * 2 + NAME_W + SW * #ROLE_ORDER
   local CANVAS_H = HDR_H + ROW_H * visRows + 2
 
   local function rowAt(y)
@@ -215,7 +217,7 @@ local function buildDialog(bounds)
   end
 
   local function colAt(x)
-    local col = math.floor((x - PAD - NAME_W) / COL_W) + 1
+    local col = math.floor((x - PAD - NAME_W) / SW) + 1
     if x >= PAD + NAME_W and col >= 1 and col <= #ROLE_ORDER then return col end
     return nil
   end
@@ -355,12 +357,8 @@ local function buildDialog(bounds)
       end
 
       gc.color = text
-      gc:fillText("Item", PAD, 6)
-      for i, role in ipairs(ROLE_ORDER) do
-        local s = gc:measureText(ROLE_NAMES[role])
-        local cx = PAD + NAME_W + (i - 1) * COL_W + (COL_W - s.width) / 2
-        gc:fillText(ROLE_NAMES[role], cx, 6)
-      end
+      -- 色块顺序写在表头：紧贴方块按此顺序排列
+      gc:fillText("Item(outline/shade/base/light/highlight/shadow)", PAD, 6)
 
       local start = state.page * VISIBLE
       for row = 1, visRows do
@@ -382,15 +380,15 @@ local function buildDialog(bounds)
           label = label:sub(1, n) .. "…"
         end
         gc:fillText(label, PAD, y + 6)
-        -- 六层色块
+        -- 六层色块：正方形紧贴
         for i, role in ipairs(ROLE_ORDER) do
-          local x = PAD + NAME_W + (i - 1) * COL_W
+          local x = PAD + NAME_W + (i - 1) * SW
           gc.color = hexToColor(e.colors[role])
-          gc:fillRect(Rectangle(x + 3, y + 3, COL_W - 6, ROW_H - 7))
+          gc:fillRect(Rectangle(x, y + 3, SW, SW))
           if state.hover and state.hover.row == row and state.hover.col == i then
             gc.color = Color { r = 255, g = 255, b = 255, a = 255 }
             gc.strokeWidth = 2
-            gc:strokeRect(Rectangle(x + 2, y + 2, COL_W - 4, ROW_H - 5))
+            gc:strokeRect(Rectangle(x - 1, y + 2, SW + 2, SW + 2))
             gc.strokeWidth = 1
           end
         end
