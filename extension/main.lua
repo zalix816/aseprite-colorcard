@@ -1,9 +1,10 @@
 ----------------------------------------------------------------------
--- ColorCard 游戏风格色卡 v1.1
+-- ColorCard 游戏风格色卡 v1.5
 -- 层级：风格 -> 游戏 -> 大类/中类/小类 -> 细项（每行六层色）
--- 界面：风格/游戏 下拉 + 大中小类级联下拉 + 细项色表（canvas 绘制）
+-- 界面：分类浏览（风格/游戏 下拉 + 大中小类级联）或 搜索模式（全库关键词）
+--       搜索结果行显示：颜色名称 · 游戏/大类/中类/小类 + 六层色
 -- 点击色块 = 设为前景色 + 复制 HEX
--- 需要 Aseprite >= 1.3.10
+-- 需要 Aseprite >= 1.3.6
 ----------------------------------------------------------------------
 
 local COLORCARD_PATH = nil
@@ -152,13 +153,40 @@ local function buildDialog(bounds)
 
   -- 表格 canvas 常量（高度随当前筛选的条目数自适应，避免大片空白）
   local PAD = 6
-  local NAME_W = 100
+  local SEARCH = (state.tab == "search")
+  local NAME_W = SEARCH and 320 or 100
   local COL_W = 30
   local HDR_H = 22
   local ROW_H = 22
   local VISIBLE = 12
 
+  -- 搜索模式：全库扁平搜索（颜色名/游戏/风格/各级类别），结果带完整路径
+  local function searchList()
+    local q = (state.query or ""):lower()
+    if q == "" then return {} end
+    if state._scache and state._scache.q == q then return state._scache.list end
+    local out = {}
+    for _, s in ipairs(DB) do
+      for _, g in ipairs(s.games) do
+        for _, e in ipairs(g.entries) do
+          local hay = (e.name or "") .. "\n" .. (g.name or "") .. "\n" .. (s.name or "")
+            .. "\n" .. (e.cat1 or "") .. "\n" .. (e.cat2 or "") .. "\n" .. (e.cat3 or "")
+          if hay:lower():find(q, 1, true) then
+            out[#out + 1] = {
+              e = e,
+              path = (e.name or "") .. " · " .. (g.name or "") .. "/"
+                .. (e.cat1 or "") .. "/" .. (e.cat2 or "") .. "/" .. (e.cat3 or ""),
+            }
+          end
+        end
+      end
+    end
+    state._scache = { q = q, list = out }
+    return out
+  end
+
   local function pageList()
+    if SEARCH then return searchList() end
     return filterEntries(game)
   end
 
@@ -166,6 +194,14 @@ local function buildDialog(bounds)
     local n = math.ceil(#list / VISIBLE)
     if n < 1 then n = 1 end
     return n
+  end
+
+  local function updatePageLabel()
+    local list = pageList()
+    dlg:modify {
+      id = "pagelabel",
+      text = (state.page + 1) .. "/" .. pageCount(list) .. "p · " .. #list .. " items",
+    }
   end
 
   local visRows = math.max(1, math.min(VISIBLE, #pageList()))
@@ -184,6 +220,18 @@ local function buildDialog(bounds)
     return nil
   end
 
+  -- ---------- 模式切换（分类浏览 / 全库搜索） ----------
+  dlg:newrow()
+  dlg:button {
+    text = SEARCH and "« Back to Browse" or "🔍 Search Mode",
+    onclick = function()
+      state.tab = SEARCH and "browse" or "search"
+      state.page = 0
+      scheduleRebuild()
+    end,
+  }
+
+  if not SEARCH then
   -- ---------- 风格 / 游戏 ----------
   dlg:combobox {
     id = "style", label = "Style",
@@ -269,6 +317,20 @@ local function buildDialog(bounds)
     end,
   }
 
+  else
+  -- ---------- 搜索框 ----------
+  dlg:entry {
+    id = "search", label = "Search",
+    text = state.query or "",
+    onchange = function()
+      state.query = dlg.data["search"] or ""
+      state.page = 0
+      updatePageLabel()
+      dlg:repaint()
+    end,
+  }
+  end
+
   -- ---------- 细项色表 ----------
   dlg:canvas {
     id = "table",
@@ -280,6 +342,18 @@ local function buildDialog(bounds)
       local text = app.theme.color["text"]
       local faint = app.theme.color["disabled"]
 
+      -- 搜索模式提示
+      if SEARCH and (state.query or "") == "" then
+        gc.color = faint
+        gc:fillText("Search by item name / game / category", PAD, HDR_H + 8)
+        return
+      end
+      if SEARCH and #list == 0 then
+        gc.color = faint
+        gc:fillText("No matches", PAD, HDR_H + 8)
+        return
+      end
+
       gc.color = text
       gc:fillText("Item", PAD, 6)
       for i, role in ipairs(ROLE_ORDER) do
@@ -290,15 +364,23 @@ local function buildDialog(bounds)
 
       local start = state.page * VISIBLE
       for row = 1, visRows do
-        local e = list[start + row]
+        local item = list[start + row]
+        local e = item and (item.e or item)
         local y = HDR_H + (row - 1) * ROW_H
         if not e then break end
         -- 行分隔线
         gc.color = faint
         gc:fillRect(Rectangle(PAD, y + ROW_H - 1, CANVAS_W - PAD * 2, 1))
-        -- 名称
+        -- 名称（搜索模式显示完整路径，超宽截断）
         gc.color = text
-        local label = e.name or ""
+        local label = (SEARCH and item.path) or e.name or ""
+        if gc:measureText(label).width > NAME_W - 6 then
+          local n = #label
+          while n > 1 and gc:measureText(label:sub(1, n) .. "…").width > NAME_W - 6 do
+            n = n - 1
+          end
+          label = label:sub(1, n) .. "…"
+        end
         gc:fillText(label, PAD, y + 6)
         -- 六层色块
         for i, role in ipairs(ROLE_ORDER) do
@@ -332,7 +414,8 @@ local function buildDialog(bounds)
       if ev.button ~= MouseButton.LEFT then return end
       local row, col = rowAt(ev.y), colAt(ev.x)
       if not row or not col then return end
-      local e = pageList()[state.page * VISIBLE + row]
+      local item = pageList()[state.page * VISIBLE + row]
+      local e = item and (item.e or item)
       if not e then return end
       local role = ROLE_ORDER[col]
       local hex = e.colors[role]
@@ -340,21 +423,14 @@ local function buildDialog(bounds)
       local copied = copyText(hex)
       dlg:modify {
         id = "status",
-        text = "Picked " .. (e.name or "") .. " · " .. ROLE_NAMES[role] .. " " .. hex
+        text = "Picked " .. ((SEARCH and item.path) or e.name or "") .. " · "
+          .. ROLE_NAMES[role] .. " " .. hex
           .. (copied and " (copied)" or ""),
       }
     end,
   }
 
-  -- ---------- 翻页 / 操作（紧凑：一行放翻页三件套，一行放两个操作按钮） ----------
-  local function updatePageLabel()
-    local list = pageList()
-    dlg:modify {
-      id = "pagelabel",
-      text = (state.page + 1) .. "/" .. pageCount(list) .. "p · " .. #list .. " items",
-    }
-  end
-
+  -- ---------- 翻页 / 操作（紧凑：一行放翻页三件套，一行放操作按钮） ----------
   dlg:newrow()
   dlg:button {
     text = "‹",
@@ -379,6 +455,7 @@ local function buildDialog(bounds)
     end,
   }
 
+  if not SEARCH then
   dlg:newrow()
   dlg:button {
     text = "Copy All HEX",
@@ -420,6 +497,8 @@ local function buildDialog(bounds)
       dlg:modify { id = "status", text = "Wrote " .. i .. " colors to the sprite palette" }
     end,
   }
+
+  end
 
   dlg:label { id = "status", text = "Click swatch = set FG + copy HEX" }
 
@@ -502,7 +581,8 @@ local function openDialog()
     return
   end
   if state == nil then
-    state = { styleIdx = 1, gameIdx = 1, c1 = ALL, c2 = ALL, c3 = ALL, page = 0, hover = nil }
+    state = { styleIdx = 1, gameIdx = 1, c1 = ALL, c2 = ALL, c3 = ALL,
+              page = 0, hover = nil, tab = "browse", query = "" }
   end
   -- 数据可能已更新：钳制索引
   state.styleIdx = math.min(state.styleIdx, #DB)
