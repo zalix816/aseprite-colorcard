@@ -18,7 +18,7 @@ Built for pixel artists who struggle with color: instead of guessing how dark a 
 
 ## 📦 Install
 
-1. Download [`ColorCard-v1.2.6-en.aseprite-extension`](ColorCard-v1.2.6-en.aseprite-extension) from this repo (or from Releases)
+1. Download [`ColorCard-v1.3.0-en.aseprite-extension`](ColorCard-v1.3.0-en.aseprite-extension) from this repo (or from Releases)
 2. Double-click it, or in Aseprite: **Edit → Preferences → Extensions → Add Extension**
 3. Restart Aseprite
 4. Open via **View → ColorCard**
