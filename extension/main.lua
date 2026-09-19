@@ -318,7 +318,7 @@ local function buildDialog(bounds)
   }
 
   else
-  -- ---------- 搜索框 ----------
+  -- ---------- 搜索框（英文关键词） ----------
   dlg:entry {
     id = "search", label = "Search",
     text = state.query or "",
@@ -345,7 +345,7 @@ local function buildDialog(bounds)
       -- 搜索模式提示
       if SEARCH and (state.query or "") == "" then
         gc.color = faint
-        gc:fillText("Search by item name / game / category", PAD, HDR_H + 8)
+        gc:fillText("Search by item name / game / category (English keywords)", PAD, HDR_H + 8)
         return
       end
       if SEARCH and #list == 0 then
