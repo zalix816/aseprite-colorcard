@@ -1,0 +1,1043 @@
+{
+  "id": "gba",
+  "name": "GBA Retro",
+  "desc": "Low-saturation warm tones, GBA era / Soul Knight baseline. Purple-leaning shadows and deep purple-brown outlines. Fits 16px chibi characters and cute scenes.",
+  "games": [
+    {
+      "id": "common",
+      "name": "Generic",
+      "source": "",
+      "entries": [
+        {
+          "cat1": "Characters",
+          "cat2": "Skin",
+          "cat3": "Base Skin Tone",
+          "name": "Base Skin Tone",
+          "colors": {
+            "outline": "#261828",
+            "shade": "#8B5B5C",
+            "base": "#CCA489",
+            "light": "#F2D3A9",
+            "highlight": "#FAEACD",
+            "shadow": "#57435A"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Hair",
+          "cat3": "Brown Hair",
+          "name": "Brown Hair",
+          "colors": {
+            "outline": "#201421",
+            "shade": "#493432",
+            "base": "#6C5C4C",
+            "light": "#877B62",
+            "highlight": "#ABA38F",
+            "shadow": "#2E242F"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Cloth",
+          "cat3": "Blue Fabric",
+          "name": "Blue Fabric",
+          "colors": {
+            "outline": "#181625",
+            "shade": "#46486F",
+            "base": "#6A88A3",
+            "light": "#87C5C8",
+            "highlight": "#C4F2D6",
+            "shadow": "#353648"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Leather",
+          "cat3": "Brown Hide",
+          "name": "Brown Hide",
+          "colors": {
+            "outline": "#201422",
+            "shade": "#4E2C2E",
+            "base": "#735442",
+            "light": "#8F7557",
+            "highlight": "#B4A48A",
+            "shadow": "#302433"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Trees",
+          "cat3": "Broadleaf Tree",
+          "name": "Broadleaf Tree",
+          "colors": {
+            "outline": "#151923",
+            "shade": "#345537",
+            "base": "#617D4E",
+            "light": "#919B65",
+            "highlight": "#BEC199",
+            "shadow": "#283137"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Short Grass",
+          "name": "Short Grass",
+          "colors": {
+            "outline": "#161A24",
+            "shade": "#406245",
+            "base": "#729061",
+            "light": "#A6B17C",
+            "highlight": "#D6DAB2",
+            "shadow": "#30393F"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Mud",
+          "name": "Mud",
+          "colors": {
+            "outline": "#211523",
+            "shade": "#553736",
+            "base": "#7D6551",
+            "light": "#9B8869",
+            "highlight": "#C1B59B",
+            "shadow": "#352937"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Rocks",
+          "cat3": "Granite",
+          "name": "Granite",
+          "colors": {
+            "outline": "#181524",
+            "shade": "#54525F",
+            "base": "#7E828B",
+            "light": "#9DA8AC",
+            "highlight": "#C8D3CE",
+            "shadow": "#35343D"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Plank",
+          "name": "Plank",
+          "colors": {
+            "outline": "#201422",
+            "shade": "#4E2F2F",
+            "base": "#735A46",
+            "light": "#8F7B5C",
+            "highlight": "#B4A78E",
+            "shadow": "#312533"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Brick Wall",
+          "name": "Brick Wall",
+          "colors": {
+            "outline": "#201523",
+            "shade": "#55333A",
+            "base": "#7D564C",
+            "light": "#9B7863",
+            "highlight": "#C1AC97",
+            "shadow": "#342837"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Roof",
+          "cat3": "Terracotta",
+          "name": "Terracotta",
+          "colors": {
+            "outline": "#1F1523",
+            "shade": "#553042",
+            "base": "#7D474B",
+            "light": "#9B645E",
+            "highlight": "#C1A293",
+            "shadow": "#322737"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Ironwork",
+          "cat3": "Iron",
+          "name": "Iron",
+          "colors": {
+            "outline": "#191625",
+            "shade": "#62626F",
+            "base": "#969DA3",
+            "light": "#BAC7C8",
+            "highlight": "#E8F2EC",
+            "shadow": "#3E3E48"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Gold",
+          "cat3": "Gold",
+          "name": "Gold",
+          "colors": {
+            "outline": "#271828",
+            "shade": "#8B5944",
+            "base": "#CCAE64",
+            "light": "#F2E581",
+            "highlight": "#FAF1B4",
+            "shadow": "#583C5A"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Lake",
+          "name": "Lake",
+          "colors": {
+            "outline": "#191727",
+            "shade": "#434B7F",
+            "base": "#639BBB",
+            "light": "#82E4DF",
+            "highlight": "#BAFACE",
+            "shadow": "#393A52"
+          }
+        },
+        {
+          "cat1": "Effects",
+          "cat2": "Fire",
+          "cat3": "Fire",
+          "name": "Fire",
+          "colors": {
+            "outline": "#30110E",
+            "shade": "#A13643",
+            "base": "#E99042",
+            "light": "#FCBC0A",
+            "highlight": "#FCE758",
+            "shadow": "#601D1B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pmrs",
+      "name": "Pokémon Ruby/Sapphire",
+      "source": "Official exterior tileset palette, 56 colors (pret/pokeruby decomp, via Lospec)",
+      "entries": [
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Trimmed Grass",
+          "name": "Trimmed Grass",
+          "colors": {
+            "outline": "#151823",
+            "shade": "#2C593E",
+            "base": "#478341",
+            "light": "#7DA257",
+            "highlight": "#B8C891",
+            "shadow": "#273039"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Tall Grass",
+          "name": "Tall Grass",
+          "colors": {
+            "outline": "#171C27",
+            "shade": "#4B7E54",
+            "base": "#89B971",
+            "light": "#CEE291",
+            "highlight": "#F3FAC4",
+            "shadow": "#3B4851"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Flower Bush",
+          "name": "Flower Bush",
+          "colors": {
+            "outline": "#231827",
+            "shade": "#833E63",
+            "base": "#C15A67",
+            "light": "#EB7D78",
+            "highlight": "#FAC5B1",
+            "shadow": "#4C3855"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Trees",
+          "cat3": "Broadleaf Tree",
+          "name": "Broadleaf Tree",
+          "colors": {
+            "outline": "#1F131E",
+            "shade": "#16380E",
+            "base": "#3B4D11",
+            "light": "#635B1C",
+            "highlight": "#837C4B",
+            "shadow": "#162329"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Trees",
+          "cat3": "Palm Tree",
+          "name": "Palm Tree",
+          "colors": {
+            "outline": "#161725",
+            "shade": "#256369",
+            "base": "#349A70",
+            "light": "#49BE5D",
+            "highlight": "#A6E792",
+            "shadow": "#293044"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Shallow Sea",
+          "name": "Shallow Sea",
+          "colors": {
+            "outline": "#1A1727",
+            "shade": "#44447E",
+            "base": "#658FB9",
+            "light": "#83DAE2",
+            "highlight": "#BBFAD5",
+            "shadow": "#393951"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Deep Sea",
+          "name": "Deep Sea",
+          "colors": {
+            "outline": "#15131F",
+            "shade": "#201938",
+            "base": "#232F4D",
+            "light": "#315463",
+            "highlight": "#5B8371",
+            "shadow": "#1B1B29"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Shoal",
+          "name": "Shoal",
+          "colors": {
+            "outline": "#1B192A",
+            "shade": "#5B5F9D",
+            "base": "#87BDE7",
+            "light": "#96F1F2",
+            "highlight": "#C1FAD6",
+            "shadow": "#494966"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Sand",
+          "name": "Sand",
+          "colors": {
+            "outline": "#291A2B",
+            "shade": "#A37A79",
+            "base": "#F0D1B9",
+            "light": "#F2DEBF",
+            "highlight": "#FAF0DA",
+            "shadow": "#675469"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Volcanic Rock",
+          "name": "Volcanic Rock",
+          "colors": {
+            "outline": "#1F1422",
+            "shade": "#4F313D",
+            "base": "#744949",
+            "light": "#90675F",
+            "highlight": "#B59E90",
+            "shadow": "#2F2533"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Rocks",
+          "cat3": "Mountain Rock",
+          "name": "Mountain Rock",
+          "colors": {
+            "outline": "#191523",
+            "shade": "#555159",
+            "base": "#7D7D83",
+            "light": "#9B9EA2",
+            "highlight": "#C4C8C7",
+            "shadow": "#343339"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Wood Wall",
+          "name": "Wood Wall",
+          "colors": {
+            "outline": "#221625",
+            "shade": "#69424E",
+            "base": "#9A6A64",
+            "light": "#BE9180",
+            "highlight": "#E7CEBA",
+            "shadow": "#403244"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "White Wall",
+          "name": "White Wall",
+          "colors": {
+            "outline": "#1B192A",
+            "shade": "#898998",
+            "base": "#D4DAE0",
+            "light": "#E7F1F2",
+            "highlight": "#F3FAF6",
+            "shadow": "#565662"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Roof",
+          "cat3": "Red Tiles",
+          "name": "Red Tiles",
+          "colors": {
+            "outline": "#231727",
+            "shade": "#7E3C58",
+            "base": "#B95858",
+            "light": "#E28875",
+            "highlight": "#FACCB2",
+            "shadow": "#4A3651"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Roof",
+          "cat3": "Blue Tiles",
+          "name": "Blue Tiles",
+          "colors": {
+            "outline": "#191625",
+            "shade": "#413C6E",
+            "base": "#5A78A2",
+            "light": "#75B9C6",
+            "highlight": "#B6F1D1",
+            "shadow": "#323247"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Skin",
+          "cat3": "Light Skin",
+          "name": "Light Skin",
+          "colors": {
+            "outline": "#27192A",
+            "shade": "#988286",
+            "base": "#E0CDC8",
+            "light": "#F2E4DA",
+            "highlight": "#FAF3EB",
+            "shadow": "#605462"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Skin",
+          "cat3": "Wheat Skin",
+          "name": "Wheat Skin",
+          "colors": {
+            "outline": "#261828",
+            "shade": "#8E575D",
+            "base": "#D19A82",
+            "light": "#F2C69E",
+            "highlight": "#FAE4C6",
+            "shadow": "#58435C"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Cloth",
+          "cat3": "Red Garment",
+          "name": "Red Garment",
+          "colors": {
+            "outline": "#231727",
+            "shade": "#7E3C58",
+            "base": "#B95858",
+            "light": "#E28875",
+            "highlight": "#FACCB2",
+            "shadow": "#4A3651"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Cloth",
+          "cat3": "Blue Garment",
+          "name": "Blue Garment",
+          "colors": {
+            "outline": "#191625",
+            "shade": "#413C6E",
+            "base": "#5A78A2",
+            "light": "#75B9C6",
+            "highlight": "#B6F1D1",
+            "shadow": "#323247"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Cloth",
+          "cat3": "Yellow Garment",
+          "name": "Yellow Garment",
+          "colors": {
+            "outline": "#281828",
+            "shade": "#8E715E",
+            "base": "#D1C48E",
+            "light": "#F2F1AB",
+            "highlight": "#FAF7CE",
+            "shadow": "#5B455C"
+          }
+        },
+        {
+          "cat1": "Props",
+          "cat2": "Wood",
+          "cat3": "Plank",
+          "name": "Plank",
+          "colors": {
+            "outline": "#251726",
+            "shade": "#795346",
+            "base": "#B29969",
+            "light": "#D9CC88",
+            "highlight": "#FAF1C2",
+            "shadow": "#4D384E"
+          }
+        },
+        {
+          "cat1": "Effects",
+          "cat2": "Splash",
+          "cat3": "Foam",
+          "name": "Foam",
+          "colors": {
+            "outline": "#1A1F2B",
+            "shade": "#63A36A",
+            "base": "#B9F095",
+            "light": "#E2F29E",
+            "highlight": "#F6FAC6",
+            "shadow": "#4D5D69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "soulknight",
+      "name": "Soul Knight",
+      "source": "Soul Knight visual baseline + Endesga 32 (skin/metal ranges)",
+      "entries": [
+        {
+          "cat1": "Characters",
+          "cat2": "Skin",
+          "cat3": "Light Skin",
+          "name": "Light Skin",
+          "colors": {
+            "outline": "#271929",
+            "shade": "#946869",
+            "base": "#DAB69E",
+            "light": "#F2D8B5",
+            "highlight": "#FAEDD4",
+            "shadow": "#5D4A60"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Skin",
+          "cat3": "Dark Skin",
+          "name": "Dark Skin",
+          "colors": {
+            "outline": "#241727",
+            "shade": "#7C4E53",
+            "base": "#B68A75",
+            "light": "#DFB995",
+            "highlight": "#FAE6C9",
+            "shadow": "#4D3B50"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Hair",
+          "cat3": "Black Hair",
+          "name": "Black Hair",
+          "colors": {
+            "outline": "#1A121E",
+            "shade": "#382736",
+            "base": "#3A2931",
+            "light": "#4C383E",
+            "highlight": "#6A5A59",
+            "shadow": "#251F29"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Hair",
+          "cat3": "Blond Hair",
+          "name": "Blond Hair",
+          "colors": {
+            "outline": "#291A2B",
+            "shade": "#A25240",
+            "base": "#EFB45B",
+            "light": "#F2D368",
+            "highlight": "#FAE8A5",
+            "shadow": "#664169"
+          }
+        },
+        {
+          "cat1": "Monsters",
+          "cat2": "Slime",
+          "cat3": "Green",
+          "name": "Green Slime",
+          "colors": {
+            "outline": "#171C27",
+            "shade": "#427F56",
+            "base": "#72BB62",
+            "light": "#BCE480",
+            "highlight": "#EBFAB8",
+            "shadow": "#384652"
+          }
+        },
+        {
+          "cat1": "Monsters",
+          "cat2": "Slime",
+          "cat3": "Frost",
+          "name": "Frost Slime",
+          "colors": {
+            "outline": "#1A192A",
+            "shade": "#3B659D",
+            "base": "#53DDE6",
+            "light": "#64F2C0",
+            "highlight": "#A2FAAB",
+            "shadow": "#3E4465"
+          }
+        },
+        {
+          "cat1": "Monsters",
+          "cat2": "Skeleton",
+          "cat3": "Bone White",
+          "name": "Skeleton",
+          "colors": {
+            "outline": "#281929",
+            "shade": "#967A71",
+            "base": "#DCCCAD",
+            "light": "#F2EAC3",
+            "highlight": "#FAF5DD",
+            "shadow": "#604E61"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Steel",
+          "cat3": "Steel",
+          "name": "Steel",
+          "colors": {
+            "outline": "#191726",
+            "shade": "#5E5B73",
+            "base": "#8B97A9",
+            "light": "#ADC9CF",
+            "highlight": "#E1FAED",
+            "shadow": "#3D3D4A"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Steel",
+          "cat3": "Polished Silver",
+          "name": "Polished Silver",
+          "colors": {
+            "outline": "#1B1828",
+            "shade": "#7B798D",
+            "base": "#BAC2CF",
+            "light": "#DCEEF2",
+            "highlight": "#ECFAF3",
+            "shadow": "#4E4E5B"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Gold",
+          "cat3": "Gold",
+          "name": "Gold",
+          "colors": {
+            "outline": "#291A2B",
+            "shade": "#A25240",
+            "base": "#EFB45B",
+            "light": "#F2D368",
+            "highlight": "#FAE8A5",
+            "shadow": "#664169"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Blade",
+          "name": "Blade",
+          "colors": {
+            "outline": "#1B1828",
+            "shade": "#7B798D",
+            "base": "#BAC2CF",
+            "light": "#DCEEF2",
+            "highlight": "#ECFAF3",
+            "shadow": "#4E4E5B"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Hilt",
+          "name": "Hilt",
+          "colors": {
+            "outline": "#241726",
+            "shade": "#764147",
+            "base": "#AD7761",
+            "light": "#D4A67E",
+            "highlight": "#FAE0BD",
+            "shadow": "#48354C"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Dungeon Brick",
+          "name": "Dungeon Brick",
+          "colors": {
+            "outline": "#161421",
+            "shade": "#302A41",
+            "base": "#404760",
+            "light": "#536B79",
+            "highlight": "#7F9B90",
+            "shadow": "#20202A"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Stone Brick",
+          "name": "Stone Brick",
+          "colors": {
+            "outline": "#181523",
+            "shade": "#423E57",
+            "base": "#5E6980",
+            "light": "#78959F",
+            "highlight": "#A8C5B7",
+            "shadow": "#2C2C38"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Groundwater",
+          "name": "Groundwater",
+          "colors": {
+            "outline": "#12121E",
+            "shade": "#1E2A38",
+            "base": "#1F393A",
+            "light": "#2C4C41",
+            "highlight": "#4F6A52",
+            "shadow": "#1C1E29"
+          }
+        },
+        {
+          "cat1": "Effects",
+          "cat2": "Fire",
+          "cat3": "Fire",
+          "name": "Fire",
+          "colors": {
+            "outline": "#30110E",
+            "shade": "#A13643",
+            "base": "#E99042",
+            "light": "#FCBC0A",
+            "highlight": "#FCE758",
+            "shadow": "#601D1B"
+          }
+        },
+        {
+          "cat1": "Effects",
+          "cat2": "Magic",
+          "cat3": "Arcane Purple",
+          "name": "Arcane Purple",
+          "colors": {
+            "outline": "#1A1421",
+            "shade": "#452A3A",
+            "base": "#633F66",
+            "light": "#6A537F",
+            "highlight": "#A3819C",
+            "shadow": "#26212D"
+          }
+        },
+        {
+          "cat1": "Effects",
+          "cat2": "Toxin",
+          "cat3": "Venom",
+          "name": "Venom",
+          "colors": {
+            "outline": "#131420",
+            "shade": "#203A3B",
+            "base": "#2F5643",
+            "light": "#3F6E44",
+            "highlight": "#758F6B",
+            "shadow": "#1C2029"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fireemblem",
+      "name": "Fire Emblem",
+      "source": "GBA tactics armor/cloak conventions, anchored on Endesga 32",
+      "entries": [
+        {
+          "cat1": "Clothing",
+          "cat2": "Mail",
+          "cat3": "Iron Armor",
+          "name": "Iron Armor",
+          "colors": {
+            "outline": "#191726",
+            "shade": "#5E5B73",
+            "base": "#8B97A9",
+            "light": "#ADC9CF",
+            "highlight": "#E1FAED",
+            "shadow": "#3D3D4A"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Mail",
+          "cat3": "Steel Armor",
+          "name": "Steel Armor",
+          "colors": {
+            "outline": "#181523",
+            "shade": "#423E57",
+            "base": "#5E6980",
+            "light": "#78959F",
+            "highlight": "#A8C5B7",
+            "shadow": "#2C2C38"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Mail",
+          "cat3": "General Purple",
+          "name": "General Purple Armor",
+          "colors": {
+            "outline": "#161421",
+            "shade": "#302A41",
+            "base": "#404760",
+            "light": "#536B79",
+            "highlight": "#7F9B90",
+            "shadow": "#20202A"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Cloth",
+          "cat3": "Lordly Blue",
+          "name": "Lordly Blue",
+          "colors": {
+            "outline": "#171523",
+            "shade": "#1E1E58",
+            "base": "#2A5681",
+            "light": "#3C98A0",
+            "highlight": "#7CC69A",
+            "shadow": "#222239"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Cloth",
+          "cat3": "Priest White",
+          "name": "Priest White",
+          "colors": {
+            "outline": "#281929",
+            "shade": "#967A71",
+            "base": "#DCCCAD",
+            "light": "#F2EAC3",
+            "highlight": "#FAF5DD",
+            "shadow": "#604E61"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Cloaks",
+          "cat3": "Crimson",
+          "name": "Crimson Cloak",
+          "colors": {
+            "outline": "#211625",
+            "shade": "#682B4A",
+            "base": "#983D47",
+            "light": "#BB5B54",
+            "highlight": "#E5B09A",
+            "shadow": "#3C2A43"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Cloaks",
+          "cat3": "Emerald",
+          "name": "Emerald Cloak",
+          "colors": {
+            "outline": "#151823",
+            "shade": "#32584A",
+            "base": "#4A8151",
+            "light": "#73A061",
+            "highlight": "#B1C698",
+            "shadow": "#282F39"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Hair",
+          "cat3": "Blond Hair",
+          "name": "Blond Hair",
+          "colors": {
+            "outline": "#2A1A2B",
+            "shade": "#A27654",
+            "base": "#EFDE7C",
+            "light": "#F0F287",
+            "highlight": "#FAF8B8",
+            "shadow": "#694869"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Hair",
+          "cat3": "Silver Hair",
+          "name": "Silver Hair",
+          "colors": {
+            "outline": "#1B1828",
+            "shade": "#7B798D",
+            "base": "#BAC2CF",
+            "light": "#DCEEF2",
+            "highlight": "#ECFAF3",
+            "shadow": "#4E4E5B"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Hair",
+          "cat3": "Red Hair",
+          "name": "Red Hair",
+          "colors": {
+            "outline": "#241726",
+            "shade": "#793343",
+            "base": "#B35E4A",
+            "light": "#DA8E64",
+            "highlight": "#FAD1A9",
+            "shadow": "#49324F"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Blade",
+          "name": "Blade",
+          "colors": {
+            "outline": "#1B1828",
+            "shade": "#7B798D",
+            "base": "#BAC2CF",
+            "light": "#DCEEF2",
+            "highlight": "#ECFAF3",
+            "shadow": "#4E4E5B"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Hilt",
+          "name": "Hilt",
+          "colors": {
+            "outline": "#1F1421",
+            "shade": "#4A2C36",
+            "base": "#6C4542",
+            "light": "#876356",
+            "highlight": "#AB9686",
+            "shadow": "#2C2230"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Polearm",
+          "cat3": "Pole Shaft",
+          "name": "Pole Shaft",
+          "colors": {
+            "outline": "#241726",
+            "shade": "#764147",
+            "base": "#AD7761",
+            "light": "#D4A67E",
+            "highlight": "#FAE0BD",
+            "shadow": "#48354C"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Axe",
+          "cat3": "Axe Head",
+          "name": "Axe Head",
+          "colors": {
+            "outline": "#191726",
+            "shade": "#5E5B73",
+            "base": "#8B97A9",
+            "light": "#ADC9CF",
+            "highlight": "#E1FAED",
+            "shadow": "#3D3D4A"
+          }
+        },
+        {
+          "cat1": "Animals",
+          "cat2": "Horse",
+          "cat3": "Warhorse",
+          "name": "Warhorse Brown",
+          "colors": {
+            "outline": "#1F1421",
+            "shade": "#4A2C36",
+            "base": "#6C4542",
+            "light": "#876356",
+            "highlight": "#AB9686",
+            "shadow": "#2C2230"
+          }
+        },
+        {
+          "cat1": "Animals",
+          "cat2": "Drake",
+          "cat3": "Fire Drake",
+          "name": "Drake Scale",
+          "colors": {
+            "outline": "#261828",
+            "shade": "#894045",
+            "base": "#CA835E",
+            "light": "#F2B87B",
+            "highlight": "#FADDB0",
+            "shadow": "#543B59"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Plains",
+          "name": "Plains Soil",
+          "colors": {
+            "outline": "#251828",
+            "shade": "#86666A",
+            "base": "#C5A89C",
+            "light": "#F1D8C2",
+            "highlight": "#FAEEDD",
+            "shadow": "#544657"
+          }
+        }
+      ]
+    }
+  ]
+}
