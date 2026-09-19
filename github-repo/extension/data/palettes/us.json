@@ -1,0 +1,1015 @@
+{
+  "id": "us",
+  "name": "Western",
+  "desc": "Western fantasy in the style of World of Warcraft: mid-high saturation, bold and readable. Example game: World of Warcraft.",
+  "games": [
+    {
+      "id": "common",
+      "name": "Generic",
+      "source": "",
+      "entries": [
+        {
+          "cat1": "Characters",
+          "cat2": "Skin",
+          "cat3": "Base Skin Tone",
+          "name": "Base Skin Tone",
+          "colors": {
+            "outline": "#271324",
+            "shade": "#965051",
+            "base": "#DDA077",
+            "light": "#F2C68B",
+            "highlight": "#FAE3BA",
+            "shadow": "#614360"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Hair",
+          "cat3": "Brown Hair",
+          "name": "Brown Hair",
+          "colors": {
+            "outline": "#20101D",
+            "shade": "#50302E",
+            "base": "#755D44",
+            "light": "#927F5A",
+            "highlight": "#B7AB8D",
+            "shadow": "#332532"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Cloth",
+          "cat3": "Blue Fabric",
+          "name": "Blue Fabric",
+          "colors": {
+            "outline": "#191224",
+            "shade": "#3D3F78",
+            "base": "#5988B1",
+            "light": "#76D3D8",
+            "highlight": "#B6FAD0",
+            "shadow": "#39354E"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Leather",
+          "cat3": "Brown Hide",
+          "name": "Brown Hide",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#552225",
+            "base": "#7D4D31",
+            "light": "#9B7345",
+            "highlight": "#C1A981",
+            "shadow": "#372236"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Trees",
+          "cat3": "Broadleaf Tree",
+          "name": "Broadleaf Tree",
+          "colors": {
+            "outline": "#21101A",
+            "shade": "#2C5C30",
+            "base": "#5C8740",
+            "light": "#98A756",
+            "highlight": "#CACE92",
+            "shadow": "#272F3C"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Short Grass",
+          "name": "Short Grass",
+          "colors": {
+            "outline": "#22111B",
+            "shade": "#396A3F",
+            "base": "#6E9C54",
+            "light": "#AEC06E",
+            "highlight": "#E3E9AE",
+            "shadow": "#303845"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Mud",
+          "name": "Mud",
+          "colors": {
+            "outline": "#21101F",
+            "shade": "#5C302E",
+            "base": "#876244",
+            "light": "#A78A5B",
+            "highlight": "#CEBD96",
+            "shadow": "#3C283A"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Rocks",
+          "cat3": "Granite",
+          "name": "Granite",
+          "colors": {
+            "outline": "#181122",
+            "shade": "#585567",
+            "base": "#838A97",
+            "light": "#A3B4BA",
+            "highlight": "#D2E3DB",
+            "shadow": "#3A3842"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Plank",
+          "name": "Plank",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#552727",
+            "base": "#7D5638",
+            "light": "#9B7C4D",
+            "highlight": "#C1AE87",
+            "shadow": "#372436"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Brick Wall",
+          "name": "Brick Wall",
+          "colors": {
+            "outline": "#211020",
+            "shade": "#5C2A35",
+            "base": "#874C3D",
+            "light": "#A77253",
+            "highlight": "#CEB090",
+            "shadow": "#3B273C"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Roof",
+          "cat3": "Terracotta",
+          "name": "Terracotta",
+          "colors": {
+            "outline": "#211021",
+            "shade": "#5C2540",
+            "base": "#87353B",
+            "light": "#A7534A",
+            "highlight": "#CEA08A",
+            "shadow": "#39253C"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Ironwork",
+          "cat3": "Iron",
+          "name": "Iron",
+          "colors": {
+            "outline": "#191224",
+            "shade": "#666678",
+            "base": "#9DA7B1",
+            "light": "#C2D7D8",
+            "highlight": "#EBFAF1",
+            "shadow": "#44424E"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Gold",
+          "cat3": "Gold",
+          "name": "Gold",
+          "colors": {
+            "outline": "#271323",
+            "shade": "#964D2E",
+            "base": "#DDB03F",
+            "light": "#F2E053",
+            "highlight": "#FAED98",
+            "shadow": "#61385B"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Lake",
+          "name": "Lake",
+          "colors": {
+            "outline": "#1A1326",
+            "shade": "#313D8A",
+            "base": "#459ACB",
+            "light": "#5FF2EB",
+            "highlight": "#9FFABC",
+            "shadow": "#3B3659"
+          }
+        },
+        {
+          "cat1": "Effects",
+          "cat2": "Fire",
+          "cat3": "Fire",
+          "name": "Fire",
+          "colors": {
+            "outline": "#2E100D",
+            "shade": "#AE0B1E",
+            "base": "#FC7C0D",
+            "light": "#FCBC0A",
+            "highlight": "#FCE758",
+            "shadow": "#68201D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wow",
+      "name": "World of Warcraft",
+      "source": "56 entries from the author's Excel template, colors auto-derived from name keywords",
+      "entries": [
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Skin",
+          "name": "White",
+          "colors": {
+            "outline": "#281425",
+            "shade": "#A47C78",
+            "base": "#F2D5B7",
+            "light": "#F2E0BC",
+            "highlight": "#FAF0D9",
+            "shadow": "#6A5469"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Skin",
+          "name": "Pale",
+          "colors": {
+            "outline": "#281425",
+            "shade": "#9D6A67",
+            "base": "#E7BF9B",
+            "light": "#F2D7A9",
+            "highlight": "#FAECCD",
+            "shadow": "#664D64"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Skin",
+          "name": "Wheat Skin",
+          "colors": {
+            "outline": "#261323",
+            "shade": "#8D544C",
+            "base": "#D0A570",
+            "light": "#F2D58B",
+            "highlight": "#FAEABA",
+            "shadow": "#5C3F59"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Skin",
+          "name": "Dark",
+          "colors": {
+            "outline": "#21111F",
+            "shade": "#612E2F",
+            "base": "#8F6244",
+            "light": "#B08B5B",
+            "highlight": "#D9C29A",
+            "shadow": "#3F2A3E"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Hair",
+          "name": "Golden",
+          "colors": {
+            "outline": "#271323",
+            "shade": "#966144",
+            "base": "#DDC163",
+            "light": "#F2EA78",
+            "highlight": "#FAF3AE",
+            "shadow": "#613F5C"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Hair",
+          "name": "Red",
+          "colors": {
+            "outline": "#20101F",
+            "shade": "#551E2E",
+            "base": "#7D352A",
+            "light": "#9B593D",
+            "highlight": "#C19B7B",
+            "shadow": "#362137"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Hair",
+          "name": "Silver",
+          "colors": {
+            "outline": "#1B1326",
+            "shade": "#807E91",
+            "base": "#C3CAD5",
+            "light": "#DFEFF2",
+            "highlight": "#EEFAF3",
+            "shadow": "#53515E"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Hair",
+          "name": "Blue",
+          "colors": {
+            "outline": "#191123",
+            "shade": "#372C6E",
+            "base": "#4060A1",
+            "light": "#58AAC6",
+            "highlight": "#A0F0CA",
+            "shadow": "#332D47"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Hair",
+          "name": "Brown",
+          "colors": {
+            "outline": "#20101D",
+            "shade": "#502626",
+            "base": "#755237",
+            "light": "#92754B",
+            "highlight": "#B7A582",
+            "shadow": "#332233"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Hair",
+          "name": "White",
+          "colors": {
+            "outline": "#291424",
+            "shade": "#A89A92",
+            "base": "#F7F2E1",
+            "light": "#F2F1DF",
+            "highlight": "#FAF9EE",
+            "shadow": "#6D5E6A"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Human",
+          "cat3": "Hair",
+          "name": "Gray",
+          "colors": {
+            "outline": "#181122",
+            "shade": "#5D5B67",
+            "base": "#8D9097",
+            "light": "#AEB7BA",
+            "highlight": "#DAE3DF",
+            "shadow": "#3C3A42"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Orc",
+          "cat3": "",
+          "name": "Orc",
+          "colors": {
+            "outline": "#21111A",
+            "shade": "#316139",
+            "base": "#608F48",
+            "light": "#9CB060",
+            "highlight": "#D1D99E",
+            "shadow": "#2B323F"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Elf",
+          "cat3": "",
+          "name": "Elf",
+          "colors": {
+            "outline": "#281425",
+            "shade": "#9F716B",
+            "base": "#EAC8A2",
+            "light": "#F2DEAE",
+            "highlight": "#FAEFD0",
+            "shadow": "#674E65"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Troll",
+          "cat3": "",
+          "name": "Troll",
+          "colors": {
+            "outline": "#151122",
+            "shade": "#435D6A",
+            "base": "#659C93",
+            "light": "#82C09C",
+            "highlight": "#BFE9BC",
+            "shadow": "#333345"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Dwarf",
+          "cat3": "",
+          "name": "Dwarf",
+          "colors": {
+            "outline": "#241222",
+            "shade": "#7F4444",
+            "base": "#BB8965",
+            "light": "#E5BC83",
+            "highlight": "#FAE4BA",
+            "shadow": "#523951"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Goblin",
+          "cat3": "",
+          "name": "Goblin",
+          "colors": {
+            "outline": "#23111D",
+            "shade": "#496E3D",
+            "base": "#90A15A",
+            "light": "#C6B976",
+            "highlight": "#F0E7B6",
+            "shadow": "#473241"
+          }
+        },
+        {
+          "cat1": "Animals",
+          "cat2": "Wolf",
+          "cat3": "Hair",
+          "name": "Gray",
+          "colors": {
+            "outline": "#181121",
+            "shade": "#585761",
+            "base": "#86898F",
+            "light": "#A6AEB0",
+            "highlight": "#D1D9D5",
+            "shadow": "#39373F"
+          }
+        },
+        {
+          "cat1": "Animals",
+          "cat2": "Horse",
+          "cat3": "Hair",
+          "name": "Hair",
+          "colors": {
+            "outline": "#20101D",
+            "shade": "#502928",
+            "base": "#75543B",
+            "light": "#92774F",
+            "highlight": "#B7A685",
+            "shadow": "#332333"
+          }
+        },
+        {
+          "cat1": "Animals",
+          "cat2": "Horse",
+          "cat3": "Saddle",
+          "name": "Saddle",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#552222",
+            "base": "#7D5131",
+            "light": "#9B7745",
+            "highlight": "#C1AB81",
+            "shadow": "#372236"
+          }
+        },
+        {
+          "cat1": "Animals",
+          "cat2": "Pig",
+          "cat3": "Skin",
+          "name": "Skin",
+          "colors": {
+            "outline": "#261324",
+            "shade": "#91585E",
+            "base": "#D59C83",
+            "light": "#F2C49C",
+            "highlight": "#FAE3C5",
+            "shadow": "#5E445D"
+          }
+        },
+        {
+          "cat1": "Animals",
+          "cat2": "Cat",
+          "cat3": "Hair",
+          "name": "Hair",
+          "colors": {
+            "outline": "#21111F",
+            "shade": "#613A36",
+            "base": "#8F7050",
+            "light": "#B09969",
+            "highlight": "#D9CAA4",
+            "shadow": "#3F2C3E"
+          }
+        },
+        {
+          "cat1": "Animals",
+          "cat2": "Bat",
+          "cat3": "",
+          "name": "Bat",
+          "colors": {
+            "outline": "#190F1E",
+            "shade": "#3E303D",
+            "base": "#54495B",
+            "light": "#625E73",
+            "highlight": "#948595",
+            "shadow": "#252129"
+          }
+        },
+        {
+          "cat1": "Monsters",
+          "cat2": "Slime",
+          "cat3": "",
+          "name": "Slime",
+          "colors": {
+            "outline": "#23111B",
+            "shade": "#2C6E37",
+            "base": "#60A140",
+            "light": "#AAC658",
+            "highlight": "#E6F0A0",
+            "shadow": "#2D3647"
+          }
+        },
+        {
+          "cat1": "Monsters",
+          "cat2": "Gargoyle",
+          "cat3": "",
+          "name": "Gargoyle",
+          "colors": {
+            "outline": "#181121",
+            "shade": "#565561",
+            "base": "#82878F",
+            "light": "#A2ADB0",
+            "highlight": "#CED9D3",
+            "shadow": "#38363F"
+          }
+        },
+        {
+          "cat1": "Monsters",
+          "cat2": "Tauren",
+          "cat3": "",
+          "name": "Tauren",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#58312F",
+            "base": "#826246",
+            "light": "#A1885D",
+            "highlight": "#C8B895",
+            "shadow": "#392838"
+          }
+        },
+        {
+          "cat1": "Monsters",
+          "cat2": "Skeleton",
+          "cat3": "",
+          "name": "Skeleton",
+          "colors": {
+            "outline": "#271323",
+            "shade": "#988175",
+            "base": "#E0D5B3",
+            "light": "#F2EFC6",
+            "highlight": "#FAF7DF",
+            "shadow": "#625060"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Roof",
+          "cat3": "",
+          "name": "Roof",
+          "colors": {
+            "outline": "#211021",
+            "shade": "#5C2541",
+            "base": "#87353C",
+            "light": "#A7524A",
+            "highlight": "#CE9F8A",
+            "shadow": "#39253C"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Timber",
+          "name": "Timber",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#552727",
+            "base": "#7D5638",
+            "light": "#9B7C4D",
+            "highlight": "#C1AE87",
+            "shadow": "#372436"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Stonework",
+          "name": "Stonework",
+          "colors": {
+            "outline": "#191123",
+            "shade": "#5E5D6E",
+            "base": "#9097A1",
+            "light": "#B2C3C6",
+            "highlight": "#E2F0E8",
+            "shadow": "#3E3C47"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Thatch",
+          "name": "Thatch",
+          "colors": {
+            "outline": "#241221",
+            "shade": "#7F5844",
+            "base": "#BBA665",
+            "light": "#E5DD83",
+            "highlight": "#FAF3BA",
+            "shadow": "#52394F"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Leather Armor",
+          "cat3": "Hat",
+          "name": "Pale",
+          "colors": {
+            "outline": "#231221",
+            "shade": "#754543",
+            "base": "#AC8564",
+            "light": "#D2B581",
+            "highlight": "#FAE8C0",
+            "shadow": "#4C364A"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Leather Armor",
+          "cat3": "Hat",
+          "name": "Dark",
+          "colors": {
+            "outline": "#1F0F1D",
+            "shade": "#472223",
+            "base": "#684531",
+            "light": "#826543",
+            "highlight": "#A69476",
+            "shadow": "#2E1E2D"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Leather Armor",
+          "cat3": "Clothes",
+          "name": "Clothes",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#512525",
+            "base": "#785136",
+            "light": "#95754A",
+            "highlight": "#BAA782",
+            "shadow": "#352234"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Leather Armor",
+          "cat3": "Jacket",
+          "name": "Jacket",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#582D2C",
+            "base": "#825E40",
+            "light": "#A18456",
+            "highlight": "#C8B690",
+            "shadow": "#392638"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Leather Armor",
+          "cat3": "Pants",
+          "name": "Pants",
+          "colors": {
+            "outline": "#1F0F1D",
+            "shade": "#4A2324",
+            "base": "#6D4B34",
+            "light": "#896C46",
+            "highlight": "#AD9B7A",
+            "shadow": "#30202F"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Leather Armor",
+          "cat3": "",
+          "name": "Leather Armor",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#512323",
+            "base": "#785033",
+            "light": "#957447",
+            "highlight": "#BAA680",
+            "shadow": "#352234"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Mail",
+          "cat3": "",
+          "name": "Mail",
+          "colors": {
+            "outline": "#191224",
+            "shade": "#676678",
+            "base": "#9DA6B1",
+            "light": "#C2D6D8",
+            "highlight": "#EBFAF1",
+            "shadow": "#44424E"
+          }
+        },
+        {
+          "cat1": "Clothing",
+          "cat2": "Cloth Armor",
+          "cat3": "",
+          "name": "Cloth Armor",
+          "colors": {
+            "outline": "#191123",
+            "shade": "#3E3C71",
+            "base": "#5A7DA6",
+            "light": "#75C2CC",
+            "highlight": "#B8F7D3",
+            "shadow": "#373349"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Brook",
+          "name": "Brook",
+          "colors": {
+            "outline": "#191325",
+            "shade": "#405586",
+            "base": "#5DB1C6",
+            "light": "#7CF1D8",
+            "highlight": "#B1FAC0",
+            "shadow": "#3C3A57"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "River Water",
+          "name": "River Water",
+          "colors": {
+            "outline": "#191224",
+            "shade": "#363D7C",
+            "base": "#4E8CB6",
+            "light": "#69DEDD",
+            "highlight": "#ABFAC6",
+            "shadow": "#383350"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Pond",
+          "name": "Pond",
+          "colors": {
+            "outline": "#181224",
+            "shade": "#394478",
+            "base": "#5392B1",
+            "light": "#6FD8D0",
+            "highlight": "#B1FAC6",
+            "shadow": "#37344E"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Lake",
+          "name": "Lake",
+          "colors": {
+            "outline": "#181122",
+            "shade": "#2B2767",
+            "base": "#376097",
+            "light": "#4DA9BA",
+            "highlight": "#93E3B7",
+            "shadow": "#2E2942"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Mud",
+          "name": "Mud",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#582E2D",
+            "base": "#825F42",
+            "light": "#A18558",
+            "highlight": "#C8B691",
+            "shadow": "#392738"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Sand",
+          "name": "Sand",
+          "colors": {
+            "outline": "#261322",
+            "shade": "#8A604F",
+            "base": "#CBB176",
+            "light": "#F2E695",
+            "highlight": "#FAF2C0",
+            "shadow": "#594056"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Tall Grass",
+          "name": "Tall Grass",
+          "colors": {
+            "outline": "#211019",
+            "shade": "#2E5C38",
+            "base": "#588744",
+            "light": "#92A75B",
+            "highlight": "#C6CE96",
+            "shadow": "#282F3C"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Trimmed Grass",
+          "name": "Trimmed Grass",
+          "colors": {
+            "outline": "#22111B",
+            "shade": "#396A3F",
+            "base": "#6E9C54",
+            "light": "#AEC06E",
+            "highlight": "#E3E9AE",
+            "shadow": "#303845"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Tall Trees",
+          "cat3": "Pine",
+          "name": "Pine",
+          "colors": {
+            "outline": "#110F1E",
+            "shade": "#24433E",
+            "base": "#356344",
+            "light": "#4C7C47",
+            "highlight": "#879F77",
+            "shadow": "#1E202B"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Small Trees",
+          "cat3": "Shrub",
+          "name": "Shrub",
+          "colors": {
+            "outline": "#101120",
+            "shade": "#2A5535",
+            "base": "#4D7D3E",
+            "light": "#839B53",
+            "highlight": "#B7C18B",
+            "shadow": "#252B37"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Blade",
+          "name": "Iron",
+          "colors": {
+            "outline": "#191224",
+            "shade": "#666678",
+            "base": "#9DA7B1",
+            "light": "#C2D7D8",
+            "highlight": "#EBFAF1",
+            "shadow": "#44424E"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Blade",
+          "name": "Steel",
+          "colors": {
+            "outline": "#1B1326",
+            "shade": "#74738A",
+            "base": "#B0BCCB",
+            "light": "#D5EEF2",
+            "highlight": "#E8FAF0",
+            "shadow": "#4E4B59"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Blade",
+          "name": "Blade",
+          "colors": {
+            "outline": "#191224",
+            "shade": "#6A697C",
+            "base": "#A2ABB6",
+            "light": "#C8DCDE",
+            "highlight": "#EBFAF1",
+            "shadow": "#464450"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Hilt",
+          "name": "Wood",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#552727",
+            "base": "#7D5638",
+            "light": "#9B7C4D",
+            "highlight": "#C1AE87",
+            "shadow": "#372436"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Scabbard",
+          "name": "Scabbard",
+          "colors": {
+            "outline": "#1F0F1D",
+            "shade": "#472020",
+            "base": "#68472F",
+            "light": "#826740",
+            "highlight": "#A69574",
+            "shadow": "#2E1E2D"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Axe",
+          "cat3": "",
+          "name": "Axe",
+          "colors": {
+            "outline": "#191224",
+            "shade": "#666678",
+            "base": "#9DA7B1",
+            "light": "#C2D7D8",
+            "highlight": "#EBFAF1",
+            "shadow": "#44424E"
+          }
+        },
+        {
+          "cat1": "Props",
+          "cat2": "Leather",
+          "cat3": "",
+          "name": "Leather",
+          "colors": {
+            "outline": "#20101E",
+            "shade": "#512323",
+            "base": "#785033",
+            "light": "#957447",
+            "highlight": "#BAA680",
+            "shadow": "#352234"
+          }
+        },
+        {
+          "cat1": "Props",
+          "cat2": "Herbs",
+          "cat3": "",
+          "name": "Herbs",
+          "colors": {
+            "outline": "#101020",
+            "shade": "#2A583B",
+            "base": "#47823D",
+            "light": "#7EA153",
+            "highlight": "#B8C88E",
+            "shadow": "#262C39"
+          }
+        }
+      ]
+    }
+  ]
+}

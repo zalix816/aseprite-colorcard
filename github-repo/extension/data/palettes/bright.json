@@ -1,0 +1,672 @@
+{
+  "id": "bright",
+  "name": "Vivid Cartoon",
+  "desc": "Cheerful cartoon in the style of Stardew Valley / Pokémon: high saturation, high value, purple-tinted outlines. Fits casual farming / RPG.",
+  "games": [
+    {
+      "id": "common",
+      "name": "Generic",
+      "source": "",
+      "entries": [
+        {
+          "cat1": "Characters",
+          "cat2": "Skin",
+          "cat3": "Base Skin Tone",
+          "name": "Base Skin Tone",
+          "colors": {
+            "outline": "#271225",
+            "shade": "#9B4E4F",
+            "base": "#E4A073",
+            "light": "#F2C284",
+            "highlight": "#FAE2B6",
+            "shadow": "#644463"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Hair",
+          "cat3": "Brown Hair",
+          "name": "Brown Hair",
+          "colors": {
+            "outline": "#200E1D",
+            "shade": "#52302D",
+            "base": "#785D42",
+            "light": "#968158",
+            "highlight": "#BBAE8D",
+            "shadow": "#352534"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Cloth",
+          "cat3": "Blue Fabric",
+          "name": "Blue Fabric",
+          "colors": {
+            "outline": "#181024",
+            "shade": "#3A3D7C",
+            "base": "#5589B6",
+            "light": "#72D9DE",
+            "highlight": "#B1FACD",
+            "shadow": "#393550"
+          }
+        },
+        {
+          "cat1": "Characters",
+          "cat2": "Leather",
+          "cat3": "Brown Hide",
+          "name": "Brown Hide",
+          "colors": {
+            "outline": "#200F1E",
+            "shade": "#572023",
+            "base": "#814C2D",
+            "light": "#9F7340",
+            "highlight": "#C6AB7F",
+            "shadow": "#392238"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Trees",
+          "cat3": "Broadleaf Tree",
+          "name": "Broadleaf Tree",
+          "colors": {
+            "outline": "#210F19",
+            "shade": "#2A5F2F",
+            "base": "#5C8B3C",
+            "light": "#9CAC52",
+            "highlight": "#CED492",
+            "shadow": "#28303D"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Short Grass",
+          "name": "Short Grass",
+          "colors": {
+            "outline": "#23101A",
+            "shade": "#376D3E",
+            "base": "#6EA151",
+            "light": "#B2C56B",
+            "highlight": "#E9EFAE",
+            "shadow": "#303947"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Mud",
+          "name": "Mud",
+          "colors": {
+            "outline": "#210F1F",
+            "shade": "#5F2E2D",
+            "base": "#8B6341",
+            "light": "#AC8C58",
+            "highlight": "#D4C096",
+            "shadow": "#3D283C"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Rocks",
+          "cat3": "Granite",
+          "name": "Granite",
+          "colors": {
+            "outline": "#180F22",
+            "shade": "#5A576A",
+            "base": "#858D9B",
+            "light": "#A6B9BF",
+            "highlight": "#D6E8E0",
+            "shadow": "#3C3944"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Plank",
+          "name": "Plank",
+          "colors": {
+            "outline": "#200F1E",
+            "shade": "#572525",
+            "base": "#815635",
+            "light": "#9F7D49",
+            "highlight": "#C6B186",
+            "shadow": "#392437"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Brick Wall",
+          "name": "Brick Wall",
+          "colors": {
+            "outline": "#210F20",
+            "shade": "#5F2834",
+            "base": "#8B4A39",
+            "light": "#AC714F",
+            "highlight": "#D4B28F",
+            "shadow": "#3D273D"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Roof",
+          "cat3": "Terracotta",
+          "name": "Terracotta",
+          "colors": {
+            "outline": "#210F21",
+            "shade": "#5F2340",
+            "base": "#8B3137",
+            "light": "#AC5045",
+            "highlight": "#D4A088",
+            "shadow": "#3B253D"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Ironwork",
+          "cat3": "Iron",
+          "name": "Iron",
+          "colors": {
+            "outline": "#181024",
+            "shade": "#68687C",
+            "base": "#A1ABB6",
+            "light": "#C6DCDE",
+            "highlight": "#EAFAF0",
+            "shadow": "#464450"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Gold",
+          "cat3": "Gold",
+          "name": "Gold",
+          "colors": {
+            "outline": "#271223",
+            "shade": "#9B4B28",
+            "base": "#E4B235",
+            "light": "#F2DE47",
+            "highlight": "#FAEC90",
+            "shadow": "#64385E"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "Lake",
+          "name": "Lake",
+          "colors": {
+            "outline": "#191126",
+            "shade": "#2C398E",
+            "base": "#3D9BD1",
+            "light": "#54F2EA",
+            "highlight": "#99FAB7",
+            "shadow": "#3B355C"
+          }
+        },
+        {
+          "cat1": "Effects",
+          "cat2": "Fire",
+          "cat3": "Fire",
+          "name": "Fire",
+          "colors": {
+            "outline": "#2E100D",
+            "shade": "#B3091D",
+            "base": "#FC7D0D",
+            "light": "#FCBC0A",
+            "highlight": "#FCE758",
+            "shadow": "#6B201E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stardew",
+      "name": "Stardew Valley",
+      "source": "Sampled colors: grass #58ac14/#44a318/#328530, hardwood #824925, wheat #ffe600 (Stardew Wiki / color-hex)",
+      "entries": [
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Lawn",
+          "name": "Lawn",
+          "colors": {
+            "outline": "#24101C",
+            "shade": "#0C7B12",
+            "base": "#56B509",
+            "light": "#C3DD1C",
+            "highlight": "#F4FA77",
+            "shadow": "#26374F"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Grass Tuft",
+          "name": "Grass Tuft",
+          "colors": {
+            "outline": "#23101B",
+            "shade": "#0B741E",
+            "base": "#3CAB09",
+            "light": "#A1D21A",
+            "highlight": "#E8FA77",
+            "shadow": "#24324B"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Dark Grass",
+          "name": "Dark Grass",
+          "colors": {
+            "outline": "#0F0F21",
+            "shade": "#1A5F3B",
+            "base": "#258C22",
+            "light": "#69AC35",
+            "highlight": "#B6D47C",
+            "shadow": "#222A3D"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Dirt",
+          "name": "Dirt",
+          "colors": {
+            "outline": "#210F1F",
+            "shade": "#5D1214",
+            "base": "#884215",
+            "light": "#A96E26",
+            "highlight": "#D0AD6F",
+            "shadow": "#3C1F3B"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Farmland",
+          "name": "Farmland",
+          "colors": {
+            "outline": "#1F0E1D",
+            "shade": "#4C1012",
+            "base": "#703713",
+            "light": "#8C5D22",
+            "highlight": "#B19460",
+            "shadow": "#311A30"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Trees",
+          "cat3": "Oak",
+          "name": "Oak Leaf",
+          "colors": {
+            "outline": "#23101A",
+            "shade": "#0A6D1D",
+            "base": "#36A008",
+            "light": "#94C419",
+            "highlight": "#DCEE72",
+            "shadow": "#212F46"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Water",
+          "cat3": "River Water",
+          "name": "River Water",
+          "colors": {
+            "outline": "#1A1125",
+            "shade": "#2C1483",
+            "base": "#1647C0",
+            "light": "#2CB1EA",
+            "highlight": "#80FAC4",
+            "shadow": "#352A55"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Rocks",
+          "cat3": "Stone",
+          "name": "Stone",
+          "colors": {
+            "outline": "#231022",
+            "shade": "#6F696B",
+            "base": "#A3A3A3",
+            "light": "#C8C8C8",
+            "highlight": "#F2F2F2",
+            "shadow": "#474048"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Plank",
+          "name": "Plank",
+          "colors": {
+            "outline": "#210F1F",
+            "shade": "#5D1214",
+            "base": "#884215",
+            "light": "#A96E26",
+            "highlight": "#D0AD6F",
+            "shadow": "#3C1F3B"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Roof",
+          "cat3": "Red Roof",
+          "name": "Barn Red Roof",
+          "colors": {
+            "outline": "#261124",
+            "shade": "#8B0D2E",
+            "base": "#CC280A",
+            "light": "#F2631F",
+            "highlight": "#FAB577",
+            "shadow": "#582A5A"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Roof",
+          "cat3": "Blue Roof",
+          "name": "Barn Blue Roof",
+          "colors": {
+            "outline": "#1A1126",
+            "shade": "#2E248C",
+            "base": "#2F6ECE",
+            "light": "#47D2F2",
+            "highlight": "#90FAC3",
+            "shadow": "#3A325B"
+          }
+        },
+        {
+          "cat1": "Props",
+          "cat2": "Minerals",
+          "cat3": "Coal",
+          "name": "Coal",
+          "colors": {
+            "outline": "#1B0C1A",
+            "shade": "#2F2D2E",
+            "base": "#2F2F2F",
+            "light": "#3F3F3F",
+            "highlight": "#5C5C5C",
+            "shadow": "#292529"
+          }
+        },
+        {
+          "cat1": "Props",
+          "cat2": "Minerals",
+          "cat3": "Copper Ore",
+          "name": "Copper Ore",
+          "colors": {
+            "outline": "#261123",
+            "shade": "#8C181D",
+            "base": "#CE5E1B",
+            "light": "#F29A31",
+            "highlight": "#FACE83",
+            "shadow": "#5B2E59"
+          }
+        },
+        {
+          "cat1": "Props",
+          "cat2": "Minerals",
+          "cat3": "Iron Ore",
+          "name": "Iron Ore",
+          "colors": {
+            "outline": "#241023",
+            "shade": "#787274",
+            "base": "#B0B0B0",
+            "light": "#D8D8D8",
+            "highlight": "#FAFAFA",
+            "shadow": "#4D464E"
+          }
+        },
+        {
+          "cat1": "Props",
+          "cat2": "Crops",
+          "cat3": "Wheat",
+          "name": "Wheat",
+          "colors": {
+            "outline": "#291223",
+            "shade": "#AC5C10",
+            "base": "#FCE50D",
+            "light": "#E4F21F",
+            "highlight": "#FAFA77",
+            "shadow": "#6F3464"
+          }
+        },
+        {
+          "cat1": "Props",
+          "cat2": "Crops",
+          "cat3": "Pumpkin",
+          "name": "Pumpkin",
+          "colors": {
+            "outline": "#281225",
+            "shade": "#A01B0F",
+            "base": "#EB7B0C",
+            "light": "#F2AB1F",
+            "highlight": "#FAD577",
+            "shadow": "#673163"
+          }
+        }
+      ]
+    },
+    {
+      "id": "terraria",
+      "name": "Terraria",
+      "source": "Biome convention colors: grass/dirt/jungle/desert/corruption/snow (community palettes)",
+      "entries": [
+        {
+          "cat1": "Environment",
+          "cat2": "Grassland",
+          "cat3": "Grassland",
+          "name": "Grassland",
+          "colors": {
+            "outline": "#101123",
+            "shade": "#147429",
+            "base": "#3FAB16",
+            "light": "#9ED22A",
+            "highlight": "#E6FA82",
+            "shadow": "#26334B"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Land",
+          "cat3": "Dirt",
+          "name": "Dirt",
+          "colors": {
+            "outline": "#210F1F",
+            "shade": "#602928",
+            "base": "#8D5E3A",
+            "light": "#AE884F",
+            "highlight": "#D6BF90",
+            "shadow": "#3E273D"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Jungle",
+          "cat3": "Jungle Grass",
+          "name": "Jungle Grass",
+          "colors": {
+            "outline": "#100F22",
+            "shade": "#18634A",
+            "base": "#1F9231",
+            "light": "#53B431",
+            "highlight": "#AFDC7D",
+            "shadow": "#232A40"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Sand",
+          "cat3": "Desert",
+          "name": "Desert Sand",
+          "colors": {
+            "outline": "#281224",
+            "shade": "#A67C67",
+            "base": "#F4DD9A",
+            "light": "#F2EBA1",
+            "highlight": "#FAF4C8",
+            "shadow": "#6B4F67"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Corruption",
+          "cat3": "Blighted Ground",
+          "name": "Blighted Ground",
+          "colors": {
+            "outline": "#1B0F21",
+            "shade": "#632D63",
+            "base": "#694291",
+            "light": "#6059B3",
+            "highlight": "#D599DB",
+            "shadow": "#342A40"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Snowfield",
+          "cat3": "Snow Block",
+          "name": "Snow Block",
+          "colors": {
+            "outline": "#1B1229",
+            "shade": "#9597AC",
+            "base": "#E5F3FC",
+            "light": "#DEF2F2",
+            "highlight": "#EDFAF2",
+            "shadow": "#625F6F"
+          }
+        },
+        {
+          "cat1": "Environment",
+          "cat2": "Rocks",
+          "cat3": "Stone",
+          "name": "Stone",
+          "colors": {
+            "outline": "#210F20",
+            "shade": "#5B5759",
+            "base": "#868686",
+            "light": "#A6A6A6",
+            "highlight": "#CDCDCD",
+            "shadow": "#3B353B"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Wood Wall",
+          "name": "Wood Wall",
+          "colors": {
+            "outline": "#1F0E1D",
+            "shade": "#4C1C18",
+            "base": "#704921",
+            "light": "#8C6E31",
+            "highlight": "#B19D6C",
+            "shadow": "#311D30"
+          }
+        },
+        {
+          "cat1": "Architecture",
+          "cat2": "Walls",
+          "cat3": "Red Brick",
+          "name": "Red Brick",
+          "colors": {
+            "outline": "#241023",
+            "shade": "#781F3C",
+            "base": "#B03328",
+            "light": "#D8653E",
+            "highlight": "#FABD90",
+            "shadow": "#4C2B4E"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Copper",
+          "cat3": "Copper",
+          "name": "Copper",
+          "colors": {
+            "outline": "#261123",
+            "shade": "#8C181D",
+            "base": "#CE5E1B",
+            "light": "#F29A31",
+            "highlight": "#FACE83",
+            "shadow": "#5B2E59"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Iron",
+          "cat3": "Iron",
+          "name": "Iron",
+          "colors": {
+            "outline": "#241023",
+            "shade": "#787274",
+            "base": "#B0B0B0",
+            "light": "#D8D8D8",
+            "highlight": "#FAFAFA",
+            "shadow": "#4D464E"
+          }
+        },
+        {
+          "cat1": "Metal",
+          "cat2": "Gold",
+          "cat3": "Gold",
+          "name": "Gold",
+          "colors": {
+            "outline": "#281223",
+            "shade": "#A25426",
+            "base": "#EEC731",
+            "light": "#F2EB41",
+            "highlight": "#FAF18D",
+            "shadow": "#693961"
+          }
+        },
+        {
+          "cat1": "Effects",
+          "cat2": "Fire",
+          "cat3": "Torch",
+          "name": "Torch",
+          "colors": {
+            "outline": "#2E100D",
+            "shade": "#B3091D",
+            "base": "#FC7D0D",
+            "light": "#FCBC0A",
+            "highlight": "#FCE758",
+            "shadow": "#6B201E"
+          }
+        },
+        {
+          "cat1": "Effects",
+          "cat2": "Magic",
+          "cat3": "Starlight Blue",
+          "name": "Starlight Blue",
+          "colors": {
+            "outline": "#1C1229",
+            "shade": "#372DAC",
+            "base": "#3C8DFC",
+            "light": "#48D7F2",
+            "highlight": "#91FAC1",
+            "shadow": "#483E6F"
+          }
+        },
+        {
+          "cat1": "Gear",
+          "cat2": "Sword",
+          "cat3": "Blade Edge",
+          "name": "Blade Edge",
+          "colors": {
+            "outline": "#1C1229",
+            "shade": "#8A87AC",
+            "base": "#CFE2FC",
+            "light": "#CAEBF2",
+            "highlight": "#E1FAED",
+            "shadow": "#5F5B6F"
+          }
+        }
+      ]
+    }
+  ]
+}
