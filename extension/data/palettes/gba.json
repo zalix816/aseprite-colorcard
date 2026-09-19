@@ -628,7 +628,7 @@
           "cat1": "Monsters",
           "cat2": "Skeleton",
           "cat3": "Bone White",
-          "name": "Skeleton",
+          "name": "Skeleton (Bone White)",
           "colors": {
             "outline": "#281929",
             "shade": "#9E7A6F",
@@ -1013,7 +1013,7 @@
           "cat1": "Animals",
           "cat2": "Drake",
           "cat3": "Fire Drake",
-          "name": "Drake Scale",
+          "name": "Drake Scale (Fire Drake)",
           "colors": {
             "outline": "#261828",
             "shade": "#922E35",

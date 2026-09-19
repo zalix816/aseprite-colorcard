@@ -171,8 +171,8 @@ local function buildDialog(bounds)
     for _, s in ipairs(DB) do
       for _, g in ipairs(s.games) do
         for _, e in ipairs(g.entries) do
+          -- 只匹配 名称/游戏/风格，不扫大中小类（"iron" 会误命中 Environment）
           local hay = (e.name or "") .. "\n" .. (g.name or "") .. "\n" .. (s.name or "")
-            .. "\n" .. (e.cat1 or "") .. "\n" .. (e.cat2 or "") .. "\n" .. (e.cat3 or "")
           if hay:lower():find(q, 1, true) then
             local key = (g.name or "") .. "|" .. (e.name or "") .. "|" .. (e.cat1 or "")
               .. "|" .. (e.cat2 or "") .. "|" .. (e.cat3 or "")

@@ -229,7 +229,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Skin",
-          "name": "White",
+          "name": "White (Skin)",
           "colors": {
             "outline": "#281425",
             "shade": "#AE7974",
@@ -243,7 +243,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Skin",
-          "name": "Pale",
+          "name": "Pale (Skin)",
           "colors": {
             "outline": "#281425",
             "shade": "#A7615D",
@@ -271,7 +271,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Skin",
-          "name": "Dark",
+          "name": "Dark (Skin)",
           "colors": {
             "outline": "#21111F",
             "shade": "#672223",
@@ -285,7 +285,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Hair",
-          "name": "Golden",
+          "name": "Golden (Hair)",
           "colors": {
             "outline": "#271323",
             "shade": "#9F5730",
@@ -299,7 +299,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Hair",
-          "name": "Red",
+          "name": "Red (Hair)",
           "colors": {
             "outline": "#20101F",
             "shade": "#5A0F24",
@@ -313,7 +313,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Hair",
-          "name": "Silver",
+          "name": "Silver (Hair)",
           "colors": {
             "outline": "#1B1326",
             "shade": "#84829A",
@@ -327,7 +327,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Hair",
-          "name": "Blue",
+          "name": "Blue (Hair)",
           "colors": {
             "outline": "#191123",
             "shade": "#2A1B74",
@@ -341,7 +341,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Hair",
-          "name": "Brown",
+          "name": "Brown (Hair)",
           "colors": {
             "outline": "#20101D",
             "shade": "#541C1C",
@@ -355,7 +355,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Hair",
-          "name": "White",
+          "name": "White (Hair)",
           "colors": {
             "outline": "#291424",
             "shade": "#B2A097",
@@ -369,7 +369,7 @@
           "cat1": "Characters",
           "cat2": "Human",
           "cat3": "Hair",
-          "name": "Gray",
+          "name": "Gray (Hair)",
           "colors": {
             "outline": "#181122",
             "shade": "#615F6D",
@@ -453,7 +453,7 @@
           "cat1": "Animals",
           "cat2": "Wolf",
           "cat3": "Hair",
-          "name": "Gray",
+          "name": "Gray (Hair)",
           "colors": {
             "outline": "#181121",
             "shade": "#5C5A67",
@@ -649,7 +649,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Hat",
-          "name": "Pale",
+          "name": "Pale (Hat)",
           "colors": {
             "outline": "#231221",
             "shade": "#7C3C38",
@@ -663,7 +663,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Hat",
-          "name": "Dark",
+          "name": "Dark (Hat)",
           "colors": {
             "outline": "#1F0F1D",
             "shade": "#4B181B",
@@ -901,7 +901,7 @@
           "cat1": "Gear",
           "cat2": "Sword",
           "cat3": "Blade",
-          "name": "Iron",
+          "name": "Iron (Blade)",
           "colors": {
             "outline": "#191224",
             "shade": "#68687F",
@@ -915,7 +915,7 @@
           "cat1": "Gear",
           "cat2": "Sword",
           "cat3": "Blade",
-          "name": "Steel",
+          "name": "Steel (Blade)",
           "colors": {
             "outline": "#1B1326",
             "shade": "#767492",
@@ -943,7 +943,7 @@
           "cat1": "Gear",
           "cat2": "Sword",
           "cat3": "Hilt",
-          "name": "Wood",
+          "name": "Wood (Hilt)",
           "colors": {
             "outline": "#20101E",
             "shade": "#5A1C1B",

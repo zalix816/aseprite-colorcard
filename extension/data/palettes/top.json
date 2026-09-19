@@ -243,7 +243,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Sand",
-          "name": "Bob-omb Dunes",
+          "name": "Bob-omb Dunes (Sand)",
           "colors": {
             "outline": "#261526",
             "shade": "#9C4727",
@@ -257,7 +257,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Hilly Rock",
+          "name": "Hilly Rock (Mountain Rock)",
           "colors": {
             "outline": "#211221",
             "shade": "#68392C",
@@ -271,7 +271,7 @@
           "cat1": "Architecture",
           "cat2": "Castle",
           "cat3": "City Wall",
-          "name": "Castle Stone",
+          "name": "Castle Stone (City Wall)",
           "colors": {
             "outline": "#241424",
             "shade": "#846155",
@@ -285,7 +285,7 @@
           "cat1": "Architecture",
           "cat2": "Roof",
           "cat3": "Red Tiles",
-          "name": "Castle Spire",
+          "name": "Castle Spire (Red Tiles)",
           "colors": {
             "outline": "#231525",
             "shade": "#900832",
@@ -299,7 +299,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Brick Wall",
-          "name": "Brick Block",
+          "name": "Brick Block (Brick Wall)",
           "colors": {
             "outline": "#221424",
             "shade": "#7F202A",
@@ -327,7 +327,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Lethal Lava",
+          "name": "Lethal Lava (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -341,7 +341,7 @@
           "cat1": "Props",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Power Star",
+          "name": "Power Star (Gold)",
           "colors": {
             "outline": "#291628",
             "shade": "#B35009",
@@ -355,7 +355,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Painting Vortex",
+          "name": "Painting Vortex (Arcane Purple)",
           "colors": {
             "outline": "#1C1525",
             "shade": "#901C90",
@@ -369,7 +369,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Mario Red",
+          "name": "Mario Red (Red Garment)",
           "colors": {
             "outline": "#241526",
             "shade": "#9C0839",
@@ -383,7 +383,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Luigi Green",
+          "name": "Luigi Green (Blue Garment)",
           "colors": {
             "outline": "#131523",
             "shade": "#157353",
@@ -404,7 +404,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Wild Grass",
+          "name": "Wild Grass (Tall Grass)",
           "colors": {
             "outline": "#131623",
             "shade": "#23734B",
@@ -418,7 +418,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Cerulean Water",
+          "name": "Cerulean Water (River Water)",
           "colors": {
             "outline": "#181425",
             "shade": "#22108A",
@@ -432,7 +432,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Mt. Moon Rock",
+          "name": "Mt. Moon Rock (Mountain Rock)",
           "colors": {
             "outline": "#211221",
             "shade": "#68544E",
@@ -446,7 +446,7 @@
           "cat1": "Architecture",
           "cat2": "Roof",
           "cat3": "Red Tiles",
-          "name": "Pallet Roof",
+          "name": "Pallet Roof (Red Tiles)",
           "colors": {
             "outline": "#221425",
             "shade": "#8A1034",
@@ -460,7 +460,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "White Wall",
-          "name": "House Wall",
+          "name": "House Wall (White Wall)",
           "colors": {
             "outline": "#271527",
             "shade": "#A18C85",
@@ -488,7 +488,7 @@
           "cat1": "Animals",
           "cat2": "Hair",
           "cat3": "Brown Hair",
-          "name": "Pikachu Yellow",
+          "name": "Pikachu Yellow (Brown Hair)",
           "colors": {
             "outline": "#291628",
             "shade": "#B34A09",
@@ -502,7 +502,7 @@
           "cat1": "Animals",
           "cat2": "Drake",
           "cat3": "Fire Drake",
-          "name": "Charizard Orange",
+          "name": "Charizard Orange (Fire Drake)",
           "colors": {
             "outline": "#271628",
             "shade": "#AD0909",
@@ -516,7 +516,7 @@
           "cat1": "Animals",
           "cat2": "Water",
           "cat3": "Lake",
-          "name": "Squirtle Blue",
+          "name": "Squirtle Blue (Lake)",
           "colors": {
             "outline": "#191527",
             "shade": "#261FA1",
@@ -530,7 +530,7 @@
           "cat1": "Animals",
           "cat2": "Hair",
           "cat3": "Silver Hair",
-          "name": "Bulbasaur Green",
+          "name": "Bulbasaur Green (Silver Hair)",
           "colors": {
             "outline": "#151925",
             "shade": "#239035",
@@ -544,7 +544,7 @@
           "cat1": "Effects",
           "cat2": "Thunder",
           "cat3": "Lightning",
-          "name": "Thunderbolt",
+          "name": "Thunderbolt (Lightning)",
           "colors": {
             "outline": "#291628",
             "shade": "#B35B14",
@@ -558,7 +558,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Flamethrower",
+          "name": "Flamethrower (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -579,7 +579,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Tristram Stone",
+          "name": "Tristram Stone (Stone Wall)",
           "colors": {
             "outline": "#1D101E",
             "shade": "#41302E",
@@ -621,7 +621,7 @@
           "cat1": "Environment",
           "cat2": "Snowfield",
           "cat3": "Snow Cover",
-          "name": "Arreat Snow",
+          "name": "Arreat Snow (Snow Cover)",
           "colors": {
             "outline": "#191628",
             "shade": "#9191A7",
@@ -635,7 +635,7 @@
           "cat1": "Monsters",
           "cat2": "Skeleton",
           "cat3": "Bone White",
-          "name": "Skeleton Warrior",
+          "name": "Skeleton Warrior (Bone White)",
           "colors": {
             "outline": "#261526",
             "shade": "#957266",
@@ -649,7 +649,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rot Green",
-          "name": "Rotting Corpse",
+          "name": "Rotting Corpse (Rot Green)",
           "colors": {
             "outline": "#21121F",
             "shade": "#376328",
@@ -663,7 +663,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Diablo Red",
+          "name": "Diablo Red (Demon King)",
           "colors": {
             "outline": "#221425",
             "shade": "#8A0732",
@@ -677,7 +677,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Hellfire",
+          "name": "Hellfire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -691,7 +691,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Portal Blue",
+          "name": "Portal Blue (Rune Blue)",
           "colors": {
             "outline": "#1A1628",
             "shade": "#4217A7",
@@ -705,7 +705,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Healing Potion",
+          "name": "Healing Potion (Blood)",
           "colors": {
             "outline": "#211424",
             "shade": "#7F0638",
@@ -754,7 +754,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Future Metal",
-          "name": "Reactor Iron",
+          "name": "Reactor Iron (Future Metal)",
           "colors": {
             "outline": "#14111F",
             "shade": "#3B3A51",
@@ -768,7 +768,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Mako Green",
+          "name": "Mako Green (Arcane Purple)",
           "colors": {
             "outline": "#161728",
             "shade": "#1BA6A7",
@@ -782,7 +782,7 @@
           "cat1": "Characters",
           "cat2": "Cloth",
           "cat3": "Blue Robe",
-          "name": "Cloud Purple",
+          "name": "Cloud Purple (Blue Robe)",
           "colors": {
             "outline": "#161221",
             "shade": "#311868",
@@ -796,7 +796,7 @@
           "cat1": "Characters",
           "cat2": "Hair",
           "cat3": "Blond Hair",
-          "name": "Cloud Blond",
+          "name": "Cloud Blond (Blond Hair)",
           "colors": {
             "outline": "#281627",
             "shade": "#A76846",
@@ -810,7 +810,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Aerith Pink",
+          "name": "Aerith Pink (Red Garment)",
           "colors": {
             "outline": "#241628",
             "shade": "#AD538F",
@@ -824,7 +824,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Tifa White",
+          "name": "Tifa White (Blue Garment)",
           "colors": {
             "outline": "#241628",
             "shade": "#AAA1A5",
@@ -838,7 +838,7 @@
           "cat1": "Characters",
           "cat2": "Hair",
           "cat3": "Silver Hair",
-          "name": "Sephiroth Silver",
+          "name": "Sephiroth Silver (Silver Hair)",
           "colors": {
             "outline": "#191526",
             "shade": "#8B869C",
@@ -852,7 +852,7 @@
           "cat1": "Animals",
           "cat2": "Hair",
           "cat3": "Brown Hair",
-          "name": "Red XIII",
+          "name": "Red XIII (Brown Hair)",
           "colors": {
             "outline": "#251526",
             "shade": "#9C0810",
@@ -866,7 +866,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Summon Flame",
+          "name": "Summon Flame (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -880,7 +880,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Steppe",
-          "name": "World Map Grass",
+          "name": "World Map Grass (Steppe)",
           "colors": {
             "outline": "#131723",
             "shade": "#21793F",
@@ -894,7 +894,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Sand",
-          "name": "Corel Desert",
+          "name": "Corel Desert (Sand)",
           "colors": {
             "outline": "#261526",
             "shade": "#9C5335",
@@ -908,7 +908,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Jenova Violet",
+          "name": "Jenova Violet (Dark Wave)",
           "colors": {
             "outline": "#1A1323",
             "shade": "#6A2179",
@@ -922,7 +922,7 @@
           "cat1": "Props",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Chocobo Yellow",
+          "name": "Chocobo Yellow (Gold)",
           "colors": {
             "outline": "#291628",
             "shade": "#B35109",
@@ -943,7 +943,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Castle Stone",
+          "name": "Castle Stone (Stone Wall)",
           "colors": {
             "outline": "#16101D",
             "shade": "#3A2935",
@@ -957,7 +957,7 @@
           "cat1": "Architecture",
           "cat2": "Decor",
           "cat3": "Crimson Carpet",
-          "name": "Chapel Carpet",
+          "name": "Chapel Carpet (Crimson Carpet)",
           "colors": {
             "outline": "#1D1220",
             "shade": "#5C0638",
@@ -971,7 +971,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Groundwater",
-          "name": "Aqueduct Blue",
+          "name": "Aqueduct Blue (Groundwater)",
           "colors": {
             "outline": "#12101C",
             "shade": "#0F1334",
@@ -985,7 +985,7 @@
           "cat1": "Clothing",
           "cat2": "Cloaks",
           "cat3": "Cloth",
-          "name": "Alucard Cloak",
+          "name": "Alucard Cloak (Cloth)",
           "colors": {
             "outline": "#130F1B",
             "shade": "#2D1F30",
@@ -999,7 +999,7 @@
           "cat1": "Characters",
           "cat2": "Hair",
           "cat3": "Blond Hair",
-          "name": "Alucard Gold",
+          "name": "Alucard Gold (Blond Hair)",
           "colors": {
             "outline": "#261526",
             "shade": "#9C6F57",
@@ -1013,7 +1013,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Maria Red",
+          "name": "Maria Red (Red Garment)",
           "colors": {
             "outline": "#221526",
             "shade": "#961B5C",
@@ -1027,7 +1027,7 @@
           "cat1": "Monsters",
           "cat2": "Skeleton",
           "cat3": "Bone White",
-          "name": "Skeleton Soldier",
+          "name": "Skeleton Soldier (Bone White)",
           "colors": {
             "outline": "#261526",
             "shade": "#967F73",
@@ -1055,7 +1055,7 @@
           "cat1": "Monsters",
           "cat2": "Demon King",
           "cat3": "Demon King",
-          "name": "Dracula Violet",
+          "name": "Dracula Violet (Demon King)",
           "colors": {
             "outline": "#15101C",
             "shade": "#341634",
@@ -1069,7 +1069,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Arcane Glow",
+          "name": "Arcane Glow (Arcane Purple)",
           "colors": {
             "outline": "#1B1525",
             "shade": "#7A2A90",
@@ -1083,7 +1083,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Hellfire",
+          "name": "Hellfire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -1097,7 +1097,7 @@
           "cat1": "Gear",
           "cat2": "Sword",
           "cat3": "Blade",
-          "name": "Holy Sword",
+          "name": "Holy Sword (Blade)",
           "colors": {
             "outline": "#281627",
             "shade": "#A78D7D",
@@ -1118,7 +1118,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Hyrule Field",
+          "name": "Hyrule Field (Tall Grass)",
           "colors": {
             "outline": "#131723",
             "shade": "#21793F",
@@ -1132,7 +1132,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Sand",
-          "name": "Gerudo Desert",
+          "name": "Gerudo Desert (Sand)",
           "colors": {
             "outline": "#271527",
             "shade": "#A15E48",
@@ -1146,7 +1146,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Volcanic Rock",
-          "name": "Death Mountain Rock",
+          "name": "Death Mountain Rock (Volcanic Rock)",
           "colors": {
             "outline": "#1F1221",
             "shade": "#63121E",
@@ -1188,7 +1188,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Castle Stone",
+          "name": "Castle Stone (Stone Wall)",
           "colors": {
             "outline": "#231323",
             "shade": "#79564A",
@@ -1201,8 +1201,8 @@
         {
           "cat1": "Clothing",
           "cat2": "Cloth",
-          "cat3": "绿衣",
-          "name": "Link Green",
+          "cat3": "Green Tunic",
+          "name": "Link Green (Green Tunic)",
           "colors": {
             "outline": "#131523",
             "shade": "#157353",
@@ -1216,7 +1216,7 @@
           "cat1": "Characters",
           "cat2": "Skin",
           "cat3": "Frog Skin",
-          "name": "Zora Scale",
+          "name": "Zora Scale (Frog Skin)",
           "colors": {
             "outline": "#171525",
             "shade": "#1C3990",
@@ -1230,7 +1230,7 @@
           "cat1": "Animals",
           "cat2": "Horse",
           "cat3": "Warhorse Brown",
-          "name": "Epona",
+          "name": "Epona (Warhorse Brown)",
           "colors": {
             "outline": "#1E1120",
             "shade": "#560E0F",
@@ -1244,7 +1244,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Ganondorf Gold",
+          "name": "Ganondorf Gold (Demon King)",
           "colors": {
             "outline": "#1F1220",
             "shade": "#5C0905",
@@ -1272,7 +1272,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Magma Fire",
+          "name": "Magma Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -1293,7 +1293,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Black Mesa Concrete",
+          "name": "Black Mesa Concrete (Stone Wall)",
           "colors": {
             "outline": "#20111F",
             "shade": "#564F44",
@@ -1321,7 +1321,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Xen Glow",
+          "name": "Xen Glow (Rune Blue)",
           "colors": {
             "outline": "#161828",
             "shade": "#24A783",
@@ -1335,7 +1335,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rot Green",
-          "name": "Zombie Rot",
+          "name": "Zombie Rot (Rot Green)",
           "colors": {
             "outline": "#20121E",
             "shade": "#315829",
@@ -1349,7 +1349,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Clothes",
-          "name": "HEV Suit",
+          "name": "HEV Suit (Clothes)",
           "colors": {
             "outline": "#241525",
             "shade": "#90070E",
@@ -1391,7 +1391,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Waste Water",
+          "name": "Waste Water (River Water)",
           "colors": {
             "outline": "#11151F",
             "shade": "#2D4C2C",
@@ -1419,7 +1419,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "NM Badlands",
+          "name": "NM Badlands (Mud)",
           "colors": {
             "outline": "#211221",
             "shade": "#633F34",
@@ -1440,7 +1440,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Future Metal",
-          "name": "Terran Bunker",
+          "name": "Terran Bunker (Future Metal)",
           "colors": {
             "outline": "#141120",
             "shade": "#3A3956",
@@ -1454,7 +1454,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Char Ash",
+          "name": "Char Ash (Mud)",
           "colors": {
             "outline": "#201221",
             "shade": "#631217",
@@ -1468,7 +1468,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Siege Fire",
+          "name": "Siege Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -1482,7 +1482,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rot Green",
-          "name": "Zerg Swarm",
+          "name": "Zerg Swarm (Rot Green)",
           "colors": {
             "outline": "#1B1323",
             "shade": "#79216A",
@@ -1510,7 +1510,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Psionic Purple",
+          "name": "Psionic Purple (Arcane Purple)",
           "colors": {
             "outline": "#1C1526",
             "shade": "#7E279C",
@@ -1524,7 +1524,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Shield Blue",
+          "name": "Shield Blue (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#171EA7",
@@ -1538,7 +1538,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Marine Armor",
+          "name": "Marine Armor (Iron)",
           "colors": {
             "outline": "#161322",
             "shade": "#4D4D6D",
@@ -1552,7 +1552,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Asteroid Rock",
+          "name": "Asteroid Rock (Mountain Rock)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4B3B3A",
@@ -1566,7 +1566,7 @@
           "cat1": "Effects",
           "cat2": "Corrosion",
           "cat3": "Plague Green",
-          "name": "Acid Green",
+          "name": "Acid Green (Plague Green)",
           "colors": {
             "outline": "#251422",
             "shade": "#188A07",
@@ -1587,7 +1587,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "RPD Corridor",
+          "name": "RPD Corridor (Stone Wall)",
           "colors": {
             "outline": "#1F111F",
             "shade": "#4C4540",
@@ -1601,7 +1601,7 @@
           "cat1": "Architecture",
           "cat2": "Indoor",
           "cat3": "Warm Wood",
-          "name": "RPD Woodwork",
+          "name": "RPD Woodwork (Warm Wood)",
           "colors": {
             "outline": "#201221",
             "shade": "#632A26",
@@ -1629,7 +1629,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rotting Flesh",
-          "name": "Zombie Flesh",
+          "name": "Zombie Flesh (Rotting Flesh)",
           "colors": {
             "outline": "#21121F",
             "shade": "#3B622D",
@@ -1643,7 +1643,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Rotting Flesh",
-          "name": "Licker Muscle",
+          "name": "Licker Muscle (Rotting Flesh)",
           "colors": {
             "outline": "#211424",
             "shade": "#7F1240",
@@ -1657,7 +1657,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Claire Red",
+          "name": "Claire Red (Red Garment)",
           "colors": {
             "outline": "#211425",
             "shade": "#8A104A",
@@ -1671,7 +1671,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Leon Blue",
+          "name": "Leon Blue (Blue Garment)",
           "colors": {
             "outline": "#171323",
             "shade": "#271573",
@@ -1685,7 +1685,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Flamethrower",
+          "name": "Flamethrower (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -1713,7 +1713,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Groundwater",
-          "name": "Sewer Water",
+          "name": "Sewer Water (Groundwater)",
           "colors": {
             "outline": "#10151D",
             "shade": "#233F21",
@@ -1727,7 +1727,7 @@
           "cat1": "Effects",
           "cat2": "Healing",
           "cat3": "Holy Light",
-          "name": "Green Herb",
+          "name": "Green Herb (Holy Light)",
           "colors": {
             "outline": "#141524",
             "shade": "#1F847D",
@@ -1748,7 +1748,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Squall Jacket",
+          "name": "Squall Jacket (Cloth)",
           "colors": {
             "outline": "#120F1B",
             "shade": "#2A2430",
@@ -1762,7 +1762,7 @@
           "cat1": "Characters",
           "cat2": "Hair",
           "cat3": "Brown Hair",
-          "name": "Squall Brown",
+          "name": "Squall Brown (Brown Hair)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4C1510",
@@ -1776,7 +1776,7 @@
           "cat1": "Clothing",
           "cat2": "Cloaks",
           "cat3": "Cloth",
-          "name": "SeeD White",
+          "name": "SeeD White (Cloth)",
           "colors": {
             "outline": "#271628",
             "shade": "#A79994",
@@ -1790,7 +1790,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "GF Circle Purple",
+          "name": "GF Circle Purple (Arcane Purple)",
           "colors": {
             "outline": "#1A1424",
             "shade": "#6F1F84",
@@ -1804,7 +1804,7 @@
           "cat1": "Monsters",
           "cat2": "Demon King",
           "cat3": "Dhaos Violet",
-          "name": "Ultimecia Violet",
+          "name": "Ultimecia Violet (Dhaos Violet)",
           "colors": {
             "outline": "#181220",
             "shade": "#591A5C",
@@ -1818,7 +1818,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Ocean",
-          "name": "Balamb Bay",
+          "name": "Balamb Bay (Ocean)",
           "colors": {
             "outline": "#171424",
             "shade": "#150A84",
@@ -1832,7 +1832,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Steppe",
-          "name": "Training Ground",
+          "name": "Training Ground (Steppe)",
           "colors": {
             "outline": "#131723",
             "shade": "#23733C",
@@ -1846,7 +1846,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Gunblade Steel",
+          "name": "Gunblade Steel (Iron)",
           "colors": {
             "outline": "#171323",
             "shade": "#5D5973",
@@ -1860,7 +1860,7 @@
           "cat1": "Effects",
           "cat2": "Thunder",
           "cat3": "Lightning",
-          "name": "Thunder Magic",
+          "name": "Thunder Magic (Lightning)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD682A",
@@ -1874,7 +1874,7 @@
           "cat1": "Effects",
           "cat2": "Frost",
           "cat3": "Frost",
-          "name": "Blizzard Magic",
+          "name": "Blizzard Magic (Frost)",
           "colors": {
             "outline": "#191628",
             "shade": "#6773AD",
@@ -1888,7 +1888,7 @@
           "cat1": "Props",
           "cat2": "Jewelry",
           "cat3": "Seal Pendant",
-          "name": "GF Horn Charm",
+          "name": "GF Horn Charm (Seal Pendant)",
           "colors": {
             "outline": "#271628",
             "shade": "#A73D10",
@@ -1923,7 +1923,7 @@
           "cat1": "Effects",
           "cat2": "Splash",
           "cat3": "Foam",
-          "name": "Dense Fog",
+          "name": "Dense Fog (Foam)",
           "colors": {
             "outline": "#241424",
             "shade": "#7F716B",
@@ -1951,7 +1951,7 @@
           "cat1": "Architecture",
           "cat2": "Ground",
           "cat3": "Flagstone",
-          "name": "Hospital Tile",
+          "name": "Hospital Tile (Flagstone)",
           "colors": {
             "outline": "#211221",
             "shade": "#635B56",
@@ -1965,7 +1965,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rotting Flesh",
-          "name": "Nurse Rot White",
+          "name": "Nurse Rot White (Rotting Flesh)",
           "colors": {
             "outline": "#251525",
             "shade": "#907B74",
@@ -1979,7 +1979,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Rotting Flesh",
-          "name": "Otherworld Flesh",
+          "name": "Otherworld Flesh (Rotting Flesh)",
           "colors": {
             "outline": "#1E1220",
             "shade": "#5C061C",
@@ -2007,7 +2007,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Otherworld Dark",
+          "name": "Otherworld Dark (Dark Wave)",
           "colors": {
             "outline": "#160E1A",
             "shade": "#281F20",
@@ -2021,7 +2021,7 @@
           "cat1": "Props",
           "cat2": "Parchment",
           "cat3": "Scroll",
-          "name": "Priest Notes",
+          "name": "Priest Notes (Scroll)",
           "colors": {
             "outline": "#241424",
             "shade": "#846155",
@@ -2035,7 +2035,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Ash Fire",
+          "name": "Ash Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -2049,7 +2049,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Maria Red",
+          "name": "Maria Red (Red Garment)",
           "colors": {
             "outline": "#201424",
             "shade": "#7F124E",
@@ -2070,7 +2070,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Liberty Asphalt",
+          "name": "Liberty Asphalt (Stone Wall)",
           "colors": {
             "outline": "#1A101D",
             "shade": "#353334",
@@ -2083,8 +2083,8 @@
         {
           "cat1": "Clothing",
           "cat2": "Leather Armor",
-          "cat3": "皮夹克",
-          "name": "Hero Jacket",
+          "cat3": "Leather Jacket",
+          "name": "Hero Jacket (Leather Jacket)",
           "colors": {
             "outline": "#120F1B",
             "shade": "#2A272E",
@@ -2098,7 +2098,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Cab Yellow",
+          "name": "Cab Yellow (Cloth)",
           "colors": {
             "outline": "#281627",
             "shade": "#A74508",
@@ -2112,7 +2112,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Police Blue",
+          "name": "Police Blue (Starlight Blue)",
           "colors": {
             "outline": "#1A1526",
             "shade": "#370C9C",
@@ -2126,7 +2126,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Explosion Fire",
+          "name": "Explosion Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -2140,7 +2140,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Wanted Red",
+          "name": "Wanted Red (Blood)",
           "colors": {
             "outline": "#211424",
             "shade": "#7F0638",
@@ -2154,7 +2154,7 @@
           "cat1": "Props",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Cash Green",
+          "name": "Cash Green (Gold)",
           "colors": {
             "outline": "#121421",
             "shade": "#1A634D",
@@ -2168,7 +2168,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Harbor Ink",
+          "name": "Harbor Ink (River Water)",
           "colors": {
             "outline": "#12101C",
             "shade": "#181934",
@@ -2182,7 +2182,7 @@
           "cat1": "Architecture",
           "cat2": "Roof",
           "cat3": "Red Tiles",
-          "name": "Neon Red",
+          "name": "Neon Red (Red Tiles)",
           "colors": {
             "outline": "#221425",
             "shade": "#8A1043",
@@ -2210,7 +2210,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Site Dirt",
+          "name": "Site Dirt (Mud)",
           "colors": {
             "outline": "#1F1220",
             "shade": "#583830",
@@ -2231,7 +2231,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Halo Meadow",
+          "name": "Halo Meadow (Tall Grass)",
           "colors": {
             "outline": "#131723",
             "shade": "#21793D",
@@ -2245,7 +2245,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "Chief Olive",
+          "name": "Chief Olive (Steel Armor)",
           "colors": {
             "outline": "#11151F",
             "shade": "#1E4C25",
@@ -2259,7 +2259,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Shield Blue",
+          "name": "Shield Blue (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#0910A7",
@@ -2273,7 +2273,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Assault Rifle",
+          "name": "Assault Rifle (Iron)",
           "colors": {
             "outline": "#141120",
             "shade": "#464756",
@@ -2287,7 +2287,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Covenant Plasma",
+          "name": "Covenant Plasma (Arcane Purple)",
           "colors": {
             "outline": "#1B1525",
             "shade": "#821C90",
@@ -2301,7 +2301,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Flood Rot",
+          "name": "Flood Rot (Demon King)",
           "colors": {
             "outline": "#21121F",
             "shade": "#22631A",
@@ -2315,7 +2315,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Lake",
-          "name": "Ring Sea",
+          "name": "Ring Sea (Lake)",
           "colors": {
             "outline": "#171424",
             "shade": "#090E84",
@@ -2329,7 +2329,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Canyon Rock",
+          "name": "Canyon Rock (Mountain Rock)",
           "colors": {
             "outline": "#20111F",
             "shade": "#564F44",
@@ -2343,7 +2343,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Vehicle Fire",
+          "name": "Vehicle Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -2357,7 +2357,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Future Metal",
-          "name": "Forerunner Alloy",
+          "name": "Forerunner Alloy (Future Metal)",
           "colors": {
             "outline": "#151322",
             "shade": "#4E506D",
@@ -2378,7 +2378,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "White Wall",
-          "name": "Castle Limestone",
+          "name": "Castle Limestone (White Wall)",
           "colors": {
             "outline": "#261526",
             "shade": "#9C8D86",
@@ -2406,7 +2406,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Sunset Glow",
+          "name": "Sunset Glow (Holy Light)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD7153",
@@ -2420,7 +2420,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Shadow Mist",
+          "name": "Shadow Mist (Dark Wave)",
           "colors": {
             "outline": "#120E1A",
             "shade": "#231C2A",
@@ -2434,7 +2434,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Yorda White",
+          "name": "Yorda White (Cloth)",
           "colors": {
             "outline": "#281628",
             "shade": "#AA9F99",
@@ -2448,7 +2448,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Clothes",
-          "name": "ICO Tunic",
+          "name": "ICO Tunic (Clothes)",
           "colors": {
             "outline": "#211221",
             "shade": "#634034",
@@ -2462,7 +2462,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Steppe",
-          "name": "Outer Grass",
+          "name": "Outer Grass (Steppe)",
           "colors": {
             "outline": "#131823",
             "shade": "#367941",
@@ -2490,7 +2490,7 @@
           "cat1": "Architecture",
           "cat2": "Indoor",
           "cat3": "Warm Wood",
-          "name": "Windmill Wood",
+          "name": "Windmill Wood (Warm Wood)",
           "colors": {
             "outline": "#221323",
             "shade": "#732D23",
@@ -2525,7 +2525,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Ocean",
-          "name": "Besaid Bay",
+          "name": "Besaid Bay (Ocean)",
           "colors": {
             "outline": "#161424",
             "shade": "#0A2B84",
@@ -2539,7 +2539,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Mi'ihen Grass",
+          "name": "Mi'ihen Grass (Tall Grass)",
           "colors": {
             "outline": "#131723",
             "shade": "#21793F",
@@ -2553,7 +2553,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Tidus Yellow",
+          "name": "Tidus Yellow (Cloth)",
           "colors": {
             "outline": "#281628",
             "shade": "#A74410",
@@ -2567,7 +2567,7 @@
           "cat1": "Characters",
           "cat2": "Hair",
           "cat3": "Brown Hair",
-          "name": "Yuna Brown",
+          "name": "Yuna Brown (Brown Hair)",
           "colors": {
             "outline": "#1C101E",
             "shade": "#411317",
@@ -2581,7 +2581,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Summoner Dress",
+          "name": "Summoner Dress (Blue Garment)",
           "colors": {
             "outline": "#181526",
             "shade": "#50579C",
@@ -2595,7 +2595,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Sin Violet",
+          "name": "Sin Violet (Demon King)",
           "colors": {
             "outline": "#15101D",
             "shade": "#341635",
@@ -2609,7 +2609,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Prayer Light",
+          "name": "Prayer Light (Holy Light)",
           "colors": {
             "outline": "#291628",
             "shade": "#B39888",
@@ -2623,7 +2623,7 @@
           "cat1": "Effects",
           "cat2": "Splash",
           "cat3": "Foam",
-          "name": "Water Magic",
+          "name": "Water Magic (Foam)",
           "colors": {
             "outline": "#181628",
             "shade": "#324FA7",
@@ -2665,7 +2665,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Pyrefly Glow",
+          "name": "Pyrefly Glow (Torch)",
           "colors": {
             "outline": "#251525",
             "shade": "#904B30",
@@ -2686,7 +2686,7 @@
           "cat1": "Environment",
           "cat2": "Jungle",
           "cat3": "Jungle Grass",
-          "name": "Tallon Jungle",
+          "name": "Tallon Jungle (Jungle Grass)",
           "colors": {
             "outline": "#11131F",
             "shade": "#1E4B35",
@@ -2700,7 +2700,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "Samus Armor",
+          "name": "Samus Armor (Steel Armor)",
           "colors": {
             "outline": "#251526",
             "shade": "#9C080C",
@@ -2714,7 +2714,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Phazon Blue",
+          "name": "Phazon Blue (Starlight Blue)",
           "colors": {
             "outline": "#1A1526",
             "shade": "#45199C",
@@ -2728,7 +2728,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Energy Beam",
+          "name": "Energy Beam (Rune Blue)",
           "colors": {
             "outline": "#161628",
             "shade": "#2474A7",
@@ -2742,7 +2742,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Mine Rot",
+          "name": "Mine Rot (Mud)",
           "colors": {
             "outline": "#1D101C",
             "shade": "#352E23",
@@ -2756,7 +2756,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Future Metal",
-          "name": "Chozo Alloy",
+          "name": "Chozo Alloy (Future Metal)",
           "colors": {
             "outline": "#131221",
             "shade": "#4F5763",
@@ -2784,7 +2784,7 @@
           "cat1": "Environment",
           "cat2": "Frost",
           "cat3": "Frost",
-          "name": "Phendrana Ice",
+          "name": "Phendrana Ice (Frost)",
           "colors": {
             "outline": "#181628",
             "shade": "#767EA7",
@@ -2798,7 +2798,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Magmoor Fire",
+          "name": "Magmoor Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -2812,7 +2812,7 @@
           "cat1": "Metal",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Energy Tank",
+          "name": "Energy Tank (Gold)",
           "colors": {
             "outline": "#271527",
             "shade": "#A13A11",
@@ -2833,7 +2833,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Lordaeron Grass",
+          "name": "Lordaeron Grass (Tall Grass)",
           "colors": {
             "outline": "#131622",
             "shade": "#246D47",
@@ -2861,7 +2861,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Alliance Blue",
+          "name": "Alliance Blue (Starlight Blue)",
           "colors": {
             "outline": "#181424",
             "shade": "#2C127F",
@@ -2875,7 +2875,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Horde Red",
+          "name": "Horde Red (Blood)",
           "colors": {
             "outline": "#211424",
             "shade": "#7F062C",
@@ -2889,7 +2889,7 @@
           "cat1": "Effects",
           "cat2": "Toxin",
           "cat3": "Venom",
-          "name": "Scourge Green",
+          "name": "Scourge Green (Venom)",
           "colors": {
             "outline": "#131723",
             "shade": "#157327",
@@ -2903,7 +2903,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Night Elf Purple",
+          "name": "Night Elf Purple (Arcane Purple)",
           "colors": {
             "outline": "#1A1323",
             "shade": "#6A2179",
@@ -2931,7 +2931,7 @@
           "cat1": "Environment",
           "cat2": "Trees",
           "cat3": "Broadleaf Tree",
-          "name": "World Tree",
+          "name": "World Tree (Broadleaf Tree)",
           "colors": {
             "outline": "#111420",
             "shade": "#1C5639",
@@ -2945,7 +2945,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Bone White",
-          "name": "Ghoul Bone",
+          "name": "Ghoul Bone (Bone White)",
           "colors": {
             "outline": "#251526",
             "shade": "#95756C",
@@ -2959,7 +2959,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Rain of Fire",
+          "name": "Rain of Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -2980,7 +2980,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Sora Red",
+          "name": "Sora Red (Red Garment)",
           "colors": {
             "outline": "#231526",
             "shade": "#9C083F",
@@ -2994,7 +2994,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Sora Yellow",
+          "name": "Sora Yellow (Cloth)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD3F09",
@@ -3008,7 +3008,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Heartless Black",
+          "name": "Heartless Black (Dark Wave)",
           "colors": {
             "outline": "#120E1A",
             "shade": "#1A1520",
@@ -3022,7 +3022,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Cure Blue",
+          "name": "Cure Blue (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#171EA7",
@@ -3064,7 +3064,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Ocean",
-          "name": "Destiny Sea",
+          "name": "Destiny Sea (Ocean)",
           "colors": {
             "outline": "#171525",
             "shade": "#0E2490",
@@ -3092,7 +3092,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Undead",
-          "name": "Shadow Eyes",
+          "name": "Shadow Eyes (Undead)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD4D09",
@@ -3106,7 +3106,7 @@
           "cat1": "Architecture",
           "cat2": "Castle",
           "cat3": "Stone Wall",
-          "name": "Disney Castle",
+          "name": "Disney Castle (Stone Wall)",
           "colors": {
             "outline": "#1C1526",
             "shade": "#977F9C",
@@ -3120,7 +3120,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Awakening Circle",
+          "name": "Awakening Circle (Arcane Purple)",
           "colors": {
             "outline": "#1B1525",
             "shade": "#7A2A90",
@@ -3155,7 +3155,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Ocean",
-          "name": "Great Sea",
+          "name": "Great Sea (Ocean)",
           "colors": {
             "outline": "#171525",
             "shade": "#071590",
@@ -3182,8 +3182,8 @@
         {
           "cat1": "Clothing",
           "cat2": "Cloth",
-          "cat3": "绿衣",
-          "name": "Toon Link Green",
+          "cat3": "Green Tunic",
+          "name": "Toon Link Green (Green Tunic)",
           "colors": {
             "outline": "#141724",
             "shade": "#207F4F",
@@ -3197,7 +3197,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Red Lion Sail",
+          "name": "Red Lion Sail (Red Garment)",
           "colors": {
             "outline": "#231526",
             "shade": "#960735",
@@ -3211,7 +3211,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Undead",
-          "name": "Bokoblin Green",
+          "name": "Bokoblin Green (Undead)",
           "colors": {
             "outline": "#131722",
             "shade": "#246D2A",
@@ -3225,7 +3225,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Wind Waker Glow",
+          "name": "Wind Waker Glow (Holy Light)",
           "colors": {
             "outline": "#291629",
             "shade": "#B37451",
@@ -3239,7 +3239,7 @@
           "cat1": "Architecture",
           "cat2": "Roof",
           "cat3": "Red Tiles",
-          "name": "Red Lion Prow",
+          "name": "Red Lion Prow (Red Tiles)",
           "colors": {
             "outline": "#231525",
             "shade": "#900E36",
@@ -3253,7 +3253,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Fishman Rock",
+          "name": "Fishman Rock (Mountain Rock)",
           "colors": {
             "outline": "#201221",
             "shade": "#62514F",
@@ -3288,7 +3288,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Elwynn Grass",
+          "name": "Elwynn Grass (Tall Grass)",
           "colors": {
             "outline": "#131622",
             "shade": "#186F35",
@@ -3302,7 +3302,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Sand",
-          "name": "Orgrimmar Rock",
+          "name": "Orgrimmar Rock (Sand)",
           "colors": {
             "outline": "#211323",
             "shade": "#791421",
@@ -3316,7 +3316,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Dalaran Violet",
+          "name": "Dalaran Violet (Arcane Purple)",
           "colors": {
             "outline": "#1A1424",
             "shade": "#6D207F",
@@ -3330,7 +3330,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Wood",
-          "name": "Stormwind Timber",
+          "name": "Stormwind Timber (Wood)",
           "colors": {
             "outline": "#251525",
             "shade": "#906C60",
@@ -3344,7 +3344,7 @@
           "cat1": "Architecture",
           "cat2": "Roof",
           "cat3": "Blue Tiles",
-          "name": "Stormwind Roof",
+          "name": "Stormwind Roof (Blue Tiles)",
           "colors": {
             "outline": "#171323",
             "shade": "#1B1479",
@@ -3372,7 +3372,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Bone White",
-          "name": "Forsaken Bone",
+          "name": "Forsaken Bone (Bone White)",
           "colors": {
             "outline": "#261526",
             "shade": "#96817A",
@@ -3400,7 +3400,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Fire Elemental",
+          "name": "Fire Elemental (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -3428,7 +3428,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Lake",
-          "name": "Kalimdor Sea",
+          "name": "Kalimdor Sea (Lake)",
           "colors": {
             "outline": "#161323",
             "shade": "#0C1779",
@@ -3449,7 +3449,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "City 17 Wall",
+          "name": "City 17 Wall (Stone Wall)",
           "colors": {
             "outline": "#20121F",
             "shade": "#58534D",
@@ -3463,7 +3463,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "HEV Orange",
+          "name": "HEV Orange (Steel Armor)",
           "colors": {
             "outline": "#241525",
             "shade": "#900C07",
@@ -3477,7 +3477,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Combine Alloy",
+          "name": "Combine Alloy (Iron)",
           "colors": {
             "outline": "#141120",
             "shade": "#393A56",
@@ -3491,7 +3491,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Wasteland Dirt",
+          "name": "Wasteland Dirt (Mud)",
           "colors": {
             "outline": "#211221",
             "shade": "#634634",
@@ -3505,7 +3505,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Gravity Gun",
+          "name": "Gravity Gun (Starlight Blue)",
           "colors": {
             "outline": "#181526",
             "shade": "#19219C",
@@ -3519,7 +3519,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rotting Flesh",
-          "name": "Zombie Flesh",
+          "name": "Zombie Flesh (Rotting Flesh)",
           "colors": {
             "outline": "#20121F",
             "shade": "#584229",
@@ -3533,7 +3533,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Molotov Fire",
+          "name": "Molotov Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -3561,7 +3561,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Canal Water",
+          "name": "Canal Water (River Water)",
           "colors": {
             "outline": "#10111D",
             "shade": "#303F3E",
@@ -3596,7 +3596,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Village Stone",
+          "name": "Village Stone (Stone Wall)",
           "colors": {
             "outline": "#211221",
             "shade": "#634034",
@@ -3610,7 +3610,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Farm Ochre",
+          "name": "Farm Ochre (Mud)",
           "colors": {
             "outline": "#221322",
             "shade": "#6F3A2A",
@@ -3624,7 +3624,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rotting Flesh",
-          "name": "Villager Flesh",
+          "name": "Villager Flesh (Rotting Flesh)",
           "colors": {
             "outline": "#211221",
             "shade": "#634034",
@@ -3638,7 +3638,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Plaga Red",
+          "name": "Plaga Red (Blood)",
           "colors": {
             "outline": "#221425",
             "shade": "#8A0731",
@@ -3666,7 +3666,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Ada Red",
+          "name": "Ada Red (Red Garment)",
           "colors": {
             "outline": "#201424",
             "shade": "#7F0647",
@@ -3680,7 +3680,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Church Blue",
+          "name": "Church Blue (Stone Wall)",
           "colors": {
             "outline": "#151120",
             "shade": "#2A1C56",
@@ -3694,7 +3694,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Mine Rust",
+          "name": "Mine Rust (Iron)",
           "colors": {
             "outline": "#1F1220",
             "shade": "#581F1B",
@@ -3708,7 +3708,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Bonfire",
+          "name": "Bonfire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -3722,7 +3722,7 @@
           "cat1": "Props",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Treasure Goblet",
+          "name": "Treasure Goblet (Gold)",
           "colors": {
             "outline": "#271527",
             "shade": "#A14111",
@@ -3757,7 +3757,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Wasteland Soil",
+          "name": "Wasteland Soil (Mud)",
           "colors": {
             "outline": "#211221",
             "shade": "#634B42",
@@ -3771,7 +3771,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Colossus Moss",
+          "name": "Colossus Moss (Mountain Rock)",
           "colors": {
             "outline": "#121520",
             "shade": "#44584C",
@@ -3785,7 +3785,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Wander Blue",
+          "name": "Wander Blue (Blue Garment)",
           "colors": {
             "outline": "#151120",
             "shade": "#312956",
@@ -3799,7 +3799,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Mono Red",
+          "name": "Mono Red (Red Garment)",
           "colors": {
             "outline": "#1F1221",
             "shade": "#63122D",
@@ -3813,7 +3813,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Light Trail",
+          "name": "Light Trail (Starlight Blue)",
           "colors": {
             "outline": "#181526",
             "shade": "#353C9C",
@@ -3827,7 +3827,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Dormin Dark",
+          "name": "Dormin Dark (Dark Wave)",
           "colors": {
             "outline": "#120E1A",
             "shade": "#28262A",
@@ -3841,7 +3841,7 @@
           "cat1": "Animals",
           "cat2": "Horse",
           "cat3": "Warhorse Brown",
-          "name": "Agro Brown",
+          "name": "Agro Brown (Warhorse Brown)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4C1717",
@@ -3869,7 +3869,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Sky Light",
+          "name": "Sky Light (Holy Light)",
           "colors": {
             "outline": "#281628",
             "shade": "#A79891",
@@ -3890,7 +3890,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Cyrodiil Hills",
+          "name": "Cyrodiil Hills (Tall Grass)",
           "colors": {
             "outline": "#131622",
             "shade": "#246F39",
@@ -3904,7 +3904,7 @@
           "cat1": "Environment",
           "cat2": "Trees",
           "cat3": "Broadleaf Tree",
-          "name": "Great Forest Oak",
+          "name": "Great Forest Oak (Broadleaf Tree)",
           "colors": {
             "outline": "#11131F",
             "shade": "#1E4B35",
@@ -3918,7 +3918,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Imperial White",
+          "name": "Imperial White (Stone Wall)",
           "colors": {
             "outline": "#241424",
             "shade": "#7F685D",
@@ -3932,7 +3932,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "Guard Steel",
+          "name": "Guard Steel (Steel Armor)",
           "colors": {
             "outline": "#161220",
             "shade": "#56515C",
@@ -3946,7 +3946,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Mages Guild",
+          "name": "Mages Guild (Arcane Purple)",
           "colors": {
             "outline": "#1A1323",
             "shade": "#6A2179",
@@ -3960,7 +3960,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Oblivion Fire",
+          "name": "Oblivion Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -3974,7 +3974,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Bone White",
-          "name": "Skeleton Guard",
+          "name": "Skeleton Guard (Bone White)",
           "colors": {
             "outline": "#251525",
             "shade": "#90786E",
@@ -4016,7 +4016,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Restoration Light",
+          "name": "Restoration Light (Holy Light)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD907B",
@@ -4037,7 +4037,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Amaterasu Red",
+          "name": "Amaterasu Red (Red Garment)",
           "colors": {
             "outline": "#221525",
             "shade": "#900739",
@@ -4051,7 +4051,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Celestial Brush Gold",
+          "name": "Celestial Brush Gold (Holy Light)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD592A",
@@ -4065,7 +4065,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Demon Ink",
+          "name": "Demon Ink (Dark Wave)",
           "colors": {
             "outline": "#150E1A",
             "shade": "#20151A",
@@ -4093,7 +4093,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Ink River",
+          "name": "Ink River (River Water)",
           "colors": {
             "outline": "#171424",
             "shade": "#111184",
@@ -4107,7 +4107,7 @@
           "cat1": "Environment",
           "cat2": "Trees",
           "cat3": "Broadleaf Tree",
-          "name": "Sakura Tree",
+          "name": "Sakura Tree (Broadleaf Tree)",
           "colors": {
             "outline": "#231628",
             "shade": "#A76892",
@@ -4121,7 +4121,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Fireburst",
+          "name": "Fireburst (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -4135,7 +4135,7 @@
           "cat1": "Architecture",
           "cat2": "Roof",
           "cat3": "Red Tiles",
-          "name": "Shrine Roof",
+          "name": "Shrine Roof (Red Tiles)",
           "colors": {
             "outline": "#221424",
             "shade": "#84072D",
@@ -4149,7 +4149,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Evil Mist",
+          "name": "Evil Mist (Arcane Purple)",
           "colors": {
             "outline": "#1A1323",
             "shade": "#6A2179",
@@ -4198,7 +4198,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Rapture Stone",
+          "name": "Rapture Stone (Stone Wall)",
           "colors": {
             "outline": "#11141E",
             "shade": "#3B453D",
@@ -4212,7 +4212,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Electro Bolt",
+          "name": "Electro Bolt (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#1717A7",
@@ -4226,7 +4226,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Incinerate",
+          "name": "Incinerate (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -4254,7 +4254,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Leaking Sea",
+          "name": "Leaking Sea (River Water)",
           "colors": {
             "outline": "#151322",
             "shade": "#16246F",
@@ -4268,7 +4268,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Big Daddy Brass",
+          "name": "Big Daddy Brass (Demon King)",
           "colors": {
             "outline": "#241424",
             "shade": "#7F472E",
@@ -4282,7 +4282,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Little Sister Red",
+          "name": "Little Sister Red (Red Garment)",
           "colors": {
             "outline": "#211425",
             "shade": "#8A1051",
@@ -4296,7 +4296,7 @@
           "cat1": "Architecture",
           "cat2": "Decor",
           "cat3": "Crimson Carpet",
-          "name": "Deco Carpet",
+          "name": "Deco Carpet (Crimson Carpet)",
           "colors": {
             "outline": "#1D111F",
             "shade": "#510F2B",
@@ -4310,7 +4310,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Telekinesis",
+          "name": "Telekinesis (Arcane Purple)",
           "colors": {
             "outline": "#1B1525",
             "shade": "#7A2A90",
@@ -4331,7 +4331,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "White Wall",
-          "name": "Lab Tile",
+          "name": "Lab Tile (White Wall)",
           "colors": {
             "outline": "#261525",
             "shade": "#9C958D",
@@ -4345,7 +4345,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Maintenance Gray",
+          "name": "Maintenance Gray (Stone Wall)",
           "colors": {
             "outline": "#20121F",
             "shade": "#58544E",
@@ -4359,7 +4359,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Blue Portal",
+          "name": "Blue Portal (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#091AAD",
@@ -4373,7 +4373,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Orange Portal",
+          "name": "Orange Portal (Torch)",
           "colors": {
             "outline": "#281729",
             "shade": "#B61209",
@@ -4387,7 +4387,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Cube Steel",
+          "name": "Cube Steel (Iron)",
           "colors": {
             "outline": "#141120",
             "shade": "#444456",
@@ -4401,7 +4401,7 @@
           "cat1": "Effects",
           "cat2": "Toxin",
           "cat3": "Venom",
-          "name": "Neurotoxin",
+          "name": "Neurotoxin (Venom)",
           "colors": {
             "outline": "#111620",
             "shade": "#1D561E",
@@ -4415,7 +4415,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Emancipation Grill",
+          "name": "Emancipation Grill (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -4429,7 +4429,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Chell Orange",
+          "name": "Chell Orange (Blue Garment)",
           "colors": {
             "outline": "#241525",
             "shade": "#900F08",
@@ -4443,7 +4443,7 @@
           "cat1": "Metal",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Companion Cube",
+          "name": "Companion Cube (Gold)",
           "colors": {
             "outline": "#211525",
             "shade": "#902A72",
@@ -4464,7 +4464,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Deep Space",
+          "name": "Deep Space (Dark Wave)",
           "colors": {
             "outline": "#130F1B",
             "shade": "#230D30",
@@ -4478,7 +4478,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Stardust Gold",
+          "name": "Stardust Gold (Starlight Blue)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD693E",
@@ -4506,7 +4506,7 @@
           "cat1": "Metal",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Power Star",
+          "name": "Power Star (Gold)",
           "colors": {
             "outline": "#291628",
             "shade": "#B35B14",
@@ -4520,7 +4520,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Comet Purple",
+          "name": "Comet Purple (Arcane Purple)",
           "colors": {
             "outline": "#1C1525",
             "shade": "#892A90",
@@ -4534,7 +4534,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Asteroid Rock",
+          "name": "Asteroid Rock (Mountain Rock)",
           "colors": {
             "outline": "#1F1120",
             "shade": "#564644",
@@ -4548,7 +4548,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Solar Fire",
+          "name": "Solar Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -4562,7 +4562,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Lake",
-          "name": "Water Planet",
+          "name": "Water Planet (Lake)",
           "colors": {
             "outline": "#181526",
             "shade": "#0C139C",
@@ -4576,7 +4576,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Galaxy Red",
+          "name": "Galaxy Red (Red Garment)",
           "colors": {
             "outline": "#241526",
             "shade": "#9C0839",
@@ -4590,7 +4590,7 @@
           "cat1": "Effects",
           "cat2": "Splash",
           "cat3": "Foam",
-          "name": "Ice Flower",
+          "name": "Ice Flower (Foam)",
           "colors": {
             "outline": "#181628",
             "shade": "#7581AD",
@@ -4611,7 +4611,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Capital Wasteland",
+          "name": "Capital Wasteland (Mud)",
           "colors": {
             "outline": "#20121F",
             "shade": "#584837",
@@ -4625,7 +4625,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Cloth Armor",
-          "name": "Vault Blue",
+          "name": "Vault Blue (Cloth Armor)",
           "colors": {
             "outline": "#171323",
             "shade": "#1B1479",
@@ -4639,7 +4639,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Radiation Glow",
+          "name": "Radiation Glow (Rune Blue)",
           "colors": {
             "outline": "#151925",
             "shade": "#0E9024",
@@ -4653,7 +4653,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Ruined Concrete",
+          "name": "Ruined Concrete (Stone Wall)",
           "colors": {
             "outline": "#201220",
             "shade": "#584944",
@@ -4667,7 +4667,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Rusty Sheet",
+          "name": "Rusty Sheet (Iron)",
           "colors": {
             "outline": "#201221",
             "shade": "#63191B",
@@ -4681,7 +4681,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Car Fire",
+          "name": "Car Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -4695,7 +4695,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rotting Flesh",
-          "name": "Ghoul Flesh",
+          "name": "Ghoul Flesh (Rotting Flesh)",
           "colors": {
             "outline": "#211220",
             "shade": "#634E34",
@@ -4709,7 +4709,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Clothes",
-          "name": "Raider Leather",
+          "name": "Raider Leather (Clothes)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4C281E",
@@ -4737,7 +4737,7 @@
           "cat1": "Props",
           "cat2": "Minerals",
           "cat3": "Iron Ore",
-          "name": "Scrap Metal",
+          "name": "Scrap Metal (Iron Ore)",
           "colors": {
             "outline": "#1D1120",
             "shade": "#565254",
@@ -4758,7 +4758,7 @@
           "cat1": "Environment",
           "cat2": "Snowfield",
           "cat3": "Snow Cover",
-          "name": "Nepal Snow",
+          "name": "Nepal Snow (Snow Cover)",
           "colors": {
             "outline": "#191628",
             "shade": "#9396AD",
@@ -4772,7 +4772,7 @@
           "cat1": "Environment",
           "cat2": "Jungle",
           "cat3": "Jungle Grass",
-          "name": "Jungle Green",
+          "name": "Jungle Green (Jungle Grass)",
           "colors": {
             "outline": "#111420",
             "shade": "#1C5637",
@@ -4800,7 +4800,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Canyon Rock",
+          "name": "Canyon Rock (Mountain Rock)",
           "colors": {
             "outline": "#201120",
             "shade": "#564137",
@@ -4814,7 +4814,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Nate Shirt",
+          "name": "Nate Shirt (Blue Garment)",
           "colors": {
             "outline": "#161323",
             "shade": "#2E2373",
@@ -4828,7 +4828,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Clothes",
-          "name": "Rogue Leather",
+          "name": "Rogue Leather (Clothes)",
           "colors": {
             "outline": "#1D101E",
             "shade": "#412221",
@@ -4842,7 +4842,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Tree Sapphire",
+          "name": "Tree Sapphire (Rune Blue)",
           "colors": {
             "outline": "#171525",
             "shade": "#1C3290",
@@ -4856,7 +4856,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Train Fire",
+          "name": "Train Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -4870,7 +4870,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Melt River",
+          "name": "Melt River (River Water)",
           "colors": {
             "outline": "#161323",
             "shade": "#213079",
@@ -4884,7 +4884,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Ancient Stone",
+          "name": "Ancient Stone (Stone Wall)",
           "colors": {
             "outline": "#211221",
             "shade": "#634B42",
@@ -4905,7 +4905,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Boletaria Stone",
+          "name": "Boletaria Stone (Stone Wall)",
           "colors": {
             "outline": "#1E101D",
             "shade": "#413A35",
@@ -4919,7 +4919,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Steppe",
-          "name": "Valley Fog Grass",
+          "name": "Valley Fog Grass (Steppe)",
           "colors": {
             "outline": "#111620",
             "shade": "#39563A",
@@ -4933,7 +4933,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Soul Remains",
+          "name": "Soul Remains (Rune Blue)",
           "colors": {
             "outline": "#181526",
             "shade": "#27369C",
@@ -4947,7 +4947,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Soul Sorcery",
+          "name": "Soul Sorcery (Arcane Purple)",
           "colors": {
             "outline": "#1A1323",
             "shade": "#6A2179",
@@ -4961,7 +4961,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Old King Demon",
+          "name": "Old King Demon (Demon King)",
           "colors": {
             "outline": "#1E1220",
             "shade": "#5C0D27",
@@ -4975,7 +4975,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "Knight Mail",
+          "name": "Knight Mail (Steel Armor)",
           "colors": {
             "outline": "#16111F",
             "shade": "#4D4752",
@@ -4989,7 +4989,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Rusted Sword",
+          "name": "Rusted Sword (Iron)",
           "colors": {
             "outline": "#1F111E",
             "shade": "#4B4640",
@@ -5003,7 +5003,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Dragon Fire",
+          "name": "Dragon Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -5066,7 +5066,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "West Elizabeth",
+          "name": "West Elizabeth (Tall Grass)",
           "colors": {
             "outline": "#121721",
             "shade": "#266327",
@@ -5080,7 +5080,7 @@
           "cat1": "Environment",
           "cat2": "Snowfield",
           "cat3": "Snow Cover",
-          "name": "Great Plains Snow",
+          "name": "Great Plains Snow (Snow Cover)",
           "colors": {
             "outline": "#191628",
             "shade": "#979AAA",
@@ -5094,7 +5094,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Clothes",
-          "name": "John Jacket",
+          "name": "John Jacket (Clothes)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4C1917",
@@ -5108,7 +5108,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Denim Blue",
+          "name": "Denim Blue (Cloth)",
           "colors": {
             "outline": "#171323",
             "shade": "#271573",
@@ -5122,7 +5122,7 @@
           "cat1": "Animals",
           "cat2": "Horse",
           "cat3": "Warhorse Brown",
-          "name": "Cowboy Horse",
+          "name": "Cowboy Horse (Warhorse Brown)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4C1510",
@@ -5150,7 +5150,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Campfire",
+          "name": "Campfire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -5178,7 +5178,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Red Rock",
+          "name": "Red Rock (Mountain Rock)",
           "colors": {
             "outline": "#221323",
             "shade": "#791B1E",
@@ -5199,7 +5199,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Short Grass",
-          "name": "Grass Block",
+          "name": "Grass Block (Short Grass)",
           "colors": {
             "outline": "#141825",
             "shade": "#3C8852",
@@ -5241,7 +5241,7 @@
           "cat1": "Environment",
           "cat2": "Trees",
           "cat3": "Broadleaf Tree",
-          "name": "Oak Log",
+          "name": "Oak Log (Broadleaf Tree)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4C2319",
@@ -5255,7 +5255,7 @@
           "cat1": "Environment",
           "cat2": "Trees",
           "cat3": "Wood Eaves",
-          "name": "Oak Leaves",
+          "name": "Oak Leaves (Wood Eaves)",
           "colors": {
             "outline": "#121620",
             "shade": "#0E5814",
@@ -5269,7 +5269,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Lake",
-          "name": "Water",
+          "name": "Water (Lake)",
           "colors": {
             "outline": "#191525",
             "shade": "#371090",
@@ -5297,7 +5297,7 @@
           "cat1": "Props",
           "cat2": "Minerals",
           "cat3": "Iron Ore",
-          "name": "Diamond Ore",
+          "name": "Diamond Ore (Iron Ore)",
           "colors": {
             "outline": "#161628",
             "shade": "#0875A9",
@@ -5325,7 +5325,7 @@
           "cat1": "Props",
           "cat2": "Minerals",
           "cat3": "Copper Ore",
-          "name": "Gold Ore",
+          "name": "Gold Ore (Copper Ore)",
           "colors": {
             "outline": "#291728",
             "shade": "#B56616",
@@ -5339,7 +5339,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Lava",
+          "name": "Lava (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -5353,7 +5353,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Brick Wall",
-          "name": "Crafting Table",
+          "name": "Crafting Table (Brick Wall)",
           "colors": {
             "outline": "#1F1120",
             "shade": "#571E1D",
@@ -5374,7 +5374,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Asylum Stone",
+          "name": "Asylum Stone (Stone Wall)",
           "colors": {
             "outline": "#1E101D",
             "shade": "#413E3A",
@@ -5388,7 +5388,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Bonfire Ember",
+          "name": "Bonfire Ember (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -5402,7 +5402,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Soul Sorcery",
+          "name": "Soul Sorcery (Rune Blue)",
           "colors": {
             "outline": "#181526",
             "shade": "#283396",
@@ -5416,7 +5416,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Miracle Gold",
+          "name": "Miracle Gold (Arcane Purple)",
           "colors": {
             "outline": "#281627",
             "shade": "#A77B62",
@@ -5430,7 +5430,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Bone White",
-          "name": "Hollow Bone",
+          "name": "Hollow Bone (Bone White)",
           "colors": {
             "outline": "#251425",
             "shade": "#8A7468",
@@ -5444,7 +5444,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Abyss Black",
+          "name": "Abyss Black (Demon King)",
           "colors": {
             "outline": "#120E1A",
             "shade": "#1A1520",
@@ -5458,7 +5458,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "Elite Knight Mail",
+          "name": "Elite Knight Mail (Steel Armor)",
           "colors": {
             "outline": "#1C111F",
             "shade": "#4B4749",
@@ -5472,7 +5472,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Steppe",
-          "name": "Undead Burg Grass",
+          "name": "Undead Burg Grass (Steppe)",
           "colors": {
             "outline": "#111620",
             "shade": "#375637",
@@ -5486,7 +5486,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Drake Sword",
+          "name": "Drake Sword (Iron)",
           "colors": {
             "outline": "#161220",
             "shade": "#57505E",
@@ -5514,7 +5514,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Groundwater",
-          "name": "Blighttown Swamp",
+          "name": "Blighttown Swamp (Groundwater)",
           "colors": {
             "outline": "#10151E",
             "shade": "#224121",
@@ -5535,7 +5535,7 @@
           "cat1": "Environment",
           "cat2": "Snowfield",
           "cat3": "Snow Cover",
-          "name": "Skyrim Snow",
+          "name": "Skyrim Snow (Snow Cover)",
           "colors": {
             "outline": "#191628",
             "shade": "#9596A8",
@@ -5549,7 +5549,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Short Grass",
-          "name": "Tundra Grass",
+          "name": "Tundra Grass (Short Grass)",
           "colors": {
             "outline": "#111520",
             "shade": "#30563A",
@@ -5563,7 +5563,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Aurora Green",
+          "name": "Aurora Green (Starlight Blue)",
           "colors": {
             "outline": "#151625",
             "shade": "#2A9090",
@@ -5577,7 +5577,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Shout Blue",
+          "name": "Shout Blue (Rune Blue)",
           "colors": {
             "outline": "#181526",
             "shade": "#19219C",
@@ -5605,7 +5605,7 @@
           "cat1": "Monsters",
           "cat2": "Drake",
           "cat3": "Fire Drake",
-          "name": "Black Dragon Scale",
+          "name": "Black Dragon Scale (Fire Drake)",
           "colors": {
             "outline": "#190F1B",
             "shade": "#333032",
@@ -5619,7 +5619,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Leather Armor",
-          "name": "Thieves Guild",
+          "name": "Thieves Guild (Leather Armor)",
           "colors": {
             "outline": "#1D101E",
             "shade": "#41201A",
@@ -5661,7 +5661,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Dragon Fire",
+          "name": "Dragon Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -5682,7 +5682,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Sand",
-          "name": "Golden Dunes",
+          "name": "Golden Dunes (Sand)",
           "colors": {
             "outline": "#261526",
             "shade": "#9C422E",
@@ -5696,7 +5696,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Traveler Red",
+          "name": "Traveler Red (Red Garment)",
           "colors": {
             "outline": "#221425",
             "shade": "#8A0729",
@@ -5710,7 +5710,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Sand",
-          "name": "Snow Dune",
+          "name": "Snow Dune (Sand)",
           "colors": {
             "outline": "#271628",
             "shade": "#A7847D",
@@ -5724,7 +5724,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Glyph Blue",
+          "name": "Glyph Blue (Rune Blue)",
           "colors": {
             "outline": "#181526",
             "shade": "#27369C",
@@ -5738,7 +5738,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Summit Light",
+          "name": "Summit Light (Holy Light)",
           "colors": {
             "outline": "#291629",
             "shade": "#B39A8E",
@@ -5752,7 +5752,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Underground Stone",
+          "name": "Underground Stone (Mountain Rock)",
           "colors": {
             "outline": "#201221",
             "shade": "#633B3C",
@@ -5766,7 +5766,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Temple Shadow",
+          "name": "Temple Shadow (Arcane Purple)",
           "colors": {
             "outline": "#181120",
             "shade": "#56294F",
@@ -5780,7 +5780,7 @@
           "cat1": "Animals",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Carpet Red",
+          "name": "Carpet Red (Cloth)",
           "colors": {
             "outline": "#211323",
             "shade": "#79142F",
@@ -5794,7 +5794,7 @@
           "cat1": "Effects",
           "cat2": "Splash",
           "cat3": "Foam",
-          "name": "Energy Stream",
+          "name": "Energy Stream (Foam)",
           "colors": {
             "outline": "#171628",
             "shade": "#8495A7",
@@ -5808,7 +5808,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Ancient Shadow",
+          "name": "Ancient Shadow (Dark Wave)",
           "colors": {
             "outline": "#150F1B",
             "shade": "#301B25",
@@ -5829,7 +5829,7 @@
           "cat1": "Environment",
           "cat2": "Jungle",
           "cat3": "Jungle Grass",
-          "name": "Overgrown City",
+          "name": "Overgrown City (Jungle Grass)",
           "colors": {
             "outline": "#11151F",
             "shade": "#2B512D",
@@ -5843,7 +5843,7 @@
           "cat1": "Effects",
           "cat2": "Toxin",
           "cat3": "Venom",
-          "name": "Spore Fungus",
+          "name": "Spore Fungus (Venom)",
           "colors": {
             "outline": "#221320",
             "shade": "#3B6F24",
@@ -5857,7 +5857,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Joel Olive",
+          "name": "Joel Olive (Cloth)",
           "colors": {
             "outline": "#1E111C",
             "shade": "#33452D",
@@ -5871,7 +5871,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Ellie Red",
+          "name": "Ellie Red (Red Garment)",
           "colors": {
             "outline": "#201323",
             "shade": "#790D33",
@@ -5885,7 +5885,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Ruined Concrete",
+          "name": "Ruined Concrete (Stone Wall)",
           "colors": {
             "outline": "#201220",
             "shade": "#584944",
@@ -5899,7 +5899,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rotting Flesh",
-          "name": "Clicker Fungus",
+          "name": "Clicker Fungus (Rotting Flesh)",
           "colors": {
             "outline": "#20111F",
             "shade": "#563C29",
@@ -5913,7 +5913,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Molotov Fire",
+          "name": "Molotov Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -5927,7 +5927,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Dam Water",
+          "name": "Dam Water (River Water)",
           "colors": {
             "outline": "#11101E",
             "shade": "#303A41",
@@ -5941,7 +5941,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Rusty Blade",
+          "name": "Rusty Blade (Iron)",
           "colors": {
             "outline": "#1F111E",
             "shade": "#514C46",
@@ -5955,7 +5955,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Flashlight Beam",
+          "name": "Flashlight Beam (Starlight Blue)",
           "colors": {
             "outline": "#281626",
             "shade": "#A79B8A",
@@ -5976,7 +5976,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "White Orchard Grass",
+          "name": "White Orchard Grass (Tall Grass)",
           "colors": {
             "outline": "#20121E",
             "shade": "#2E5C28",
@@ -5990,7 +5990,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Swamp Water",
+          "name": "Swamp Water (River Water)",
           "colors": {
             "outline": "#10121D",
             "shade": "#23352A",
@@ -6004,7 +6004,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "Wolf School Mail",
+          "name": "Wolf School Mail (Steel Armor)",
           "colors": {
             "outline": "#1B101D",
             "shade": "#3F3C3E",
@@ -6018,7 +6018,7 @@
           "cat1": "Characters",
           "cat2": "Hair",
           "cat3": "White Hair",
-          "name": "Gerolt White",
+          "name": "Gerolt White (White Hair)",
           "colors": {
             "outline": "#261526",
             "shade": "#9C8D86",
@@ -6032,7 +6032,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Aard Sign",
+          "name": "Aard Sign (Starlight Blue)",
           "colors": {
             "outline": "#181526",
             "shade": "#27369C",
@@ -6046,7 +6046,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Igni Sign",
+          "name": "Igni Sign (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -6060,7 +6060,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Undead",
-          "name": "Drowner Rot",
+          "name": "Drowner Rot (Undead)",
           "colors": {
             "outline": "#11151F",
             "shade": "#2C4C2D",
@@ -6074,7 +6074,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Wild Hunt Blue",
+          "name": "Wild Hunt Blue (Demon King)",
           "colors": {
             "outline": "#171323",
             "shade": "#302179",
@@ -6102,7 +6102,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Yrden Purple",
+          "name": "Yrden Purple (Arcane Purple)",
           "colors": {
             "outline": "#1A1323",
             "shade": "#6A2179",
@@ -6116,7 +6116,7 @@
           "cat1": "Architecture",
           "cat2": "Roof",
           "cat3": "Red Tiles",
-          "name": "Novigrad Roof",
+          "name": "Novigrad Roof (Red Tiles)",
           "colors": {
             "outline": "#201322",
             "shade": "#6F1625",
@@ -6137,7 +6137,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Yharnam Stone",
+          "name": "Yharnam Stone (Stone Wall)",
           "colors": {
             "outline": "#18101D",
             "shade": "#3F393C",
@@ -6151,7 +6151,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Blood Gem Blue",
+          "name": "Blood Gem Blue (Rune Blue)",
           "colors": {
             "outline": "#181525",
             "shade": "#2A2A90",
@@ -6179,7 +6179,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rotting Flesh",
-          "name": "Beast Fur",
+          "name": "Beast Fur (Rotting Flesh)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4C2D2C",
@@ -6193,7 +6193,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Leather Armor",
-          "name": "Hunter Garb",
+          "name": "Hunter Garb (Leather Armor)",
           "colors": {
             "outline": "#130F1C",
             "shade": "#2E2933",
@@ -6207,7 +6207,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "White Wall",
-          "name": "Church White",
+          "name": "Church White (White Wall)",
           "colors": {
             "outline": "#261526",
             "shade": "#9C8E8A",
@@ -6235,7 +6235,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Steppe",
-          "name": "Hunter's Dream Grass",
+          "name": "Hunter's Dream Grass (Steppe)",
           "colors": {
             "outline": "#121721",
             "shade": "#426242",
@@ -6249,7 +6249,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Saw Cleaver",
+          "name": "Saw Cleaver (Iron)",
           "colors": {
             "outline": "#1D1120",
             "shade": "#565254",
@@ -6263,7 +6263,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Great One Dark",
+          "name": "Great One Dark (Dark Wave)",
           "colors": {
             "outline": "#120F1B",
             "shade": "#251B30",
@@ -6284,7 +6284,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Determination Heart",
+          "name": "Determination Heart (Blood)",
           "colors": {
             "outline": "#221525",
             "shade": "#900740",
@@ -6298,7 +6298,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Cavern Rock",
+          "name": "Cavern Rock (Mountain Rock)",
           "colors": {
             "outline": "#15101D",
             "shade": "#3B283F",
@@ -6312,7 +6312,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Short Grass",
-          "name": "New Home Lawn",
+          "name": "New Home Lawn (Short Grass)",
           "colors": {
             "outline": "#131723",
             "shade": "#21793F",
@@ -6326,7 +6326,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "SAVE Star",
+          "name": "SAVE Star (Starlight Blue)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD5815",
@@ -6340,7 +6340,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Frisk Stripes",
+          "name": "Frisk Stripes (Blue Garment)",
           "colors": {
             "outline": "#1A1525",
             "shade": "#643790",
@@ -6368,7 +6368,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Gaster Bone",
+          "name": "Gaster Bone (Rune Blue)",
           "colors": {
             "outline": "#1A1629",
             "shade": "#8E8EB3",
@@ -6382,7 +6382,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Flowey Gold",
+          "name": "Flowey Gold (Red Garment)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD4609",
@@ -6396,7 +6396,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Toriel Fire",
+          "name": "Toriel Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -6410,7 +6410,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Brick Wall",
-          "name": "Hotland Brick",
+          "name": "Hotland Brick (Brick Wall)",
           "colors": {
             "outline": "#211323",
             "shade": "#79142F",
@@ -6431,7 +6431,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "OW White Armor",
+          "name": "OW White Armor (Steel Armor)",
           "colors": {
             "outline": "#281626",
             "shade": "#A7A198",
@@ -6445,7 +6445,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "OW Orange",
+          "name": "OW Orange (Torch)",
           "colors": {
             "outline": "#271628",
             "shade": "#AD0909",
@@ -6459,7 +6459,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Genji Teal",
+          "name": "Genji Teal (Rune Blue)",
           "colors": {
             "outline": "#151626",
             "shade": "#278D9C",
@@ -6473,7 +6473,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "D.Va Blue",
+          "name": "D.Va Blue (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#1717A7",
@@ -6487,7 +6487,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "D.Va Pink",
+          "name": "D.Va Pink (Red Garment)",
           "colors": {
             "outline": "#231628",
             "shade": "#AD4C92",
@@ -6501,7 +6501,7 @@
           "cat1": "Metal",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Winston Yellow",
+          "name": "Winston Yellow (Gold)",
           "colors": {
             "outline": "#281628",
             "shade": "#A74410",
@@ -6515,7 +6515,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Moira Purple",
+          "name": "Moira Purple (Arcane Purple)",
           "colors": {
             "outline": "#1C1525",
             "shade": "#892A90",
@@ -6529,7 +6529,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Lúcio Green",
+          "name": "Lúcio Green (Rune Blue)",
           "colors": {
             "outline": "#151926",
             "shade": "#199C3E",
@@ -6543,7 +6543,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Future Metal",
-          "name": "Hanamura Gold",
+          "name": "Hanamura Gold (Future Metal)",
           "colors": {
             "outline": "#231323",
             "shade": "#793721",
@@ -6557,7 +6557,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Death Blossom",
+          "name": "Death Blossom (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -6578,7 +6578,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Hell Lava",
+          "name": "Hell Lava (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -6606,7 +6606,7 @@
           "cat1": "Metal",
           "cat2": "Ironwork",
           "cat3": "Iron",
-          "name": "Hell Steel",
+          "name": "Hell Steel (Iron)",
           "colors": {
             "outline": "#1B101D",
             "shade": "#3F3C3E",
@@ -6620,7 +6620,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Argent Blue",
+          "name": "Argent Blue (Rune Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#1725A7",
@@ -6634,7 +6634,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "Slayer Armor",
+          "name": "Slayer Armor (Steel Armor)",
           "colors": {
             "outline": "#11151F",
             "shade": "#1E4B26",
@@ -6648,7 +6648,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Pinky Flesh",
+          "name": "Pinky Flesh (Demon King)",
           "colors": {
             "outline": "#221525",
             "shade": "#904564",
@@ -6662,7 +6662,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Volcanic Rock",
-          "name": "Mars Rock",
+          "name": "Mars Rock (Volcanic Rock)",
           "colors": {
             "outline": "#1E1120",
             "shade": "#561C1E",
@@ -6676,7 +6676,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Hell Rune",
+          "name": "Hell Rune (Arcane Purple)",
           "colors": {
             "outline": "#1A1323",
             "shade": "#792179",
@@ -6690,7 +6690,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Scorched Dirt",
+          "name": "Scorched Dirt (Mud)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4B221E",
@@ -6725,7 +6725,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Hyrule Field",
+          "name": "Hyrule Field (Tall Grass)",
           "colors": {
             "outline": "#141824",
             "shade": "#2E7F39",
@@ -6739,7 +6739,7 @@
           "cat1": "Environment",
           "cat2": "Snowfield",
           "cat3": "Snow Cover",
-          "name": "Hebra Snow",
+          "name": "Hebra Snow (Snow Cover)",
           "colors": {
             "outline": "#191628",
             "shade": "#9A9BAE",
@@ -6767,7 +6767,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Volcanic Rock",
-          "name": "Eldin Rock",
+          "name": "Eldin Rock (Volcanic Rock)",
           "colors": {
             "outline": "#201322",
             "shade": "#6D1021",
@@ -6781,7 +6781,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Champion Tunic",
+          "name": "Champion Tunic (Blue Garment)",
           "colors": {
             "outline": "#141323",
             "shade": "#154473",
@@ -6794,8 +6794,8 @@
         {
           "cat1": "Clothing",
           "cat2": "Cloth",
-          "cat3": "绿衣",
-          "name": "Hood Green",
+          "cat3": "Green Tunic",
+          "name": "Hood Green (Green Tunic)",
           "colors": {
             "outline": "#131523",
             "shade": "#2F7972",
@@ -6809,7 +6809,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Sheikah Tech",
+          "name": "Sheikah Tech (Rune Blue)",
           "colors": {
             "outline": "#271628",
             "shade": "#AD230F",
@@ -6823,7 +6823,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Sheikah Slate",
+          "name": "Sheikah Slate (Starlight Blue)",
           "colors": {
             "outline": "#171628",
             "shade": "#325EA7",
@@ -6837,7 +6837,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Undead",
-          "name": "Bokoblin Mane",
+          "name": "Bokoblin Mane (Undead)",
           "colors": {
             "outline": "#211323",
             "shade": "#791421",
@@ -6851,7 +6851,7 @@
           "cat1": "Animals",
           "cat2": "Horse",
           "cat3": "Warhorse Brown",
-          "name": "White Horse",
+          "name": "White Horse (Warhorse Brown)",
           "colors": {
             "outline": "#271628",
             "shade": "#AA9C97",
@@ -6865,7 +6865,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Lake",
-          "name": "Lanayru Wetlands",
+          "name": "Lanayru Wetlands (Lake)",
           "colors": {
             "outline": "#141323",
             "shade": "#215479",
@@ -6886,7 +6886,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Wedding White",
+          "name": "Wedding White (Red Garment)",
           "colors": {
             "outline": "#241628",
             "shade": "#A79FA2",
@@ -6900,7 +6900,7 @@
           "cat1": "Environment",
           "cat2": "Sand",
           "cat3": "Desert Sand",
-          "name": "Sand Kingdom",
+          "name": "Sand Kingdom (Desert Sand)",
           "colors": {
             "outline": "#271628",
             "shade": "#A74F2B",
@@ -6914,7 +6914,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Ocean",
-          "name": "Lake Kingdom",
+          "name": "Lake Kingdom (Ocean)",
           "colors": {
             "outline": "#171525",
             "shade": "#072390",
@@ -6928,7 +6928,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Brick Wall",
-          "name": "New Donk Brick",
+          "name": "New Donk Brick (Brick Wall)",
           "colors": {
             "outline": "#211323",
             "shade": "#791B2C",
@@ -6942,7 +6942,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Cappy White",
+          "name": "Cappy White (Starlight Blue)",
           "colors": {
             "outline": "#181628",
             "shade": "#9DA1AD",
@@ -6970,7 +6970,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Moon Purple",
+          "name": "Moon Purple (Arcane Purple)",
           "colors": {
             "outline": "#1C1525",
             "shade": "#892A90",
@@ -6984,7 +6984,7 @@
           "cat1": "Props",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Purple Coin",
+          "name": "Purple Coin (Gold)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD4509",
@@ -6998,7 +6998,7 @@
           "cat1": "Environment",
           "cat2": "Jungle",
           "cat3": "Jungle Grass",
-          "name": "Wooded Kingdom",
+          "name": "Wooded Kingdom (Jungle Grass)",
           "colors": {
             "outline": "#131623",
             "shade": "#23734B",
@@ -7012,7 +7012,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Lava Bubble",
+          "name": "Lava Bubble (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -7033,7 +7033,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "2B Black Dress",
+          "name": "2B Black Dress (Cloth)",
           "colors": {
             "outline": "#120F1B",
             "shade": "#2A2430",
@@ -7047,7 +7047,7 @@
           "cat1": "Characters",
           "cat2": "Hair",
           "cat3": "Silver Hair",
-          "name": "2B Silver",
+          "name": "2B Silver (Silver Hair)",
           "colors": {
             "outline": "#231526",
             "shade": "#9C9497",
@@ -7061,7 +7061,7 @@
           "cat1": "Monsters",
           "cat2": "Mecha",
           "cat3": "Magitek Armor",
-          "name": "Machine Skin",
+          "name": "Machine Skin (Magitek Armor)",
           "colors": {
             "outline": "#241423",
             "shade": "#847F77",
@@ -7075,7 +7075,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Black Box Blue",
+          "name": "Black Box Blue (Rune Blue)",
           "colors": {
             "outline": "#191526",
             "shade": "#21199C",
@@ -7089,7 +7089,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Ruins Green",
+          "name": "Ruins Green (Tall Grass)",
           "colors": {
             "outline": "#131723",
             "shade": "#307343",
@@ -7103,7 +7103,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Lake",
-          "name": "Riverside Blue",
+          "name": "Riverside Blue (Lake)",
           "colors": {
             "outline": "#161424",
             "shade": "#2C4A84",
@@ -7117,7 +7117,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Park Tower",
+          "name": "Park Tower (Stone Wall)",
           "colors": {
             "outline": "#201221",
             "shade": "#634342",
@@ -7131,7 +7131,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Virus Purple",
+          "name": "Virus Purple (Arcane Purple)",
           "colors": {
             "outline": "#1B1323",
             "shade": "#792F72",
@@ -7145,7 +7145,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Desert Wasteland",
+          "name": "Desert Wasteland (Mud)",
           "colors": {
             "outline": "#251525",
             "shade": "#905345",
@@ -7159,7 +7159,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Explosion Fire",
+          "name": "Explosion Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -7180,7 +7180,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Great Plains",
+          "name": "Great Plains (Tall Grass)",
           "colors": {
             "outline": "#21121F",
             "shade": "#35682C",
@@ -7194,7 +7194,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Rhodes Dirt",
+          "name": "Rhodes Dirt (Mud)",
           "colors": {
             "outline": "#201221",
             "shade": "#633226",
@@ -7208,7 +7208,7 @@
           "cat1": "Environment",
           "cat2": "Snowfield",
           "cat3": "Snow Cover",
-          "name": "Mountain Pass",
+          "name": "Mountain Pass (Snow Cover)",
           "colors": {
             "outline": "#191628",
             "shade": "#999BAA",
@@ -7222,7 +7222,7 @@
           "cat1": "Environment",
           "cat2": "Jungle",
           "cat3": "Jungle Grass",
-          "name": "Lagras Wetland",
+          "name": "Lagras Wetland (Jungle Grass)",
           "colors": {
             "outline": "#11141F",
             "shade": "#2C4C3A",
@@ -7250,7 +7250,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Arthur Shirt",
+          "name": "Arthur Shirt (Cloth)",
           "colors": {
             "outline": "#151221",
             "shade": "#2F2663",
@@ -7264,7 +7264,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Wood",
-          "name": "Saint Denis Iron",
+          "name": "Saint Denis Iron (Wood)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4C2D2C",
@@ -7278,7 +7278,7 @@
           "cat1": "Animals",
           "cat2": "Horse",
           "cat3": "Warhorse Brown",
-          "name": "Boadicea",
+          "name": "Boadicea (Warhorse Brown)",
           "colors": {
             "outline": "#1C101E",
             "shade": "#411010",
@@ -7292,7 +7292,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Camp Fire",
+          "name": "Camp Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -7327,7 +7327,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Midgard Grass",
+          "name": "Midgard Grass (Tall Grass)",
           "colors": {
             "outline": "#121621",
             "shade": "#34633C",
@@ -7341,7 +7341,7 @@
           "cat1": "Environment",
           "cat2": "Snowfield",
           "cat3": "Snow Cover",
-          "name": "Summit Snow",
+          "name": "Summit Snow (Snow Cover)",
           "colors": {
             "outline": "#191628",
             "shade": "#9496A8",
@@ -7355,7 +7355,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Leviathan Frost",
+          "name": "Leviathan Frost (Rune Blue)",
           "colors": {
             "outline": "#181628",
             "shade": "#324FA7",
@@ -7369,7 +7369,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Bifrost Teal",
+          "name": "Bifrost Teal (Arcane Purple)",
           "colors": {
             "outline": "#151424",
             "shade": "#2C5184",
@@ -7383,7 +7383,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Blades of Chaos",
+          "name": "Blades of Chaos (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -7397,7 +7397,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Undead",
-          "name": "Hel Walker",
+          "name": "Hel Walker (Undead)",
           "colors": {
             "outline": "#111520",
             "shade": "#295631",
@@ -7411,7 +7411,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Leather Armor",
-          "name": "Kratos Leather",
+          "name": "Kratos Leather (Leather Armor)",
           "colors": {
             "outline": "#1E111F",
             "shade": "#4C231E",
@@ -7425,7 +7425,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Helheim Wither",
+          "name": "Helheim Wither (Mud)",
           "colors": {
             "outline": "#211221",
             "shade": "#633B26",
@@ -7474,7 +7474,7 @@
           "cat1": "Clothing",
           "cat2": "Cloaks",
           "cat3": "Cloth",
-          "name": "Knight Cloak",
+          "name": "Knight Cloak (Cloth)",
           "colors": {
             "outline": "#161323",
             "shade": "#212179",
@@ -7488,7 +7488,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Bone White",
-          "name": "Hallownest Bone",
+          "name": "Hallownest Bone (Bone White)",
           "colors": {
             "outline": "#261525",
             "shade": "#9C958D",
@@ -7502,7 +7502,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Soul Light",
+          "name": "Soul Light (Rune Blue)",
           "colors": {
             "outline": "#1A1629",
             "shade": "#9C9CB3",
@@ -7516,7 +7516,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Infection Orange",
+          "name": "Infection Orange (Arcane Purple)",
           "colors": {
             "outline": "#261628",
             "shade": "#A71208",
@@ -7530,7 +7530,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "City of Tears",
+          "name": "City of Tears (Stone Wall)",
           "colors": {
             "outline": "#141120",
             "shade": "#293156",
@@ -7544,7 +7544,7 @@
           "cat1": "Environment",
           "cat2": "Jungle",
           "cat3": "Jungle Grass",
-          "name": "Greenpath Green",
+          "name": "Greenpath Green (Jungle Grass)",
           "colors": {
             "outline": "#111320",
             "shade": "#29564F",
@@ -7558,7 +7558,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Crystal Peak",
+          "name": "Crystal Peak (Mountain Rock)",
           "colors": {
             "outline": "#191323",
             "shade": "#683E73",
@@ -7572,7 +7572,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "The Abyss",
+          "name": "The Abyss (Dark Wave)",
           "colors": {
             "outline": "#110E19",
             "shade": "#130D18",
@@ -7586,7 +7586,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Grassland",
-          "name": "Fungal Wastes",
+          "name": "Fungal Wastes (Grassland)",
           "colors": {
             "outline": "#131723",
             "shade": "#307343",
@@ -7600,7 +7600,7 @@
           "cat1": "Effects",
           "cat2": "Splash",
           "cat3": "Foam",
-          "name": "Tears Rain",
+          "name": "Tears Rain (Foam)",
           "colors": {
             "outline": "#161425",
             "shade": "#545F8A",
@@ -7621,7 +7621,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Celeste Rock",
+          "name": "Celeste Rock (Mountain Rock)",
           "colors": {
             "outline": "#171120",
             "shade": "#4F2956",
@@ -7635,7 +7635,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Night Sky Purple",
+          "name": "Night Sky Purple (Arcane Purple)",
           "colors": {
             "outline": "#16111F",
             "shade": "#39184B",
@@ -7649,7 +7649,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Strawberry Red",
+          "name": "Strawberry Red (Blood)",
           "colors": {
             "outline": "#231526",
             "shade": "#9C085A",
@@ -7663,7 +7663,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Madeline Hair",
+          "name": "Madeline Hair (Cloth)",
           "colors": {
             "outline": "#141424",
             "shade": "#1F6084",
@@ -7677,7 +7677,7 @@
           "cat1": "Environment",
           "cat2": "Snowfield",
           "cat3": "Snow Cover",
-          "name": "Snowfield",
+          "name": "Snowfield (Snow Cover)",
           "colors": {
             "outline": "#191628",
             "shade": "#9797AD",
@@ -7691,7 +7691,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Dash Crystal",
+          "name": "Dash Crystal (Starlight Blue)",
           "colors": {
             "outline": "#181628",
             "shade": "#3159AD",
@@ -7705,7 +7705,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Badeline Shadow",
+          "name": "Badeline Shadow (Dark Wave)",
           "colors": {
             "outline": "#16111F",
             "shade": "#431E4B",
@@ -7719,7 +7719,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Grassland",
-          "name": "Foothill Grass",
+          "name": "Foothill Grass (Grassland)",
           "colors": {
             "outline": "#131723",
             "shade": "#2F7945",
@@ -7733,7 +7733,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Hot Spring",
+          "name": "Hot Spring (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -7747,7 +7747,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Brick Wall",
-          "name": "Ruins Brick",
+          "name": "Ruins Brick (Brick Wall)",
           "colors": {
             "outline": "#1F1221",
             "shade": "#633438",
@@ -7768,7 +7768,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Ashina Reeds",
+          "name": "Ashina Reeds (Tall Grass)",
           "colors": {
             "outline": "#241423",
             "shade": "#7F4E2E",
@@ -7782,7 +7782,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Lake",
-          "name": "Fountainhead",
+          "name": "Fountainhead (Lake)",
           "colors": {
             "outline": "#141323",
             "shade": "#215479",
@@ -7796,7 +7796,7 @@
           "cat1": "Environment",
           "cat2": "Trees",
           "cat3": "Broadleaf Tree",
-          "name": "Sakura White",
+          "name": "Sakura White (Broadleaf Tree)",
           "colors": {
             "outline": "#231628",
             "shade": "#A794A2",
@@ -7810,7 +7810,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Flame Vent",
+          "name": "Flame Vent (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -7824,7 +7824,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Illusion Purple",
+          "name": "Illusion Purple (Arcane Purple)",
           "colors": {
             "outline": "#1A1323",
             "shade": "#722F79",
@@ -7838,7 +7838,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Mail",
-          "name": "Ashina Armor",
+          "name": "Ashina Armor (Mail)",
           "colors": {
             "outline": "#10121D",
             "shade": "#303A35",
@@ -7852,7 +7852,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Shura Red",
+          "name": "Shura Red (Demon King)",
           "colors": {
             "outline": "#211323",
             "shade": "#790629",
@@ -7866,7 +7866,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Sekiro Black",
+          "name": "Sekiro Black (Cloth)",
           "colors": {
             "outline": "#180E1A",
             "shade": "#282627",
@@ -7880,7 +7880,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Ashina Castle Rock",
+          "name": "Ashina Castle Rock (Mountain Rock)",
           "colors": {
             "outline": "#1F111E",
             "shade": "#4C4239",
@@ -7894,7 +7894,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Lightning Blue",
+          "name": "Lightning Blue (Rune Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#4C57AD",
@@ -7915,7 +7915,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Revachol Gray",
+          "name": "Revachol Gray (Mud)",
           "colors": {
             "outline": "#13111F",
             "shade": "#3A3A4B",
@@ -7929,7 +7929,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Pale White",
+          "name": "Pale White (Rune Blue)",
           "colors": {
             "outline": "#241525",
             "shade": "#908382",
@@ -7943,7 +7943,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Sea Dusk Orange",
+          "name": "Sea Dusk Orange (Starlight Blue)",
           "colors": {
             "outline": "#251526",
             "shade": "#9C191D",
@@ -7957,7 +7957,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Revolution Red",
+          "name": "Revolution Red (Blood)",
           "colors": {
             "outline": "#201323",
             "shade": "#73072D",
@@ -7971,7 +7971,7 @@
           "cat1": "Clothing",
           "cat2": "Leather Armor",
           "cat3": "Jacket",
-          "name": "Yellowtie Suit",
+          "name": "Yellowtie Suit (Jacket)",
           "colors": {
             "outline": "#241423",
             "shade": "#7F3C12",
@@ -7985,7 +7985,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Rumpled Shirt",
+          "name": "Rumpled Shirt (Cloth)",
           "colors": {
             "outline": "#271527",
             "shade": "#A1958D",
@@ -7999,7 +7999,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Fishing Village",
+          "name": "Fishing Village (Stone Wall)",
           "colors": {
             "outline": "#201120",
             "shade": "#564137",
@@ -8013,7 +8013,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Drunken Night",
+          "name": "Drunken Night (Dark Wave)",
           "colors": {
             "outline": "#120F1B",
             "shade": "#2A2430",
@@ -8027,7 +8027,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Neon Bar",
+          "name": "Neon Bar (Torch)",
           "colors": {
             "outline": "#211525",
             "shade": "#902A72",
@@ -8041,7 +8041,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Ocean",
-          "name": "Revachol Sea",
+          "name": "Revachol Sea (Ocean)",
           "colors": {
             "outline": "#141220",
             "shade": "#293058",
@@ -8076,7 +8076,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Sand",
-          "name": "Ember Twin Red",
+          "name": "Ember Twin Red (Sand)",
           "colors": {
             "outline": "#221323",
             "shade": "#791B1E",
@@ -8090,7 +8090,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Ocean",
-          "name": "Giant's Deep Blue",
+          "name": "Giant's Deep Blue (Ocean)",
           "colors": {
             "outline": "#171323",
             "shade": "#1B1479",
@@ -8104,7 +8104,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Quantum Teal",
+          "name": "Quantum Teal (Starlight Blue)",
           "colors": {
             "outline": "#161526",
             "shade": "#507D9C",
@@ -8118,7 +8118,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "White Hole",
+          "name": "White Hole (Arcane Purple)",
           "colors": {
             "outline": "#1B1525",
             "shade": "#813790",
@@ -8132,7 +8132,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Hollow's Lantern Rock",
+          "name": "Hollow's Lantern Rock (Mountain Rock)",
           "colors": {
             "outline": "#1F1120",
             "shade": "#563A37",
@@ -8146,7 +8146,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Supernova",
+          "name": "Supernova (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -8160,7 +8160,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Deep Space",
+          "name": "Deep Space (Dark Wave)",
           "colors": {
             "outline": "#120E1A",
             "shade": "#1B0A28",
@@ -8188,7 +8188,7 @@
           "cat1": "Effects",
           "cat2": "Splash",
           "cat3": "Foam",
-          "name": "Comet Ice",
+          "name": "Comet Ice (Foam)",
           "colors": {
             "outline": "#181628",
             "shade": "#7581AD",
@@ -8209,7 +8209,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Underworld Red",
+          "name": "Underworld Red (Blood)",
           "colors": {
             "outline": "#1E1221",
             "shade": "#63052C",
@@ -8223,7 +8223,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Stygian Blue",
+          "name": "Stygian Blue (Starlight Blue)",
           "colors": {
             "outline": "#181526",
             "shade": "#27369C",
@@ -8237,7 +8237,7 @@
           "cat1": "Effects",
           "cat2": "Toxin",
           "cat3": "Venom",
-          "name": "Tartarus Green",
+          "name": "Tartarus Green (Venom)",
           "colors": {
             "outline": "#131823",
             "shade": "#14791B",
@@ -8251,7 +8251,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Hades Purple",
+          "name": "Hades Purple (Arcane Purple)",
           "colors": {
             "outline": "#191323",
             "shade": "#682373",
@@ -8279,7 +8279,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Nyx Robe",
+          "name": "Nyx Robe (Red Garment)",
           "colors": {
             "outline": "#15111F",
             "shade": "#281D51",
@@ -8293,7 +8293,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Hellfire",
+          "name": "Hellfire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -8307,7 +8307,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Underworld Hall",
+          "name": "Underworld Hall (Stone Wall)",
           "colors": {
             "outline": "#17101C",
             "shade": "#342A2F",
@@ -8321,7 +8321,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Grass Tuft",
-          "name": "Elysium Grass",
+          "name": "Elysium Grass (Grass Tuft)",
           "colors": {
             "outline": "#121621",
             "shade": "#276235",
@@ -8335,7 +8335,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Bone White",
-          "name": "Underworld Bone",
+          "name": "Underworld Bone (Bone White)",
           "colors": {
             "outline": "#261526",
             "shade": "#96817A",
@@ -8370,7 +8370,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Sand",
-          "name": "Beach Cream",
+          "name": "Beach Cream (Sand)",
           "colors": {
             "outline": "#281628",
             "shade": "#A78F84",
@@ -8384,7 +8384,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Ocean",
-          "name": "Island Sea",
+          "name": "Island Sea (Ocean)",
           "colors": {
             "outline": "#171526",
             "shade": "#193E9C",
@@ -8398,7 +8398,7 @@
           "cat1": "Environment",
           "cat2": "Trees",
           "cat3": "Broadleaf Tree",
-          "name": "Palm Green",
+          "name": "Palm Green (Broadleaf Tree)",
           "colors": {
             "outline": "#131723",
             "shade": "#21793F",
@@ -8412,7 +8412,7 @@
           "cat1": "Environment",
           "cat2": "Flower Bush",
           "cat3": "Flower Bush",
-          "name": "Flower Pink",
+          "name": "Flower Pink (Flower Bush)",
           "colors": {
             "outline": "#231628",
             "shade": "#AD6097",
@@ -8426,7 +8426,7 @@
           "cat1": "Architecture",
           "cat2": "Roof",
           "cat3": "Red Tiles",
-          "name": "House Roof",
+          "name": "House Roof (Red Tiles)",
           "colors": {
             "outline": "#231525",
             "shade": "#900E28",
@@ -8454,7 +8454,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Yellow Garment",
-          "name": "Sweater Yellow",
+          "name": "Sweater Yellow (Yellow Garment)",
           "colors": {
             "outline": "#281628",
             "shade": "#A7562B",
@@ -8468,7 +8468,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Shooting Star",
+          "name": "Shooting Star (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#4D4DA7",
@@ -8503,7 +8503,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "White Reed Gold",
+          "name": "White Reed Gold (Tall Grass)",
           "colors": {
             "outline": "#251525",
             "shade": "#90482A",
@@ -8517,7 +8517,7 @@
           "cat1": "Environment",
           "cat2": "Trees",
           "cat3": "Broadleaf Tree",
-          "name": "Red Maple",
+          "name": "Red Maple (Broadleaf Tree)",
           "colors": {
             "outline": "#221425",
             "shade": "#8A1034",
@@ -8531,7 +8531,7 @@
           "cat1": "Environment",
           "cat2": "Jungle",
           "cat3": "Jungle Grass",
-          "name": "Bamboo Teal",
+          "name": "Bamboo Teal (Jungle Grass)",
           "colors": {
             "outline": "#131623",
             "shade": "#3D795B",
@@ -8545,7 +8545,7 @@
           "cat1": "Environment",
           "cat2": "Flower Bush",
           "cat3": "Flower Bush",
-          "name": "White Flowers",
+          "name": "White Flowers (Flower Bush)",
           "colors": {
             "outline": "#261628",
             "shade": "#A79391",
@@ -8559,7 +8559,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Mail",
-          "name": "Samurai Armor",
+          "name": "Samurai Armor (Mail)",
           "colors": {
             "outline": "#120F1B",
             "shade": "#2A2430",
@@ -8573,7 +8573,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Ghost Cloak",
+          "name": "Ghost Cloak (Cloth)",
           "colors": {
             "outline": "#14101C",
             "shade": "#2C2434",
@@ -8587,7 +8587,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Village Fire",
+          "name": "Village Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -8601,7 +8601,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Guiding Wind",
+          "name": "Guiding Wind (Rune Blue)",
           "colors": {
             "outline": "#151526",
             "shade": "#50859C",
@@ -8615,7 +8615,7 @@
           "cat1": "Environment",
           "cat2": "Snowfield",
           "cat3": "Snow Cover",
-          "name": "Northern Snow",
+          "name": "Northern Snow (Snow Cover)",
           "colors": {
             "outline": "#191628",
             "shade": "#979AAA",
@@ -8650,7 +8650,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Erdtree Gold",
+          "name": "Erdtree Gold (Holy Light)",
           "colors": {
             "outline": "#281628",
             "shade": "#A7562B",
@@ -8664,7 +8664,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Limgrave Gold Grass",
+          "name": "Limgrave Gold Grass (Tall Grass)",
           "colors": {
             "outline": "#231322",
             "shade": "#794D21",
@@ -8678,7 +8678,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Lake",
-          "name": "Liurnia Blue",
+          "name": "Liurnia Blue (Lake)",
           "colors": {
             "outline": "#171323",
             "shade": "#302179",
@@ -8706,7 +8706,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Meteorite Blue",
+          "name": "Meteorite Blue (Starlight Blue)",
           "colors": {
             "outline": "#181424",
             "shade": "#3B2C84",
@@ -8734,7 +8734,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Grafted Gold",
+          "name": "Grafted Gold (Demon King)",
           "colors": {
             "outline": "#241424",
             "shade": "#7F3512",
@@ -8748,7 +8748,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Caelid Red",
+          "name": "Caelid Red (Mud)",
           "colors": {
             "outline": "#211323",
             "shade": "#791421",
@@ -8762,7 +8762,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Frenzied Flame",
+          "name": "Frenzied Flame (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -8797,7 +8797,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Mountain Rock",
-          "name": "Mad Forest Dungeon",
+          "name": "Mad Forest Dungeon (Mountain Rock)",
           "colors": {
             "outline": "#15101D",
             "shade": "#3B283F",
@@ -8839,7 +8839,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Garlic Aura",
+          "name": "Garlic Aura (Rune Blue)",
           "colors": {
             "outline": "#151526",
             "shade": "#50859C",
@@ -8867,7 +8867,7 @@
           "cat1": "Monsters",
           "cat2": "Zombie",
           "cat3": "Rot Green",
-          "name": "Zombie Green",
+          "name": "Zombie Green (Rot Green)",
           "colors": {
             "outline": "#121721",
             "shade": "#276326",
@@ -8881,7 +8881,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Hellfire Wand",
+          "name": "Hellfire Wand (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -8895,7 +8895,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Holy Water",
+          "name": "Holy Water (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#242CA7",
@@ -8909,7 +8909,7 @@
           "cat1": "Clothing",
           "cat2": "Cloaks",
           "cat3": "Cloth",
-          "name": "Vampire Cloak",
+          "name": "Vampire Cloak (Cloth)",
           "colors": {
             "outline": "#130F1B",
             "shade": "#291F33",
@@ -8923,7 +8923,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Reaper Dark",
+          "name": "Reaper Dark (Dark Wave)",
           "colors": {
             "outline": "#120E1A",
             "shade": "#1A1520",
@@ -8944,7 +8944,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Emerald Grove",
+          "name": "Emerald Grove (Tall Grass)",
           "colors": {
             "outline": "#121621",
             "shade": "#276235",
@@ -8986,7 +8986,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Dragonborn Fire",
+          "name": "Dragonborn Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -9000,7 +9000,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Sacred Flame",
+          "name": "Sacred Flame (Holy Light)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD693E",
@@ -9014,7 +9014,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Underdark Soil",
+          "name": "Underdark Soil (Mud)",
           "colors": {
             "outline": "#17111F",
             "shade": "#4B2C4B",
@@ -9028,7 +9028,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "Plate Mail",
+          "name": "Plate Mail (Steel Armor)",
           "colors": {
             "outline": "#161220",
             "shade": "#56515C",
@@ -9070,7 +9070,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "River Water",
-          "name": "Chionthar River",
+          "name": "Chionthar River (River Water)",
           "colors": {
             "outline": "#161323",
             "shade": "#213079",
@@ -9105,7 +9105,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Zonai Teal",
+          "name": "Zonai Teal (Rune Blue)",
           "colors": {
             "outline": "#151525",
             "shade": "#2A7390",
@@ -9133,7 +9133,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Depths Gloom",
+          "name": "Depths Gloom (Dark Wave)",
           "colors": {
             "outline": "#19101C",
             "shade": "#340F26",
@@ -9147,7 +9147,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Depths Soil",
+          "name": "Depths Soil (Mud)",
           "colors": {
             "outline": "#160F1B",
             "shade": "#33282D",
@@ -9161,7 +9161,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Tall Grass",
-          "name": "Hyrule Field",
+          "name": "Hyrule Field (Tall Grass)",
           "colors": {
             "outline": "#141824",
             "shade": "#2E7F39",
@@ -9175,7 +9175,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Champion Tunic",
+          "name": "Champion Tunic (Blue Garment)",
           "colors": {
             "outline": "#141323",
             "shade": "#154473",
@@ -9189,7 +9189,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Ganondorf Malice",
+          "name": "Ganondorf Malice (Demon King)",
           "colors": {
             "outline": "#201323",
             "shade": "#790636",
@@ -9203,7 +9203,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Ultrahand Blue",
+          "name": "Ultrahand Blue (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#313CAD",
@@ -9217,7 +9217,7 @@
           "cat1": "Environment",
           "cat2": "Rocks",
           "cat3": "Volcanic Rock",
-          "name": "Eldin Volcano",
+          "name": "Eldin Volcano (Volcanic Rock)",
           "colors": {
             "outline": "#201322",
             "shade": "#6D1021",
@@ -9238,7 +9238,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Shallow Sea",
-          "name": "Shallow Blue",
+          "name": "Shallow Blue (Shallow Sea)",
           "colors": {
             "outline": "#181527",
             "shade": "#1839A1",
@@ -9252,7 +9252,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Deep Sea",
-          "name": "Deep Ink Blue",
+          "name": "Deep Ink Blue (Deep Sea)",
           "colors": {
             "outline": "#13101D",
             "shade": "#100D3F",
@@ -9266,7 +9266,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Grass Tuft",
-          "name": "Seaweed Green",
+          "name": "Seaweed Green (Grass Tuft)",
           "colors": {
             "outline": "#131523",
             "shade": "#23735A",
@@ -9279,7 +9279,7 @@
         {
           "cat1": "Monsters",
           "cat2": "Fish",
-          "cat3": "鲨鱼灰",
+          "cat3": "Shark Gray",
           "name": "Shark Gray",
           "colors": {
             "outline": "#161322",
@@ -9293,7 +9293,7 @@
         {
           "cat1": "Animals",
           "cat2": "Water",
-          "cat3": "珊瑚粉",
+          "cat3": "Coral Pink",
           "name": "Coral Pink",
           "colors": {
             "outline": "#241628",
@@ -9308,7 +9308,7 @@
           "cat1": "Architecture",
           "cat2": "Indoor",
           "cat3": "Warm Wood",
-          "name": "Sushi Bar Wood",
+          "name": "Sushi Bar Wood (Warm Wood)",
           "colors": {
             "outline": "#221323",
             "shade": "#792921",
@@ -9322,7 +9322,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Bancho Apron",
+          "name": "Bancho Apron (Red Garment)",
           "colors": {
             "outline": "#221425",
             "shade": "#8A1034",
@@ -9336,7 +9336,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Dive Light",
+          "name": "Dive Light (Rune Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#314AAD",
@@ -9350,7 +9350,7 @@
           "cat1": "Props",
           "cat2": "Gold",
           "cat3": "Gold",
-          "name": "Dive Coin",
+          "name": "Dive Coin (Gold)",
           "colors": {
             "outline": "#281628",
             "shade": "#A74410",
@@ -9364,7 +9364,7 @@
           "cat1": "Environment",
           "cat2": "Sand",
           "cat3": "Desert Sand",
-          "name": "Seabed Sand",
+          "name": "Seabed Sand (Desert Sand)",
           "colors": {
             "outline": "#271527",
             "shade": "#A18A7E",
@@ -9385,7 +9385,7 @@
           "cat1": "Effects",
           "cat2": "Toxin",
           "cat3": "Venom",
-          "name": "CRT Green",
+          "name": "CRT Green (Venom)",
           "colors": {
             "outline": "#131623",
             "shade": "#21795C",
@@ -9399,7 +9399,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Poker Red",
+          "name": "Poker Red (Blood)",
           "colors": {
             "outline": "#221525",
             "shade": "#90074E",
@@ -9413,7 +9413,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "White Wall",
-          "name": "Poker White",
+          "name": "Poker White (White Wall)",
           "colors": {
             "outline": "#271628",
             "shade": "#A79994",
@@ -9441,7 +9441,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Blue Joker",
+          "name": "Blue Joker (Starlight Blue)",
           "colors": {
             "outline": "#181525",
             "shade": "#2B1C90",
@@ -9455,7 +9455,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Spectral Purple",
+          "name": "Spectral Purple (Arcane Purple)",
           "colors": {
             "outline": "#1B1424",
             "shade": "#842C84",
@@ -9469,7 +9469,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Hearts Blaze",
+          "name": "Hearts Blaze (Torch)",
           "colors": {
             "outline": "#271729",
             "shade": "#B6091A",
@@ -9483,7 +9483,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Jester Red",
+          "name": "Jester Red (Red Garment)",
           "colors": {
             "outline": "#211424",
             "shade": "#841150",
@@ -9497,7 +9497,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Table Felt",
+          "name": "Table Felt (Dark Wave)",
           "colors": {
             "outline": "#0F101B",
             "shade": "#17332E",
@@ -9511,7 +9511,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Tarot Teal",
+          "name": "Tarot Teal (Rune Blue)",
           "colors": {
             "outline": "#151424",
             "shade": "#2C6084",
@@ -9532,7 +9532,7 @@
           "cat1": "Clothing",
           "cat2": "Mail",
           "cat3": "Steel Armor",
-          "name": "Astro White",
+          "name": "Astro White (Steel Armor)",
           "colors": {
             "outline": "#1A1628",
             "shade": "#9D9DB0",
@@ -9546,7 +9546,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Bot Blue",
+          "name": "Bot Blue (Starlight Blue)",
           "colors": {
             "outline": "#181526",
             "shade": "#0C0C9C",
@@ -9560,7 +9560,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Deep Space Blue",
+          "name": "Deep Space Blue (Dark Wave)",
           "colors": {
             "outline": "#130F1C",
             "shade": "#1F0B33",
@@ -9574,7 +9574,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Lawn",
-          "name": "Candy Planet",
+          "name": "Candy Planet (Lawn)",
           "colors": {
             "outline": "#141825",
             "shade": "#2B8A4C",
@@ -9588,7 +9588,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Nebula Purple",
+          "name": "Nebula Purple (Arcane Purple)",
           "colors": {
             "outline": "#1C1525",
             "shade": "#892A90",
@@ -9602,7 +9602,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Jetpack Fire",
+          "name": "Jetpack Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -9644,7 +9644,7 @@
           "cat1": "Effects",
           "cat2": "Splash",
           "cat3": "Foam",
-          "name": "Water Splash",
+          "name": "Water Splash (Foam)",
           "colors": {
             "outline": "#181628",
             "shade": "#4C66AD",
@@ -9658,7 +9658,7 @@
           "cat1": "Effects",
           "cat2": "Blood",
           "cat3": "Blood",
-          "name": "Alert Red",
+          "name": "Alert Red (Blood)",
           "colors": {
             "outline": "#231526",
             "shade": "#9C0C48",
@@ -9679,7 +9679,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Holy Light",
-          "name": "Lumina Gold",
+          "name": "Lumina Gold (Holy Light)",
           "colors": {
             "outline": "#281628",
             "shade": "#AD5F37",
@@ -9693,7 +9693,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Void White",
+          "name": "Void White (Dark Wave)",
           "colors": {
             "outline": "#1C1628",
             "shade": "#A49EAA",
@@ -9707,7 +9707,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Abyss Purple",
+          "name": "Abyss Purple (Arcane Purple)",
           "colors": {
             "outline": "#171120",
             "shade": "#4F2956",
@@ -9721,7 +9721,7 @@
           "cat1": "Environment",
           "cat2": "Land",
           "cat3": "Mud",
-          "name": "Spring Meadows",
+          "name": "Spring Meadows (Mud)",
           "colors": {
             "outline": "#131723",
             "shade": "#2F7945",
@@ -9735,7 +9735,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Blue Garment",
-          "name": "Maelle Blue",
+          "name": "Maelle Blue (Blue Garment)",
           "colors": {
             "outline": "#171323",
             "shade": "#302179",
@@ -9749,7 +9749,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Red Garment",
-          "name": "Lune Red",
+          "name": "Lune Red (Red Garment)",
           "colors": {
             "outline": "#211424",
             "shade": "#841150",
@@ -9763,7 +9763,7 @@
           "cat1": "Monsters",
           "cat2": "Boss",
           "cat3": "Demon King",
-          "name": "Paintress Pale",
+          "name": "Paintress Pale (Demon King)",
           "colors": {
             "outline": "#231526",
             "shade": "#9C9497",
@@ -9777,7 +9777,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Free Aim Fire",
+          "name": "Free Aim Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -9805,7 +9805,7 @@
           "cat1": "Environment",
           "cat2": "Water",
           "cat3": "Ocean",
-          "name": "Floating Isle Sea",
+          "name": "Floating Isle Sea (Ocean)",
           "colors": {
             "outline": "#161424",
             "shade": "#20327F",
@@ -9819,7 +9819,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Overture Blue",
+          "name": "Overture Blue (Starlight Blue)",
           "colors": {
             "outline": "#191526",
             "shade": "#43359C",
@@ -9840,7 +9840,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Moonlight Silver",
+          "name": "Moonlight Silver (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#8484A7",
@@ -9854,7 +9854,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Arcane Purple",
-          "name": "Witchcraft Purple",
+          "name": "Witchcraft Purple (Arcane Purple)",
           "colors": {
             "outline": "#1A1323",
             "shade": "#792179",
@@ -9882,7 +9882,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Underworld Teal",
+          "name": "Underworld Teal (Rune Blue)",
           "colors": {
             "outline": "#161323",
             "shade": "#213079",
@@ -9896,7 +9896,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Hestia Fire",
+          "name": "Hestia Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -9924,7 +9924,7 @@
           "cat1": "Clothing",
           "cat2": "Cloth",
           "cat3": "Cloth",
-          "name": "Melinoe Robe",
+          "name": "Melinoe Robe (Cloth)",
           "colors": {
             "outline": "#130F1B",
             "shade": "#291F33",
@@ -9938,7 +9938,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Grass Tuft",
-          "name": "Erebus Grass",
+          "name": "Erebus Grass (Grass Tuft)",
           "colors": {
             "outline": "#10131D",
             "shade": "#2F3F37",
@@ -9952,7 +9952,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Bone White",
-          "name": "Underworld Bone",
+          "name": "Underworld Bone (Bone White)",
           "colors": {
             "outline": "#261526",
             "shade": "#96817A",
@@ -9987,7 +9987,7 @@
           "cat1": "Clothing",
           "cat2": "Cloaks",
           "cat3": "Cloth",
-          "name": "Silk Crimson",
+          "name": "Silk Crimson (Cloth)",
           "colors": {
             "outline": "#201323",
             "shade": "#790D48",
@@ -10001,7 +10001,7 @@
           "cat1": "Architecture",
           "cat2": "Walls",
           "cat3": "Stone Wall",
-          "name": "Bellhart Brass",
+          "name": "Bellhart Brass (Stone Wall)",
           "colors": {
             "outline": "#221323",
             "shade": "#793021",
@@ -10015,7 +10015,7 @@
           "cat1": "Environment",
           "cat2": "Grassland",
           "cat3": "Grass Tuft",
-          "name": "Moss Green",
+          "name": "Moss Green (Grass Tuft)",
           "colors": {
             "outline": "#121621",
             "shade": "#276235",
@@ -10029,7 +10029,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Starlight Blue",
-          "name": "Silk Thread",
+          "name": "Silk Thread (Starlight Blue)",
           "colors": {
             "outline": "#191628",
             "shade": "#9191A7",
@@ -10043,7 +10043,7 @@
           "cat1": "Monsters",
           "cat2": "Undead",
           "cat3": "Bone White",
-          "name": "Bug Bone",
+          "name": "Bug Bone (Bone White)",
           "colors": {
             "outline": "#261526",
             "shade": "#9C867F",
@@ -10057,7 +10057,7 @@
           "cat1": "Effects",
           "cat2": "Magic",
           "cat3": "Rune Blue",
-          "name": "Needle Art",
+          "name": "Needle Art (Rune Blue)",
           "colors": {
             "outline": "#171526",
             "shade": "#365096",
@@ -10071,7 +10071,7 @@
           "cat1": "Environment",
           "cat2": "Jungle",
           "cat3": "Jungle Grass",
-          "name": "Deepnest Vine",
+          "name": "Deepnest Vine (Jungle Grass)",
           "colors": {
             "outline": "#11141F",
             "shade": "#1E4B33",
@@ -10085,7 +10085,7 @@
           "cat1": "Effects",
           "cat2": "Fire",
           "cat3": "Torch",
-          "name": "Forge Fire",
+          "name": "Forge Fire (Torch)",
           "colors": {
             "outline": "#2E100D",
             "shade": "#AB1A2B",
@@ -10099,7 +10099,7 @@
           "cat1": "Effects",
           "cat2": "Darkness",
           "cat3": "Dark Wave",
-          "name": "Curse Ink",
+          "name": "Curse Ink (Dark Wave)",
           "colors": {
             "outline": "#120E1A",
             "shade": "#1A1520",
@@ -10113,7 +10113,7 @@
           "cat1": "Props",
           "cat2": "Jewelry",
           "cat3": "Seal Pendant",
-          "name": "Rosary Beads",
+          "name": "Rosary Beads (Seal Pendant)",
           "colors": {
             "outline": "#261628",
             "shade": "#A76267",
