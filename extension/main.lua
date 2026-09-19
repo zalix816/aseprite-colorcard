@@ -154,7 +154,7 @@ local function buildDialog(bounds)
   -- 表格 canvas 常量
   local PAD = 6
   local SEARCH = (state.tab == "search")
-  local NAME_W = SEARCH and 320 or 140
+  local NAME_W = SEARCH and 280 or 140
   local HDR_H = 22
   local ROW_H = 22
   local VISIBLE = 12
@@ -180,8 +180,7 @@ local function buildDialog(bounds)
               seen[key] = true
               out[#out + 1] = {
                 e = e,
-                path = (e.name or "") .. " · " .. (g.name or "") .. "/"
-                  .. (e.cat1 or "") .. "/" .. (e.cat2 or "") .. "/" .. (e.cat3 or ""),
+                path = (e.name or "") .. " · " .. (g.name or ""),
               }
             end
           end
@@ -375,15 +374,15 @@ local function buildDialog(bounds)
         -- 行分隔线
         gc.color = faint
         gc:fillRect(Rectangle(PAD, y + ROW_H - 1, CANVAS_W - PAD * 2, 1))
-        -- 名称（搜索模式显示完整路径，超宽截断）
+        -- 名称（搜索模式显示 材质名·游戏名，超宽用 ASCII 点截断——"…" 不在像素字体里会导致整行回退系统字体）
         gc.color = text
         local label = (SEARCH and item.path) or e.name or ""
         if gc:measureText(label).width > NAME_W - 6 then
           local n = #label
-          while n > 1 and gc:measureText(label:sub(1, n) .. "…").width > NAME_W - 6 do
+          while n > 1 and gc:measureText(label:sub(1, n) .. "...").width > NAME_W - 6 do
             n = n - 1
           end
-          label = label:sub(1, n) .. "…"
+          label = label:sub(1, n) .. "..."
         end
         gc:fillText(label, PAD, y + 6)
         -- 六层色块：正方形紧贴
