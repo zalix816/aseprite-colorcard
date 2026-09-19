@@ -2,7 +2,7 @@
   "name": "colorcard",
   "displayName": "ColorCard - Game Style Color Palettes",
   "description": "Six-role color palettes (Outline/Shade/Base/Light/Highlight/Shadow) organized by Style/Game/Category/Type. Click a swatch to pick the color.",
-  "version": "1.3.0-en",
+  "version": "1.4.0-en",
   "author": {
     "name": "Kai"
   },

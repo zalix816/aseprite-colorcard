@@ -15,11 +15,11 @@
           "name": "Base Skin Tone",
           "colors": {
             "outline": "#231424",
-            "shade": "#905253",
+            "shade": "#994445",
             "base": "#D49E79",
             "light": "#F2C993",
             "highlight": "#FAE5BF",
-            "shadow": "#5B425D"
+            "shadow": "#4C3A55"
           }
         },
         {
@@ -29,11 +29,11 @@
           "name": "Brown Hair",
           "colors": {
             "outline": "#1C101D",
-            "shade": "#4C312E",
+            "shade": "#512B28",
             "base": "#705B45",
             "light": "#8C7C5A",
             "highlight": "#B1A68B",
-            "shadow": "#312431"
+            "shadow": "#29202D"
           }
         },
         {
@@ -43,11 +43,11 @@
           "name": "Blue Fabric",
           "colors": {
             "outline": "#151221",
-            "shade": "#3E4074",
+            "shade": "#32347A",
             "base": "#5C86AA",
             "light": "#78CCD0",
             "highlight": "#BBFAD3",
-            "shadow": "#34344B"
+            "shadow": "#302D44"
           }
         },
         {
@@ -57,11 +57,11 @@
           "name": "Brown Hide",
           "colors": {
             "outline": "#1C101D",
-            "shade": "#522427",
+            "shade": "#56191C",
             "base": "#784D35",
             "light": "#957148",
             "highlight": "#BBA581",
-            "shadow": "#332235"
+            "shadow": "#291D30"
           }
         },
         {
@@ -71,11 +71,11 @@
           "name": "Broadleaf Tree",
           "colors": {
             "outline": "#11141E",
-            "shade": "#2D5831",
+            "shade": "#235E29",
             "base": "#5C8242",
             "light": "#94A158",
             "highlight": "#C3C892",
-            "shadow": "#273139"
+            "shadow": "#222634"
           }
         },
         {
@@ -85,11 +85,11 @@
           "name": "Short Grass",
           "colors": {
             "outline": "#12151F",
-            "shade": "#3A663F",
+            "shade": "#306C38",
             "base": "#6D9656",
             "light": "#A9B970",
             "highlight": "#DCE2AC",
-            "shadow": "#2F3942"
+            "shadow": "#292D3C"
           }
         },
         {
@@ -99,11 +99,11 @@
           "name": "Mud",
           "colors": {
             "outline": "#1D111E",
-            "shade": "#58312F",
+            "shade": "#5E2826",
             "base": "#826146",
             "light": "#A1875D",
             "highlight": "#C8B795",
-            "shadow": "#382839"
+            "shadow": "#2E2334"
           }
         },
         {
@@ -113,11 +113,11 @@
           "name": "Granite",
           "colors": {
             "outline": "#15111F",
-            "shade": "#555363",
+            "shade": "#575468",
             "base": "#7F8591",
             "light": "#9FAEB3",
             "highlight": "#CCDBD4",
-            "shadow": "#373640"
+            "shadow": "#33313A"
           }
         },
         {
@@ -127,11 +127,11 @@
           "name": "Plank",
           "colors": {
             "outline": "#1D101D",
-            "shade": "#522928",
+            "shade": "#561F1E",
             "base": "#78553B",
             "light": "#95794F",
             "highlight": "#BBA986",
-            "shadow": "#332335"
+            "shadow": "#2A1F30"
           }
         },
         {
@@ -141,11 +141,11 @@
           "name": "Brick Wall",
           "colors": {
             "outline": "#1D111E",
-            "shade": "#582B35",
+            "shade": "#5E212E",
             "base": "#824D40",
             "light": "#A17155",
             "highlight": "#C8AC90",
-            "shadow": "#362639"
+            "shadow": "#2D2134"
           }
         },
         {
@@ -155,11 +155,11 @@
           "name": "Terracotta",
           "colors": {
             "outline": "#1C111E",
-            "shade": "#58273F",
+            "shade": "#5E1B3B",
             "base": "#82393E",
             "light": "#A1564E",
             "highlight": "#C89E8A",
-            "shadow": "#342539"
+            "shadow": "#2B2034"
           }
         },
         {
@@ -169,11 +169,11 @@
           "name": "Iron",
           "colors": {
             "outline": "#161221",
-            "shade": "#636374",
+            "shade": "#66667A",
             "base": "#99A1AA",
             "light": "#BDCFD0",
             "highlight": "#ECFAF2",
-            "shadow": "#40404B"
+            "shadow": "#3C3B44"
           }
         },
         {
@@ -183,11 +183,11 @@
           "name": "Gold",
           "colors": {
             "outline": "#241423",
-            "shade": "#904F33",
+            "shade": "#99401A",
             "base": "#D4AD48",
             "light": "#F2E15E",
             "highlight": "#FAEE9F",
-            "shadow": "#5D385D"
+            "shadow": "#4A2F55"
           }
         },
         {
@@ -197,11 +197,11 @@
           "name": "Lake",
           "colors": {
             "outline": "#161322",
-            "shade": "#354085",
+            "shade": "#202E8C",
             "base": "#4C97C3",
             "light": "#68EEE7",
             "highlight": "#A6FAC0",
-            "shadow": "#363656"
+            "shadow": "#312D4E"
           }
         },
         {
@@ -232,11 +232,11 @@
           "name": "Red Headband",
           "colors": {
             "outline": "#211424",
-            "shade": "#902250",
+            "shade": "#980844",
             "base": "#D42C2C",
             "light": "#F25F41",
             "highlight": "#FAB58D",
-            "shadow": "#54335D"
+            "shadow": "#422955"
           }
         },
         {
@@ -246,11 +246,11 @@
           "name": "Pale Blond",
           "colors": {
             "outline": "#251524",
-            "shade": "#9B5F40",
+            "shade": "#A45328",
             "base": "#E3C35B",
             "light": "#F2E96D",
             "highlight": "#FAF2A8",
-            "shadow": "#643F63"
+            "shadow": "#50365B"
           }
         },
         {
@@ -260,11 +260,11 @@
           "name": "Blue Robe",
           "colors": {
             "outline": "#181323",
-            "shade": "#432B85",
+            "shade": "#33138D",
             "base": "#3C5CC4",
             "light": "#56BAEF",
             "highlight": "#9BFAD3",
-            "shadow": "#373356"
+            "shadow": "#312A4E"
           }
         },
         {
@@ -274,11 +274,11 @@
           "name": "Purple Hair",
           "colors": {
             "outline": "#191220",
-            "shade": "#6B2F68",
+            "shade": "#71216D",
             "base": "#75459D",
             "light": "#6A5DC1",
             "highlight": "#E6A2EA",
-            "shadow": "#352D45"
+            "shadow": "#2E263F"
           }
         },
         {
@@ -288,11 +288,11 @@
           "name": "Bronze Armor",
           "colors": {
             "outline": "#201220",
-            "shade": "#6B3B2B",
+            "shade": "#71301A",
             "base": "#9D7D3D",
             "light": "#C1AF54",
             "highlight": "#EADD9C",
-            "shadow": "#452B45"
+            "shadow": "#37253F"
           }
         },
         {
@@ -302,11 +302,11 @@
           "name": "Frog Skin",
           "colors": {
             "outline": "#121520",
-            "shade": "#266B33",
+            "shade": "#137125",
             "base": "#559D35",
             "light": "#A0C14B",
             "highlight": "#DEEA95",
-            "shadow": "#2A3745"
+            "shadow": "#23283F"
           }
         },
         {
@@ -316,11 +316,11 @@
           "name": "Chassis",
           "colors": {
             "outline": "#161220",
-            "shade": "#5F5C70",
+            "shade": "#615C77",
             "base": "#8D95A5",
             "light": "#AFC3CA",
             "highlight": "#E1F5EB",
-            "shadow": "#3D3C48"
+            "shadow": "#393742"
           }
         },
         {
@@ -330,11 +330,11 @@
           "name": "Fiendlord Cape",
           "colors": {
             "outline": "#18111F",
-            "shade": "#602565",
+            "shade": "#64146B",
             "base": "#5D3595",
             "light": "#4B4BB7",
             "highlight": "#D491E0",
-            "shadow": "#302842"
+            "shadow": "#29223C"
           }
         },
         {
@@ -344,11 +344,11 @@
           "name": "Lavos Shell",
           "colors": {
             "outline": "#211322",
-            "shade": "#801321",
+            "shade": "#870718",
             "base": "#BC4414",
             "light": "#E67E29",
             "highlight": "#FAC57F",
-            "shadow": "#4D2953"
+            "shadow": "#3B204B"
           }
         },
         {
@@ -358,11 +358,11 @@
           "name": "Guardia Stone",
           "colors": {
             "outline": "#231322",
-            "shade": "#855C49",
+            "shade": "#8D553B",
             "base": "#C4AC6C",
             "light": "#EFE48C",
             "highlight": "#FAF2BC",
-            "shadow": "#563C56"
+            "shadow": "#47354E"
           }
         },
         {
@@ -372,11 +372,11 @@
           "name": "Medieval Brick",
           "colors": {
             "outline": "#1E121F",
-            "shade": "#672F39",
+            "shade": "#6D222F",
             "base": "#975945",
             "light": "#BA835D",
             "highlight": "#E3C39F",
-            "shadow": "#3F2C42"
+            "shadow": "#34263C"
           }
         },
         {
@@ -386,11 +386,11 @@
           "name": "Future Metal",
           "colors": {
             "outline": "#14111E",
-            "shade": "#4B475B",
+            "shade": "#4B4760",
             "base": "#6D7585",
             "light": "#8A9EA5",
             "highlight": "#B8CCC2",
-            "shadow": "#31303B"
+            "shadow": "#2D2C35"
           }
         },
         {
@@ -400,11 +400,11 @@
           "name": "Medieval Grass",
           "colors": {
             "outline": "#121420",
-            "shade": "#266B3E",
+            "shade": "#137133",
             "base": "#459D35",
             "light": "#8EC14B",
             "highlight": "#D5EA95",
-            "shadow": "#2A3645"
+            "shadow": "#23283F"
           }
         },
         {
@@ -414,11 +414,11 @@
           "name": "Prehistoric Jungle",
           "colors": {
             "outline": "#10121C",
-            "shade": "#1F4B36",
+            "shade": "#134F33",
             "base": "#2C6E2E",
             "light": "#5B893D",
             "highlight": "#98AD74",
-            "shadow": "#1E2630"
+            "shadow": "#1A1C2C"
           }
         },
         {
@@ -428,11 +428,11 @@
           "name": "Zeal Amethyst",
           "colors": {
             "outline": "#1A1323",
-            "shade": "#803A85",
+            "shade": "#86278D",
             "base": "#8454C4",
             "light": "#7371EF",
             "highlight": "#EFABFA",
-            "shadow": "#413756"
+            "shadow": "#392F4E"
           }
         },
         {
@@ -442,11 +442,11 @@
           "name": "Time Gate Blue",
           "colors": {
             "outline": "#191424",
-            "shade": "#3F2795",
+            "shade": "#28089E",
             "base": "#3464DC",
             "light": "#48C0F2",
             "highlight": "#91FACB",
-            "shadow": "#3A3661"
+            "shadow": "#332C58"
           }
         },
         {
@@ -456,11 +456,11 @@
           "name": "Lightning",
           "colors": {
             "outline": "#251524",
-            "shade": "#A06D40",
+            "shade": "#A96427",
             "base": "#EBDB5B",
             "light": "#EBF26A",
             "highlight": "#FAF9A6",
-            "shadow": "#674165"
+            "shadow": "#54375E"
           }
         }
       ]
@@ -477,11 +477,11 @@
           "name": "Blue Headband",
           "colors": {
             "outline": "#171323",
-            "shade": "#382885",
+            "shade": "#240D8D",
             "base": "#3664C4",
             "light": "#50C6EF",
             "highlight": "#96FACB",
-            "shadow": "#353256"
+            "shadow": "#2F294E"
           }
         },
         {
@@ -491,11 +491,11 @@
           "name": "Cleric Robe",
           "colors": {
             "outline": "#1D1525",
-            "shade": "#A08EA0",
+            "shade": "#A993A9",
             "base": "#E3DBEB",
             "light": "#E4E3F2",
             "highlight": "#F9F1FA",
-            "shadow": "#5F5A67"
+            "shadow": "#56535E"
           }
         },
         {
@@ -505,11 +505,11 @@
           "name": "Arche Green",
           "colors": {
             "outline": "#121521",
-            "shade": "#307548",
+            "shade": "#1E7C3E",
             "base": "#55AC45",
             "light": "#A1D35E",
             "highlight": "#E5FAA7",
-            "shadow": "#303D4C"
+            "shadow": "#292D45"
           }
         },
         {
@@ -519,11 +519,11 @@
           "name": "Hunter Green",
           "colors": {
             "outline": "#11121F",
-            "shade": "#256058",
+            "shade": "#16665B",
             "base": "#358D55",
             "light": "#50AE4A",
             "highlight": "#A9D68D",
-            "shadow": "#262E3E"
+            "shadow": "#212238"
           }
         },
         {
@@ -533,11 +533,11 @@
           "name": "Dhaos Violet",
           "colors": {
             "outline": "#16101D",
-            "shade": "#4B2550",
+            "shade": "#4D1A55",
             "base": "#4E3676",
             "light": "#494C92",
             "highlight": "#AE81B7",
-            "shadow": "#272234"
+            "shadow": "#221D2F"
           }
         },
         {
@@ -547,11 +547,11 @@
           "name": "Fiend Red",
           "colors": {
             "outline": "#201322",
-            "shade": "#80264C",
+            "shade": "#870D40",
             "base": "#BC3434",
             "light": "#E6664D",
             "highlight": "#FABB97",
-            "shadow": "#4B3053"
+            "shadow": "#3C274B"
           }
         },
         {
@@ -561,11 +561,11 @@
           "name": "Toltus Cottage",
           "colors": {
             "outline": "#1F1220",
-            "shade": "#6B302B",
+            "shade": "#71211A",
             "base": "#9D6D3D",
             "light": "#C19D54",
             "highlight": "#EAD49C",
-            "shadow": "#432B45"
+            "shadow": "#36253F"
           }
         },
         {
@@ -575,11 +575,11 @@
           "name": "Temple Stone",
           "colors": {
             "outline": "#241423",
-            "shade": "#90857F",
+            "shade": "#988A83",
             "base": "#D4D0C4",
             "light": "#F2F1E1",
             "highlight": "#FAF9F0",
-            "shadow": "#5D515D"
+            "shadow": "#524A55"
           }
         },
         {
@@ -589,11 +589,11 @@
           "name": "Yggdrasil Green",
           "colors": {
             "outline": "#11131F",
-            "shade": "#2A654E",
+            "shade": "#1A6B4B",
             "base": "#3C9545",
             "light": "#72B753",
             "highlight": "#C1E097",
-            "shadow": "#293342"
+            "shadow": "#23263C"
           }
         },
         {
@@ -603,11 +603,11 @@
           "name": "Forest",
           "colors": {
             "outline": "#10121D",
-            "shade": "#1F503E",
+            "shade": "#12553C",
             "base": "#2C7636",
             "light": "#56923E",
             "highlight": "#9BB778",
-            "shadow": "#202734"
+            "shadow": "#1B1D2F"
           }
         },
         {
@@ -617,11 +617,11 @@
           "name": "Ocean",
           "colors": {
             "outline": "#161321",
-            "shade": "#29217B",
+            "shade": "#130882",
             "base": "#2C64B4",
             "light": "#44C2DC",
             "highlight": "#92FAC3",
-            "shadow": "#2F2C4F"
+            "shadow": "#2A2448"
           }
         },
         {
@@ -631,11 +631,11 @@
           "name": "Snowfield",
           "colors": {
             "outline": "#181525",
-            "shade": "#8C8EA0",
+            "shade": "#9092A9",
             "base": "#D7E3EB",
             "light": "#DFF2F2",
             "highlight": "#EEFAF2",
-            "shadow": "#595967"
+            "shadow": "#53525E"
           }
         },
         {
@@ -645,11 +645,11 @@
           "name": "Chant Glow",
           "colors": {
             "outline": "#251525",
-            "shade": "#A06340",
+            "shade": "#A95627",
             "base": "#EBCB5B",
             "light": "#F2EB6A",
             "highlight": "#FAF2A6",
-            "shadow": "#674167"
+            "shadow": "#53375E"
           }
         },
         {
@@ -659,11 +659,11 @@
           "name": "Dark Wave",
           "colors": {
             "outline": "#140F1B",
-            "shade": "#351A3B",
+            "shade": "#37123E",
             "base": "#362656",
             "light": "#353A6D",
             "highlight": "#86638F",
-            "shadow": "#1F1B29"
+            "shadow": "#1A1624"
           }
         },
         {
@@ -673,11 +673,11 @@
           "name": "Seal Pendant",
           "colors": {
             "outline": "#251524",
-            "shade": "#9B4D2C",
+            "shade": "#A43A0D",
             "base": "#E3B33B",
             "light": "#F2DF4E",
             "highlight": "#FAEC94",
-            "shadow": "#643964"
+            "shadow": "#4E2F5B"
           }
         }
       ]
@@ -694,11 +694,11 @@
           "name": "Brass",
           "colors": {
             "outline": "#231322",
-            "shade": "#85452B",
+            "shade": "#8D3613",
             "base": "#C49C3C",
             "light": "#EFDB56",
             "highlight": "#FAED9B",
-            "shadow": "#563356"
+            "shadow": "#442A4E"
           }
         },
         {
@@ -708,11 +708,11 @@
           "name": "Steam Iron",
           "colors": {
             "outline": "#14101D",
-            "shade": "#444253",
+            "shade": "#444257",
             "base": "#666E7A",
             "light": "#809397",
             "highlight": "#ACBDB4",
-            "shadow": "#2D2C35"
+            "shadow": "#2A2831"
           }
         },
         {
@@ -722,11 +722,11 @@
           "name": "Narshe Coal",
           "colors": {
             "outline": "#120F1B",
-            "shade": "#312E3B",
+            "shade": "#322D3E",
             "base": "#464A56",
             "light": "#5B676D",
             "highlight": "#808F89",
-            "shadow": "#222129"
+            "shadow": "#1E1D24"
           }
         },
         {
@@ -736,11 +736,11 @@
           "name": "Figaro Sandstone",
           "colors": {
             "outline": "#221323",
-            "shade": "#85463A",
+            "shade": "#8D3727",
             "base": "#C49454",
             "light": "#EFCE71",
             "highlight": "#FAE8AB",
-            "shadow": "#553756"
+            "shadow": "#452F4E"
           }
         },
         {
@@ -750,11 +750,11 @@
           "name": "Imperial Magenta",
           "colors": {
             "outline": "#1E1221",
-            "shade": "#752154",
+            "shade": "#7C094F",
             "base": "#AC2D45",
             "light": "#D34346",
             "highlight": "#FAAC94",
-            "shadow": "#432B4C"
+            "shadow": "#362345"
           }
         },
         {
@@ -764,11 +764,11 @@
           "name": "Imperial White",
           "colors": {
             "outline": "#251524",
-            "shade": "#9B8F8C",
+            "shade": "#A49691",
             "base": "#E3DFD7",
             "light": "#F2F0E6",
             "highlight": "#FAF9F3",
-            "shadow": "#645864"
+            "shadow": "#58515B"
           }
         },
         {
@@ -778,11 +778,11 @@
           "name": "Esper Teal",
           "colors": {
             "outline": "#141221",
-            "shade": "#2B4B75",
+            "shade": "#17427C",
             "base": "#3DA4AC",
             "light": "#55D3A8",
             "highlight": "#A1FAAA",
-            "shadow": "#2E314C"
+            "shadow": "#282745"
           }
         },
         {
@@ -792,11 +792,11 @@
           "name": "Terra Green",
           "colors": {
             "outline": "#121320",
-            "shade": "#2B6B5B",
+            "shade": "#1A715B",
             "base": "#3D9D55",
             "light": "#66C154",
             "highlight": "#C0EA9C",
-            "shadow": "#2B3445"
+            "shadow": "#25273F"
           }
         },
         {
@@ -806,11 +806,11 @@
           "name": "Magitek Armor",
           "colors": {
             "outline": "#14101D",
-            "shade": "#3E3850",
+            "shade": "#3D3555",
             "base": "#565E76",
             "light": "#6E8692",
             "highlight": "#9CB7AC",
-            "shadow": "#2A2834"
+            "shadow": "#26242F"
           }
         },
         {
@@ -820,11 +820,11 @@
           "name": "Esper Purple",
           "colors": {
             "outline": "#191220",
-            "shade": "#6D3570",
+            "shade": "#732677",
             "base": "#754DA5",
             "light": "#6A67CA",
             "highlight": "#ECADF5",
-            "shadow": "#383048"
+            "shadow": "#312942"
           }
         },
         {
@@ -848,11 +848,11 @@
           "name": "Holy Light",
           "colors": {
             "outline": "#261525",
-            "shade": "#A58067",
+            "shade": "#AF7D5C",
             "base": "#F3E39B",
             "light": "#F2F1A2",
             "highlight": "#FAF7C8",
-            "shadow": "#6B4F6A"
+            "shadow": "#5A4661"
           }
         },
         {
@@ -862,11 +862,11 @@
           "name": "Thunder",
           "colors": {
             "outline": "#251524",
-            "shade": "#A06D40",
+            "shade": "#A96427",
             "base": "#EBDB5B",
             "light": "#EBF26A",
             "highlight": "#FAF9A6",
-            "shadow": "#674165"
+            "shadow": "#54375E"
           }
         },
         {
@@ -876,11 +876,11 @@
           "name": "Magicite Cyan",
           "colors": {
             "outline": "#161424",
-            "shade": "#3A5B90",
+            "shade": "#245098",
             "base": "#54C4D4",
             "light": "#6CF2CB",
             "highlight": "#A7FAB3",
-            "shadow": "#3A3D5D"
+            "shadow": "#343255"
           }
         },
         {
@@ -890,11 +890,11 @@
           "name": "Wasteland Brown",
           "colors": {
             "outline": "#1E111E",
-            "shade": "#5C382F",
+            "shade": "#613024",
             "base": "#876D45",
             "light": "#A7965C",
             "highlight": "#CEC397",
-            "shadow": "#3B283C"
+            "shadow": "#302336"
           }
         },
         {
@@ -904,11 +904,11 @@
           "name": "Veldt Green",
           "colors": {
             "outline": "#121520",
-            "shade": "#266B33",
+            "shade": "#137125",
             "base": "#559D35",
             "light": "#A0C14B",
             "highlight": "#DEEA95",
-            "shadow": "#2A3745"
+            "shadow": "#23283F"
           }
         }
       ]
